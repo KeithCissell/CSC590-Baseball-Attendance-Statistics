@@ -1,0 +1,2376 @@
+LEAGUE,YEAR,TID,TEAM NAME,PARK,HOME GAMES,ATTENDANCE,ATT/G,LAA
+AL,1901,MLA,Milwaukee Brewers,Lloyd Street Grounds,70,139034,2030,210448
+AL,1902,SLA,St. Louis Browns,Sportsman's Park,73,272283,3890,275807
+AL,1903,SLA,St. Louis Browns,Sportsman's Park,70,380405,5474,293111
+AL,1904,SLA,St. Louis Browns,Sportsman's Park,78,318108,4078,378004
+AL,1905,SLA,St. Louis Browns,Sportsman's Park,79,339112,4348,390094
+AL,1906,SLA,St. Louis Browns,Sportsman's Park,76,389157,5054,367260
+AL,1907,SLA,St. Louis Browns,Sportsman's Park,76,419025,5407,424846
+AL,1908,SLA,St. Louis Browns,Sportsman's Park,78,618947,7986,451421
+AL,1909,SLA,St. Louis Browns,Sportsman's Park,79,366274,4757,467484
+AL,1910,SLA,St. Louis Browns,Sportsman's Park,79,249889,3163,408836
+AL,1911,SLA,St. Louis Browns,Sportsman's Park,78,207984,2737,417439
+AL,1912,SLA,St. Louis Browns,Sportsman's Park,79,214070,2727,407954
+AL,1913,SLA,St. Louis Browns,Sportsman's Park,77,250330,3230,440851
+AL,1914,SLA,St. Louis Browns,Sportsman's Park,81,244714,3078,343449
+AL,1915,SLA,St. Louis Browns,Sportsman's Park,76,150358,1891,304336
+AL,1916,SLA,St. Louis Browns,Sportsman's Park,79,335740,4250,431486
+AL,1917,SLA,St. Louis Browns,Sportsman's Park,78,210486,2706,357357
+AL,1918,SLA,St. Louis Browns,Sportsman's Park,53,122076,1985,213500
+AL,1919,SLA,St. Louis Browns,Sportsman's Park,70,349350,4991,456780
+AL,1920,SLA,St. Louis Browns,Sportsman's Park,78,419311,5446,635538
+AL,1921,SLA,St. Louis Browns,Sportsman's Park,77,355978,4623,577541
+AL,1922,SLA,St. Louis Browns,Sportsman's Park,77,712918,9259,609294
+AL,1923,SLA,St. Louis Browns,Sportsman's Park,78,430296,5588,575324
+AL,1924,SLA,St. Louis Browns,Sportsman's Park,78,533349,6972,656930
+AL,1925,SLA,St. Louis Browns,Sportsman's Park,78,462898,6012,648356
+AL,1926,SLA,St. Louis Browns,Sportsman's Park,79,283986,3664,614073
+AL,1927,SLA,St. Louis Browns,Sportsman's Park,78,247879,3138,576619
+AL,1928,SLA,St. Louis Browns,Sportsman's Park,77,339497,4409,527649
+AL,1929,SLA,St. Louis Browns,Sportsman's Park,77,280697,3645,582809
+AL,1930,SLA,St. Louis Browns,Sportsman's Park,78,152088,1975,585716
+AL,1931,SLA,St. Louis Browns,Sportsman's Park,77,179126,2326,485412
+AL,1932,SLA,St. Louis Browns,Sportsman's Park,75,112558,1462,391654
+AL,1933,SLA,St. Louis Browns,Sportsman's Park,77,88113,1152,365776
+AL,1934,SLA,St. Louis Browns,Sportsman's Park,76,115305,1497,470451
+AL,1935,SLA,St. Louis Browns,Sportsman's Park,76,80922,1044,461001
+AL,1936,SLA,St. Louis Browns,Sportsman's Park,77,93267,1203,522365
+AL,1937,SLA,St. Louis Browns,Sportsman's Park,78,123121,1578,591979
+AL,1938,SLA,St. Louis Browns,Sportsman's Park,77,130417,1672,555711
+AL,1939,SLA,St. Louis Browns,Sportsman's Park,78,109159,1399,533825
+AL,1940,SLA,St. Louis Browns,Sportsman's Park,77,239591,3072,679224
+AL,1941,SLA,St. Louis Browns,Sportsman's Park,79,176240,2245,613995
+AL,1942,SLA,St. Louis Browns,Sportsman's Park,77,255617,3386,525027
+AL,1943,SLA,St. Louis Browns,Sportsman's Park,77,214392,2803,462071
+AL,1944,SLA,St. Louis Browns,Sportsman's Park,77,508644,6606,599770
+AL,1945,SLA,St. Louis Browns,Sportsman's Park,76,482986,6273,697553
+AL,1946,SLA,St. Louis Browns,Sportsman's Park,77,526435,6749,1202648
+AL,1947,SLA,St. Louis Browns,Sportsman's Park,77,320474,4162,1185759
+AL,1948,SLA,St. Louis Browns,Sportsman's Park,76,335564,4330,1393762
+AL,1949,SLA,St. Louis Browns,Sportsman's Park,77,270936,3496,1341331
+AL,1950,SLA,St. Louis Browns,Sportsman's Park,74,247131,3209,1142795
+AL,1951,SLA,St. Louis Browns,Sportsman's Park,77,293790,3815,1110334
+AL,1952,SLA,St. Louis Browns,Sportsman's Park,78,518796,6694,1036737
+AL,1953,SLA,St. Louis Browns,Sportsman's Park,77,297238,3860,870510
+AL,1954,BAL,Baltimore Orioles,Memorial Stadium,77,1060910,13778,990296
+AL,1955,BAL,Baltimore Orioles,Memorial Stadium,79,852039,10924,1117871
+AL,1956,BAL,Baltimore Orioles,Memorial Stadium,77,901201,11704,986710
+AL,1957,BAL,Baltimore Orioles,Memorial Stadium,77,1029581,13371,1024527
+AL,1958,BAL,Baltimore Orioles,Memorial Stadium,78,829991,10779,912004
+AL,1959,BAL,Baltimore Orioles,Memorial Stadium,78,891926,11509,1143682
+AL,1960,BAL,Baltimore Orioles,Memorial Stadium,77,1187849,15427,1153316
+AL,1961,BAL,Baltimore Orioles,Memorial Stadium,82,951089,11670,1016302
+AL,1962,BAL,Baltimore Orioles,Memorial Stadium,82,790254,9756,1001506
+AL,1963,BAL,Baltimore Orioles,Memorial Stadium,81,774343,9560,909485
+AL,1964,BAL,Baltimore Orioles,Memorial Stadium,82,1116215,13696,923515
+AL,1965,BAL,Baltimore Orioles,Memorial Stadium,79,781649,9650,886076
+AL,1966,BAL,Baltimore Orioles,Memorial Stadium,79,1203366,15042,1016674
+AL,1967,BAL,Baltimore Orioles,Memorial Stadium,77,955053,11864,1133692
+AL,1968,BAL,Baltimore Orioles,Memorial Stadium,80,943977,11654,1131739
+AL,1969,BAL,Baltimore Orioles,Memorial Stadium,81,1062069,13112,1011227
+AL,1970,BAL,Baltimore Orioles,Memorial Stadium,81,1057069,13050,1007095
+AL,1971,BAL,Baltimore Orioles,Memorial Stadium,77,1023037,12950,989047
+AL,1972,BAL,Baltimore Orioles,Memorial Stadium,77,899950,11688,953211
+AL,1973,BAL,Baltimore Orioles,Memorial Stadium,81,958667,11835,1119467
+AL,1974,BAL,Baltimore Orioles,Memorial Stadium,81,962572,11884,1087275
+AL,1975,BAL,Baltimore Orioles,Memorial Stadium,77,1002157,12606,1099119
+AL,1976,BAL,Baltimore Orioles,Memorial Stadium,81,1058609,13069,1221484
+AL,1977,BAL,Baltimore Orioles,Memorial Stadium,81,1195769,14854,1402825
+AL,1978,BAL,Baltimore Orioles,Memorial Stadium,81,1051724,13065,1466426
+AL,1979,BAL,Baltimore Orioles,Memorial Stadium,79,1681009,21145,1597999
+AL,1980,BAL,Baltimore Orioles,Memorial Stadium,81,1797438,22191,1563575
+AL,1981,BAL,Baltimore Orioles,Memorial Stadium,55,1024247,19509,1004713
+AL,1982,BAL,Baltimore Orioles,Memorial Stadium,82,1613031,19792,1648604
+AL,1983,BAL,Baltimore Orioles,Memorial Stadium,81,2042071,25211,1713647
+AL,1984,BAL,Baltimore Orioles,Memorial Stadium,81,2045784,25257,1711531
+AL,1985,BAL,Baltimore Orioles,Memorial Stadium,81,2132387,26489,1752302
+AL,1986,BAL,Baltimore Orioles,Memorial Stadium,79,1973176,24360,1798052
+AL,1987,BAL,Baltimore Orioles,Memorial Stadium,82,1835692,22663,1948382
+AL,1988,BAL,Baltimore Orioles,Memorial Stadium,80,1660738,20630,2035688
+AL,1989,BAL,Baltimore Orioles,Memorial Stadium,81,2535208,31299,2132090
+AL,1990,BAL,Baltimore Orioles,Memorial Stadium,80,2415189,30002,2166590
+AL,1991,BAL,Baltimore Orioles,Memorial Stadium,81,2552753,31515,2294113
+AL,1992,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,3567819,44047,2268524
+AL,1993,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,3644965,45000,2380955
+AL,1994,BAL,Baltimore Orioles,Oriole Park at Camden Yards,55,2535359,45274,1728728
+AL,1995,BAL,Baltimore Orioles,Oriole Park at Camden Yards,72,3098475,43034,1811356
+AL,1996,BAL,Baltimore Orioles,Oriole Park at Camden Yards,82,3646950,44475,2122721
+AL,1997,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,3711132,45816,2234523
+AL,1998,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,3684650,45490,2298169
+AL,1999,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,3432099,42372,2286874
+AL,2000,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,3153397,40704,2262557
+AL,2001,BAL,Baltimore Orioles,Oriole Park at Camden Yards,80,3094841,38686,2346071
+AL,2002,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2682917,33122,2207891
+AL,2003,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2454523,30302,2191745
+AL,2004,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2744013,34300,2340422
+AL,2005,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2624804,32404,2360452
+AL,2006,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2153250,26583,2458741
+AL,2007,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2164822,27060,2527968
+AL,2008,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,1950075,25000,2464986
+AL,2009,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,1907163,23545,2305178
+AL,2010,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,1733019,21395,2289427
+AL,2011,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,1755461,21672,2333812
+AL,2012,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2102240,26610,2384555
+AL,2013,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2357551,29106,2306065
+AL,2014,BAL,Baltimore Orioles,Oriole Park at Camden Yards,81,2464473,30426,2299409
+AL,1901,BOS,Boston Americans,Huntington Avenue Baseball Grounds,69,289448,4257,210448
+AL,1902,BOS,Boston Americans,Huntington Avenue Baseball Grounds,71,348567,5052,275807
+AL,1903,BOS,Boston Americans,Huntington Avenue Baseball Grounds,70,379338,5381,293111
+AL,1904,BOS,Boston Americans,Huntington Avenue Baseball Grounds,81,623295,7940,378004
+AL,1905,BOS,Boston Americans,Huntington Avenue Baseball Grounds,77,468828,6128,390094
+AL,1906,BOS,Boston Americans,Huntington Avenue Baseball Grounds,77,410209,5293,367260
+AL,1907,BOS,Boston Americans,Huntington Avenue Baseball Grounds,78,436777,5636,424846
+AL,1908,BOS,Boston Red Sox,Huntington Avenue Baseball Grounds,77,473048,6104,451421
+AL,1909,BOS,Boston Red Sox,Huntington Avenue Baseball Grounds,75,668965,8802,467484
+AL,1910,BOS,Boston Red Sox,Huntington Avenue Baseball Grounds,80,584619,7400,408836
+AL,1911,BOS,Boston Red Sox,Huntington Avenue Baseball Grounds,76,503961,6588,417439
+AL,1912,BOS,Boston Red Sox,Fenway Park,78,597096,7754,407954
+AL,1913,BOS,Boston Red Sox,Fenway Park,75,437194,5791,440851
+AL,1914,BOS,Boston Red Sox,Fenway Park,79,481359,6055,343449
+AL,1915,BOS,Boston Red Sox,Fenway Park,76,539885,6966,304336
+AL,1916,BOS,Boston Red Sox,Fenway Park,78,496397,6364,431486
+AL,1917,BOS,Boston Red Sox,Fenway Park,80,387856,4941,357357
+AL,1918,BOS,Boston Red Sox,Fenway Park,70,249513,3961,213500
+AL,1919,BOS,Boston Red Sox,Fenway Park,66,417291,6048,456780
+AL,1920,BOS,Boston Red Sox,Fenway Park,76,402445,5227,635538
+AL,1921,BOS,Boston Red Sox,Fenway Park,77,279273,3627,577541
+AL,1922,BOS,Boston Red Sox,Fenway Park,73,259184,3366,609294
+AL,1923,BOS,Boston Red Sox,Fenway Park,78,229688,2983,575324
+AL,1924,BOS,Boston Red Sox,Fenway Park,77,448556,5714,656930
+AL,1925,BOS,Boston Red Sox,Fenway Park,75,267782,3523,648356
+AL,1926,BOS,Boston Red Sox,Fenway Park,77,285155,3703,614073
+AL,1927,BOS,Boston Red Sox,Fenway Park,78,305275,3965,576619
+AL,1928,BOS,Boston Red Sox,Fenway Park,74,396920,5155,527649
+AL,1929,BOS,Boston Red Sox,Fenway Park,78,394620,5092,582809
+AL,1930,BOS,Boston Red Sox,Fenway Park,76,444045,5767,585716
+AL,1931,BOS,Boston Red Sox,Fenway Park,80,350975,4588,485412
+AL,1932,BOS,Boston Red Sox,Fenway Park,77,182150,2366,391654
+AL,1933,BOS,Boston Red Sox,Fenway Park,72,268715,3607,365776
+AL,1934,BOS,Boston Red Sox,Fenway Park,77,610640,7982,470451
+AL,1935,BOS,Boston Red Sox,Fenway Park,79,558568,7254,461001
+AL,1936,BOS,Boston Red Sox,Fenway Park,77,626895,8089,522365
+AL,1937,BOS,Boston Red Sox,Fenway Park,74,559659,7268,591979
+AL,1938,BOS,Boston Red Sox,Fenway Park,75,646459,8619,555711
+AL,1939,BOS,Boston Red Sox,Fenway Park,75,573070,7540,533825
+AL,1940,BOS,Boston Red Sox,Fenway Park,79,716234,9302,679224
+AL,1941,BOS,Boston Red Sox,Fenway Park,77,718497,9271,613995
+AL,1942,BOS,Boston Red Sox,Fenway Park,77,730340,9610,525027
+AL,1943,BOS,Boston Red Sox,Fenway Park,77,358275,4623,462071
+AL,1944,BOS,Boston Red Sox,Fenway Park,78,506975,6500,599770
+AL,1945,BOS,Boston Red Sox,Fenway Park,78,603794,7692,697553
+AL,1946,BOS,Boston Red Sox,Fenway Park,78,1416944,18166,1202648
+AL,1947,BOS,Boston Red Sox,Fenway Park,81,1427315,18182,1185759
+AL,1948,BOS,Boston Red Sox,Fenway Park,78,1558798,20114,1393762
+AL,1949,BOS,Boston Red Sox,Fenway Park,77,1596650,20602,1341331
+AL,1950,BOS,Boston Red Sox,Fenway Park,77,1344080,17456,1142795
+AL,1951,BOS,Boston Red Sox,Fenway Park,75,1312282,17043,1110334
+AL,1952,BOS,Boston Red Sox,Fenway Park,77,1115750,14490,1036737
+AL,1953,BOS,Boston Red Sox,Fenway Park,76,1026133,13414,870510
+AL,1954,BOS,Boston Red Sox,Fenway Park,79,931127,11938,990296
+AL,1955,BOS,Boston Red Sox,Fenway Park,78,1203200,15626,1117871
+AL,1956,BOS,Boston Red Sox,Fenway Park,78,1137158,14673,986710
+AL,1957,BOS,Boston Red Sox,Fenway Park,77,1181087,15339,1024527
+AL,1958,BOS,Boston Red Sox,Fenway Park,77,1077047,13897,912004
+AL,1959,BOS,Boston Red Sox,Fenway Park,77,984102,12781,1143682
+AL,1960,BOS,Boston Red Sox,Fenway Park,77,1129866,14674,1153316
+AL,1961,BOS,Boston Red Sox,Fenway Park,82,850589,10437,1016302
+AL,1962,BOS,Boston Red Sox,Fenway Park,79,733080,9164,1001506
+AL,1963,BOS,Boston Red Sox,Fenway Park,80,942642,11710,909485
+AL,1964,BOS,Boston Red Sox,Fenway Park,81,883276,10905,923515
+AL,1965,BOS,Boston Red Sox,Fenway Park,81,652201,8052,886076
+AL,1966,BOS,Boston Red Sox,Fenway Park,81,811172,10014,1016674
+AL,1967,BOS,Boston Red Sox,Fenway Park,81,1727832,21331,1133692
+AL,1968,BOS,Boston Red Sox,Fenway Park,81,1940788,23960,1131739
+AL,1969,BOS,Boston Red Sox,Fenway Park,81,1833246,22633,1011227
+AL,1970,BOS,Boston Red Sox,Fenway Park,81,1595278,19695,1007095
+AL,1971,BOS,Boston Red Sox,Fenway Park,80,1678732,20725,989047
+AL,1972,BOS,Boston Red Sox,Fenway Park,78,1441718,18603,953211
+AL,1973,BOS,Boston Red Sox,Fenway Park,81,1481002,18284,1119467
+AL,1974,BOS,Boston Red Sox,Fenway Park,81,1556411,19215,1087275
+AL,1975,BOS,Boston Red Sox,Fenway Park,81,1748587,21857,1099119
+AL,1976,BOS,Boston Red Sox,Fenway Park,81,1895846,23406,1221484
+AL,1977,BOS,Boston Red Sox,Fenway Park,80,2074549,25771,1402825
+AL,1978,BOS,Boston Red Sox,Fenway Park,82,2320643,28474,1466426
+AL,1979,BOS,Boston Red Sox,Fenway Park,80,2353114,29414,1597999
+AL,1980,BOS,Boston Red Sox,Fenway Park,81,1956092,24451,1563575
+AL,1981,BOS,Boston Red Sox,Fenway Park,53,1060379,19637,1004713
+AL,1982,BOS,Boston Red Sox,Fenway Park,81,1950124,24076,1648604
+AL,1983,BOS,Boston Red Sox,Fenway Park,81,1782285,22004,1713647
+AL,1984,BOS,Boston Red Sox,Fenway Park,81,1661618,20514,1711531
+AL,1985,BOS,Boston Red Sox,Fenway Park,81,1786633,21922,1752302
+AL,1986,BOS,Boston Red Sox,Fenway Park,81,2147641,26679,1798052
+AL,1987,BOS,Boston Red Sox,Fenway Park,80,2231551,27550,1948382
+AL,1988,BOS,Boston Red Sox,Fenway Park,81,2464851,30430,2035688
+AL,1989,BOS,Boston Red Sox,Fenway Park,81,2510012,30988,2132090
+AL,1990,BOS,Boston Red Sox,Fenway Park,81,2528986,31222,2166590
+AL,1991,BOS,Boston Red Sox,Fenway Park,81,2562435,31635,2294113
+AL,1992,BOS,Boston Red Sox,Fenway Park,81,2468574,30476,2268524
+AL,1993,BOS,Boston Red Sox,Fenway Park,81,2422021,29901,2380955
+AL,1994,BOS,Boston Red Sox,Fenway Park,64,1775818,30884,1728728
+AL,1995,BOS,Boston Red Sox,Fenway Park,72,2164410,30061,1811356
+AL,1996,BOS,Boston Red Sox,Fenway Park,81,2315231,28583,2122721
+AL,1997,BOS,Boston Red Sox,Fenway Park,81,2226136,27483,2234523
+AL,1998,BOS,Boston Red Sox,Fenway Park,81,2314704,28577,2298169
+AL,1999,BOS,Boston Red Sox,Fenway Park,81,2446162,30201,2286874
+AL,2000,BOS,Boston Red Sox,Fenway Park,81,2585895,31925,2262557
+AL,2001,BOS,Boston Red Sox,Fenway Park,81,2625333,32412,2346071
+AL,2002,BOS,Boston Red Sox,Fenway Park,81,2650063,32717,2207891
+AL,2003,BOS,Boston Red Sox,Fenway Park,81,2724165,33631,2191745
+AL,2004,BOS,Boston Red Sox,Fenway Park,81,2837304,35028,2340422
+AL,2005,BOS,Boston Red Sox,Fenway Park,81,2813354,35166,2360452
+AL,2006,BOS,Boston Red Sox,Fenway Park,81,2930768,36182,2458741
+AL,2007,BOS,Boston Red Sox,Fenway Park,81,2970755,36675,2527968
+AL,2008,BOS,Boston Red Sox,Fenway Park,81,3048250,37632,2464986
+AL,2009,BOS,Boston Red Sox,Fenway Park,81,3062699,37811,2305178
+AL,2010,BOS,Boston Red Sox,Fenway Park,81,3046445,37610,2289427
+AL,2011,BOS,Boston Red Sox,Fenway Park,81,3054001,37704,2333812
+AL,2012,BOS,Boston Red Sox,Fenway Park,81,3043003,37567,2384555
+AL,2013,BOS,Boston Red Sox,Fenway Park,81,2833333,34979,2306065
+AL,2014,BOS,Boston Red Sox,Fenway Park,81,2956089,36495,2299409
+AL,1901,CHA,Chicago White Stockings,South Side Park,71,354350,5173,210448
+AL,1902,CHA,Chicago White Sox,South Side Park,72,337898,4897,275807
+AL,1903,CHA,Chicago White Sox,South Side Park,70,286183,4148,293111
+AL,1904,CHA,Chicago White Sox,South Side Park,78,557123,7143,378004
+AL,1905,CHA,Chicago White Sox,South Side Park,82,687419,8702,390094
+AL,1906,CHA,Chicago White Sox,South Side Park,79,585202,7600,367260
+AL,1907,CHA,Chicago White Sox,South Side Park,79,666307,8488,424846
+AL,1908,CHA,Chicago White Sox,South Side Park,78,636096,8155,451421
+AL,1909,CHA,Chicago White Sox,South Side Park,81,478400,6018,467484
+AL,1910,CHA,Chicago White Sox,South Side Park,79,552084,7078,408836
+AL,1911,CHA,Chicago White Sox,Comiskey Park,78,583208,7574,417439
+AL,1912,CHA,Chicago White Sox,Comiskey Park,78,602241,7623,407954
+AL,1913,CHA,Chicago White Sox,Comiskey Park,77,644501,8425,440851
+AL,1914,CHA,Chicago White Sox,Comiskey Park,81,469290,5978,343449
+AL,1915,CHA,Chicago White Sox,Comiskey Park,79,539461,6961,304336
+AL,1916,CHA,Chicago White Sox,Comiskey Park,77,679923,8773,431486
+AL,1917,CHA,Chicago White Sox,Comiskey Park,79,684521,8776,357357
+AL,1918,CHA,Chicago White Sox,Comiskey Park,56,195081,3147,213500
+AL,1919,CHA,Chicago White Sox,Comiskey Park,70,627186,8960,456780
+AL,1920,CHA,Chicago White Sox,Comiskey Park,77,833492,10825,635538
+AL,1921,CHA,Chicago White Sox,Comiskey Park,77,543650,7060,577541
+AL,1922,CHA,Chicago White Sox,Comiskey Park,77,602860,7779,609294
+AL,1923,CHA,Chicago White Sox,Comiskey Park,75,573778,7356,575324
+AL,1924,CHA,Chicago White Sox,Comiskey Park,77,606658,7879,656930
+AL,1925,CHA,Chicago White Sox,Comiskey Park,77,832231,10808,648356
+AL,1926,CHA,Chicago White Sox,Comiskey Park,79,710339,9166,614073
+AL,1927,CHA,Chicago White Sox,Comiskey Park,75,614423,8032,576619
+AL,1928,CHA,Chicago White Sox,Comiskey Park,78,494152,6376,527649
+AL,1929,CHA,Chicago White Sox,Comiskey Park,76,426795,5616,582809
+AL,1930,CHA,Chicago White Sox,Comiskey Park,78,406123,5274,585716
+AL,1931,CHA,Chicago White Sox,Comiskey Park,77,403550,5174,485412
+AL,1932,CHA,Chicago White Sox,Comiskey Park,77,233198,3068,391654
+AL,1933,CHA,Chicago White Sox,Comiskey Park,77,397789,5269,365776
+AL,1934,CHA,Chicago White Sox,Comiskey Park,75,236559,3092,470451
+AL,1935,CHA,Chicago White Sox,Comiskey Park,77,470281,6147,461001
+AL,1936,CHA,Chicago White Sox,Comiskey Park,75,440810,5762,522365
+AL,1937,CHA,Chicago White Sox,Comiskey Park,77,589245,7653,591979
+AL,1938,CHA,Chicago White Sox,Comiskey Park,73,338278,4541,555711
+AL,1939,CHA,Chicago White Sox,Comiskey Park,77,594104,7666,533825
+AL,1940,CHA,Chicago White Sox,Comiskey Park,78,660336,8520,679224
+AL,1941,CHA,Chicago White Sox,Comiskey Park,79,677077,8680,613995
+AL,1942,CHA,Chicago White Sox,Comiskey Park,70,425734,5753,525027
+AL,1943,CHA,Chicago White Sox,Comiskey Park,76,508962,6567,462071
+AL,1944,CHA,Chicago White Sox,Comiskey Park,77,563539,7319,599770
+AL,1945,CHA,Chicago White Sox,Comiskey Park,74,657981,8773,697553
+AL,1946,CHA,Chicago White Sox,Comiskey Park,79,983403,12689,1202648
+AL,1947,CHA,Chicago White Sox,Comiskey Park,75,876948,11315,1185759
+AL,1948,CHA,Chicago White Sox,Comiskey Park,76,777844,10102,1393762
+AL,1949,CHA,Chicago White Sox,Comiskey Park,77,937151,12171,1341331
+AL,1950,CHA,Chicago White Sox,Comiskey Park,79,781330,10017,1142795
+AL,1951,CHA,Chicago White Sox,Comiskey Park,78,1328234,17139,1110334
+AL,1952,CHA,Chicago White Sox,Comiskey Park,79,1231675,15791,1036737
+AL,1953,CHA,Chicago White Sox,Comiskey Park,78,1191353,15274,870510
+AL,1954,CHA,Chicago White Sox,Comiskey Park,78,1231629,15892,990296
+AL,1955,CHA,Chicago White Sox,Comiskey Park,77,1175684,15170,1117871
+AL,1956,CHA,Chicago White Sox,Comiskey Park,77,1000090,12988,986710
+AL,1957,CHA,Chicago White Sox,Comiskey Park,77,1135668,14654,1024527
+AL,1958,CHA,Chicago White Sox,Comiskey Park,77,797451,10290,912004
+AL,1959,CHA,Chicago White Sox,Comiskey Park,78,1423144,18245,1143682
+AL,1960,CHA,Chicago White Sox,Comiskey Park,77,1644460,21357,1153316
+AL,1961,CHA,Chicago White Sox,Comiskey Park,81,1146019,14062,1016302
+AL,1962,CHA,Chicago White Sox,Comiskey Park,81,1131562,13970,1001506
+AL,1963,CHA,Chicago White Sox,Comiskey Park,82,1158848,14307,909485
+AL,1964,CHA,Chicago White Sox,Comiskey Park,81,1250053,15433,923515
+AL,1965,CHA,Chicago White Sox,Comiskey Park,81,1130519,13957,886076
+AL,1966,CHA,Chicago White Sox,Comiskey Park,81,990016,12148,1016674
+AL,1967,CHA,Chicago White Sox,Comiskey Park,82,985634,12168,1133692
+AL,1968,CHA,Chicago White Sox,Comiskey Park,81,539478,7493,1131739
+AL,1969,CHA,Chicago White Sox,Comiskey Park,81,391335,6633,1011227
+AL,1970,CHA,Chicago White Sox,Comiskey Park,84,495355,6115,1007095
+AL,1971,CHA,Chicago White Sox,Comiskey Park,81,833891,10295,989047
+AL,1972,CHA,Chicago White Sox,Comiskey Park,78,1177318,15290,953211
+AL,1973,CHA,Chicago White Sox,Comiskey Park,81,1302527,16081,1119467
+AL,1974,CHA,Chicago White Sox,Comiskey Park,82,1149596,14105,1087275
+AL,1975,CHA,Chicago White Sox,Comiskey Park,81,750802,9327,1099119
+AL,1976,CHA,Chicago White Sox,Comiskey Park,80,914945,11366,1221484
+AL,1977,CHA,Chicago White Sox,Comiskey Park,81,1657135,20458,1402825
+AL,1978,CHA,Chicago White Sox,Comiskey Park,80,1491100,18523,1466426
+AL,1979,CHA,Chicago White Sox,Comiskey Park,79,1280702,16009,1597999
+AL,1980,CHA,Chicago White Sox,Comiskey Park,81,1200365,14819,1563575
+AL,1981,CHA,Chicago White Sox,Comiskey Park,49,946651,17861,1004713
+AL,1982,CHA,Chicago White Sox,Comiskey Park,80,1567787,19355,1648604
+AL,1983,CHA,Chicago White Sox,Comiskey Park,81,2132821,26331,1713647
+AL,1984,CHA,Chicago White Sox,Comiskey Park,81,2136988,26383,1711531
+AL,1985,CHA,Chicago White Sox,Comiskey Park,81,1669888,20489,1752302
+AL,1986,CHA,Chicago White Sox,Comiskey Park,81,1424313,17584,1798052
+AL,1987,CHA,Chicago White Sox,Comiskey Park,81,1208060,14914,1948382
+AL,1988,CHA,Chicago White Sox,Comiskey Park,81,1115749,13860,2035688
+AL,1989,CHA,Chicago White Sox,Comiskey Park,80,1045651,12989,2132090
+AL,1990,CHA,Chicago White Sox,Comiskey Park,80,2002357,24720,2166590
+AL,1991,CHA,Chicago White Sox,Comiskey Park,81,2934154,36224,2294113
+AL,1992,CHA,Chicago White Sox,Comiskey Park,82,2681156,33101,2268524
+AL,1993,CHA,Chicago White Sox,Comiskey Park,81,2581091,31865,2380955
+AL,1994,CHA,Chicago White Sox,Comiskey Park,53,1697398,30042,1728728
+AL,1995,CHA,Chicago White Sox,Comiskey Park,72,1609773,22204,1811356
+AL,1996,CHA,Chicago White Sox,Comiskey Park,81,1676403,20569,2122721
+AL,1997,CHA,Chicago White Sox,Comiskey Park,81,1864782,23165,2234523
+AL,1998,CHA,Chicago White Sox,Comiskey Park,81,1391146,17175,2298169
+AL,1999,CHA,Chicago White Sox,Comiskey Park,81,1349151,16656,2286874
+AL,2000,CHA,Chicago White Sox,Comiskey Park,81,1947799,24047,2262557
+AL,2001,CHA,Chicago White Sox,Comiskey Park,81,1766172,22077,2346071
+AL,2002,CHA,Chicago White Sox,Comiskey Park,81,1676804,20701,2207891
+AL,2003,CHA,Chicago White Sox,U.S. Cellular Field,81,1939524,23944,2191745
+AL,2004,CHA,Chicago White Sox,U.S. Cellular Field,81,1930537,24437,2340422
+AL,2005,CHA,Chicago White Sox,U.S. Cellular Field,81,2342834,28923,2360452
+AL,2006,CHA,Chicago White Sox,U.S. Cellular Field,81,2957414,36511,2458741
+AL,2007,CHA,Chicago White Sox,U.S. Cellular Field,81,2684395,33140,2527968
+AL,2008,CHA,Chicago White Sox,U.S. Cellular Field,82,2501103,30877,2464986
+AL,2009,CHA,Chicago White Sox,U.S. Cellular Field,81,2284164,28199,2305178
+AL,2010,CHA,Chicago White Sox,U.S. Cellular Field,81,2194378,27091,2289427
+AL,2011,CHA,Chicago White Sox,U.S. Cellular Field,81,2001117,24705,2333812
+AL,2012,CHA,Chicago White Sox,U.S. Cellular Field,81,1965955,24271,2384555
+AL,2013,CHA,Chicago White Sox,U.S. Cellular Field,81,1768413,21832,2306065
+AL,2014,CHA,Chicago White Sox,U.S. Cellular Field,81,1650821,20381,2299409
+AL,1902,CLE,Cleveland Bronchos,League Park,65,131380,1904,210448
+AL,1903,CLE,Cleveland Naps,League Park,74,311280,4449,293111
+AL,1904,CLE,Cleveland Naps,League Park,78,264749,3438,378004
+AL,1905,CLE,Cleveland Naps,League Park,77,316306,4081,390094
+AL,1906,CLE,Cleveland Naps,League Park,79,325733,4149,367260
+AL,1907,CLE,Cleveland Naps,League Park,82,382046,4836,424846
+AL,1908,CLE,Cleveland Naps,League Park,78,422262,5379,451421
+AL,1909,CLE,Cleveland Naps,League Park,77,354627,4576,467484
+AL,1910,CLE,Cleveland Naps,League Park,80,293456,3645,408836
+AL,1911,CLE,Cleveland Naps,League Park,77,406296,5209,417439
+AL,1912,CLE,Cleveland Naps,League Park,77,336844,4346,407954
+AL,1913,CLE,Cleveland Naps,League Park,80,541000,6981,440851
+AL,1914,CLE,Cleveland Naps,League Park,79,185997,2369,343444
+AL,1915,CLE,Cleveland Indians,League Park,77,159285,2069,304336
+AL,1916,CLE,Cleveland Indians,League Park,78,492106,6269,431486
+AL,1917,CLE,Cleveland Indians,League Park,78,477298,6119,357357
+AL,1918,CLE,Cleveland Indians,League Park,62,295515,4582,213500
+AL,1919,CLE,Cleveland Indians,League Park,69,538135,7743,456780
+AL,1920,CLE,Cleveland Indians,League Park,78,912832,11855,635538
+AL,1921,CLE,Cleveland Indians,League Park,77,748705,9723,577541
+AL,1922,CLE,Cleveland Indians,League Park,80,528145,6815,609294
+AL,1923,CLE,Cleveland Indians,League Park,78,558856,7305,575324
+AL,1924,CLE,Cleveland Indians,League Park,75,481905,6299,656930
+AL,1925,CLE,Cleveland Indians,League Park,77,419005,5407,648356
+AL,1926,CLE,Cleveland Indians,League Park,80,627426,8148,614073
+AL,1927,CLE,Cleveland Indians,League Park,77,373138,4878,576619
+AL,1928,CLE,Cleveland Indians,League Park,77,375907,4850,527649
+AL,1929,CLE,Cleveland Indians,League Park,76,536210,7055,582809
+AL,1930,CLE,Cleveland Indians,League Park,77,528657,6866,585716
+AL,1931,CLE,Cleveland Indians,League Park,76,483027,6233,485412
+AL,1932,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,468953,6130,391654
+AL,1933,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,387936,5138,365776
+AL,1934,CLE,Cleveland Indians,League Park / Cleveland Stadium,78,391338,5082,470451
+AL,1935,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,397615,5098,461001
+AL,1936,CLE,Cleveland Indians,League Park / Cleveland Stadium,81,500391,6374,522365
+AL,1937,CLE,Cleveland Indians,League Park / Cleveland Stadium,78,564849,7242,591979
+AL,1938,CLE,Cleveland Indians,League Park / Cleveland Stadium,76,652006,8523,555711
+AL,1939,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,563926,7324,533825
+AL,1940,CLE,Cleveland Indians,League Park / Cleveland Stadium,82,902576,11646,679224
+AL,1941,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,745948,9625,613995
+AL,1942,CLE,Cleveland Indians,League Park / Cleveland Stadium,80,459447,5890,525027
+AL,1943,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,438894,5737,462071
+AL,1944,CLE,Cleveland Indians,League Park / Cleveland Stadium,78,475272,6133,599770
+AL,1945,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,558182,7594,697553
+AL,1946,CLE,Cleveland Indians,League Park / Cleveland Stadium,77,1057289,13555,1202648
+AL,1947,CLE,Cleveland Indians,Cleveland Stadium,78,1521978,19388,1185759
+AL,1948,CLE,Cleveland Indians,Cleveland Stadium,79,2620627,33598,1393762
+AL,1949,CLE,Cleveland Indians,Cleveland Stadium,77,2233771,29010,1341331
+AL,1950,CLE,Cleveland Indians,Cleveland Stadium,77,1727464,22290,1142795
+AL,1951,CLE,Cleveland Indians,Cleveland Stadium,77,1704984,22000,1110334
+AL,1952,CLE,Cleveland Indians,Cleveland Stadium,77,1444607,18640,1036737
+AL,1953,CLE,Cleveland Indians,Cleveland Stadium,78,1069176,13796,870510
+AL,1954,CLE,Cleveland Indians,Cleveland Stadium,77,1335472,17121,990296
+AL,1955,CLE,Cleveland Indians,Cleveland Stadium,77,1221780,15867,1117871
+AL,1956,CLE,Cleveland Indians,Cleveland Stadium,77,865467,11167,986710
+AL,1957,CLE,Cleveland Indians,Cleveland Stadium,77,722256,9441,1024527
+AL,1958,CLE,Cleveland Indians,Cleveland Stadium,76,663805,8677,912004
+AL,1959,CLE,Cleveland Indians,Cleveland Stadium,77,1497976,19454,1143682
+AL,1960,CLE,Cleveland Indians,Cleveland Stadium,77,950985,12350,1153316
+AL,1961,CLE,Cleveland Indians,Cleveland Stadium,81,725547,9013,1016302
+AL,1962,CLE,Cleveland Indians,Cleveland Stadium,81,716076,8840,1001506
+AL,1963,CLE,Cleveland Indians,Cleveland Stadium,81,562507,6945,909485
+AL,1964,CLE,Cleveland Indians,Cleveland Stadium,82,653293,7967,923515
+AL,1965,CLE,Cleveland Indians,Cleveland Stadium,82,934786,11541,886076
+AL,1966,CLE,Cleveland Indians,Cleveland Stadium,81,903359,11153,1016674
+AL,1967,CLE,Cleveland Indians,Cleveland Stadium,81,662980,8185,1133692
+AL,1968,CLE,Cleveland Indians,Cleveland Stadium,81,857994,10593,1131739
+AL,1969,CLE,Cleveland Indians,Cleveland Stadium,81,619970,7701,1011227
+AL,1970,CLE,Cleveland Indians,Cleveland Stadium,81,729752,9009,1007095
+AL,1971,CLE,Cleveland Indians,Cleveland Stadium,81,591361,7301,989047
+AL,1972,CLE,Cleveland Indians,Cleveland Stadium,77,626354,8030,953211
+AL,1973,CLE,Cleveland Indians,Cleveland Stadium,81,615107,7594,1119467
+AL,1974,CLE,Cleveland Indians,Cleveland Stadium,81,1114262,13756,1087275
+AL,1975,CLE,Cleveland Indians,Cleveland Stadium,80,977039,12290,1099119
+AL,1976,CLE,Cleveland Indians,Cleveland Stadium,79,948776,11934,1221484
+AL,1977,CLE,Cleveland Indians,Cleveland Stadium,81,900365,11185,1402825
+AL,1978,CLE,Cleveland Indians,Cleveland Stadium,78,800584,10070,1466426
+AL,1979,CLE,Cleveland Indians,Cleveland Stadium,81,1011644,12567,1597999
+AL,1980,CLE,Cleveland Indians,Cleveland Stadium,79,1033827,12923,1563575
+AL,1981,CLE,Cleveland Indians,Cleveland Stadium,54,661395,12843,1004713
+AL,1982,CLE,Cleveland Indians,Cleveland Stadium,81,1044021,12889,1648604
+AL,1983,CLE,Cleveland Indians,Cleveland Stadium,81,768941,9493,1713647
+AL,1984,CLE,Cleveland Indians,Cleveland Stadium,81,734079,9007,1711531
+AL,1985,CLE,Cleveland Indians,Cleveland Stadium,81,655181,8089,1752302
+AL,1986,CLE,Cleveland Indians,Cleveland Stadium,81,1471805,18059,1798052
+AL,1987,CLE,Cleveland Indians,Cleveland Stadium,81,1077898,13307,1948382
+AL,1988,CLE,Cleveland Indians,Cleveland Stadium,81,1411610,17427,2035688
+AL,1989,CLE,Cleveland Indians,Cleveland Stadium,81,1285542,15871,2132090
+AL,1990,CLE,Cleveland Indians,Cleveland Stadium,81,1225240,15126,2166590
+AL,1991,CLE,Cleveland Indians,Cleveland Stadium,82,1051863,12986,2294113
+AL,1992,CLE,Cleveland Indians,Cleveland Stadium,81,1224094,15112,2268524
+AL,1993,CLE,Cleveland Indians,Cleveland Stadium,81,2177908,26888,2380955
+AL,1994,CLE,Cleveland Indians,Jacobs Field,51,1995174,35313,1728728
+AL,1995,CLE,Cleveland Indians,Jacobs Field,72,2842745,39483,1811356
+AL,1996,CLE,Cleveland Indians,Jacobs Field,80,3318174,41220,2122721
+AL,1997,CLE,Cleveland Indians,Jacobs Field,81,3404750,42295,2234523
+AL,1998,CLE,Cleveland Indians,Jacobs Field,81,3467299,42806,2298169
+AL,1999,CLE,Cleveland Indians,Jacobs Field,81,3468436,42820,2286874
+AL,2000,CLE,Cleveland Indians,Jacobs Field,81,3456278,42670,2262557
+AL,2001,CLE,Cleveland Indians,Jacobs Field,80,3182523,39782,2346071
+AL,2002,CLE,Cleveland Indians,Jacobs Field,81,2616940,32308,2207891
+AL,2003,CLE,Cleveland Indians,Jacobs Field,81,1730002,21358,2191745
+AL,2004,CLE,Cleveland Indians,Jacobs Field,81,1814401,22400,2340422
+AL,2005,CLE,Cleveland Indians,Jacobs Field,81,1973185,24664,2360452
+AL,2006,CLE,Cleveland Indians,Jacobs Field,81,1998070,24667,2458741
+AL,2007,CLE,Cleveland Indians,Jacobs Field,80,2275911,28448,2527968
+AL,2008,CLE,Cleveland Indians,Progressive Field,81,2169760,27122,2464986
+AL,2009,CLE,Cleveland Indians,Progressive Field,81,1766242,22357,2305178
+AL,2010,CLE,Cleveland Indians,Progressive Field,81,1391644,17181,2289427
+AL,2011,CLE,Cleveland Indians,Progressive Field,81,1840835,22726,2333812
+AL,2012,CLE,Cleveland Indians,Progressive Field,81,1603596,19797,2384555
+AL,2013,CLE,Cleveland Indians,Progressive Field,81,1572926,19419,2306065
+AL,2014,CLE,Cleveland Indians,Progressive Field,81,1437393,17746,2299409
+AL,1901,DET,Detroit Tigers,Bennett Park,70,259430,3815,210448
+AL,1902,DET,Detroit Tigers,Bennett Park,67,189469,2766,275807
+AL,1903,DET,Detroit Tigers,Bennett Park,65,224523,3278,293111
+AL,1904,DET,Detroit Tigers,Bennett Park,79,177796,2195,378004
+AL,1905,DET,Detroit Tigers,Bennett Park,76,193384,2511,390094
+AL,1906,DET,Detroit Tigers,Bennett Park,78,174043,2305,367260
+AL,1907,DET,Detroit Tigers,Bennett Park,79,297079,3883,424846
+AL,1908,DET,Detroit Tigers,Bennett Park,78,436199,5665,451421
+AL,1909,DET,Detroit Tigers,Bennett Park,78,490490,6209,467484
+AL,1910,DET,Detroit Tigers,Bennett Park,78,391288,5049,408836
+AL,1911,DET,Detroit Tigers,Bennett Park,76,484988,6299,417439
+AL,1912,DET,Detroit Tigers,Navin Field,76,402870,5232,407954
+AL,1913,DET,Detroit Tigers,Navin Field,76,398502,5209,440851
+AL,1914,DET,Detroit Tigers,Navin Field,78,416225,5302,343449
+AL,1915,DET,Detroit Tigers,Navin Field,77,476105,6104,304336
+AL,1916,DET,Detroit Tigers,Navin Field,77,616772,7958,431486
+AL,1917,DET,Detroit Tigers,Navin Field,76,457289,5939,357357
+AL,1918,DET,Detroit Tigers,Navin Field,58,203719,3183,213500
+AL,1919,DET,Detroit Tigers,Navin Field,70,643805,9197,456780
+AL,1920,DET,Detroit Tigers,Navin Field,78,579650,7479,635538
+AL,1921,DET,Detroit Tigers,Navin Field,77,661527,8591,577541
+AL,1922,DET,Detroit Tigers,Navin Field,77,861206,11112,609294
+AL,1923,DET,Detroit Tigers,Navin Field,77,911377,11760,575324
+AL,1924,DET,Detroit Tigers,Navin Field,78,1015136,13015,656930
+AL,1925,DET,Detroit Tigers,Navin Field,77,820766,10523,648356
+AL,1926,DET,Detroit Tigers,Navin Field,81,711914,9069,614073
+AL,1927,DET,Detroit Tigers,Navin Field,78,773716,9919,576619
+AL,1928,DET,Detroit Tigers,Navin Field,77,474323,6160,527649
+AL,1929,DET,Detroit Tigers,Navin Field,77,869318,11217,582809
+AL,1930,DET,Detroit Tigers,Navin Field,78,649450,8434,585716
+AL,1931,DET,Detroit Tigers,Navin Field,77,434056,5637,485412
+AL,1932,DET,Detroit Tigers,Navin Field,78,397157,5192,391654
+AL,1933,DET,Detroit Tigers,Navin Field,78,320972,4142,365776
+AL,1934,DET,Detroit Tigers,Navin Field,80,919161,11937,470451
+AL,1935,DET,Detroit Tigers,Navin Field,79,1034929,13617,461001
+AL,1936,DET,Detroit Tigers,Navin Field,77,875948,11376,522365
+AL,1937,DET,Detroit Tigers,Navin Field,77,1072276,13836,591979
+AL,1938,DET,Detroit Tigers,Briggs Stadium,79,799557,10317,555711
+AL,1939,DET,Detroit Tigers,Briggs Stadium,78,836279,10791,533825
+AL,1940,DET,Detroit Tigers,Briggs Stadium,79,1112693,14357,679224
+AL,1941,DET,Detroit Tigers,Briggs Stadium,77,684915,8838,613995
+AL,1942,DET,Detroit Tigers,Briggs Stadium,77,580087,7437,525027
+AL,1943,DET,Detroit Tigers,Briggs Stadium,78,606287,7823,462071
+AL,1944,DET,Detroit Tigers,Briggs Stadium,78,923176,11836,599770
+AL,1945,DET,Detroit Tigers,Briggs Stadium,76,1280341,16521,697553
+AL,1946,DET,Detroit Tigers,Briggs Stadium,79,1722590,22227,1202648
+AL,1947,DET,Detroit Tigers,Briggs Stadium,80,1398093,17697,1185759
+AL,1948,DET,Detroit Tigers,Briggs Stadium,77,1743035,22637,1393762
+AL,1949,DET,Detroit Tigers,Briggs Stadium,78,1821204,23500,1341331
+AL,1950,DET,Detroit Tigers,Briggs Stadium,81,1951474,24860,1142795
+AL,1951,DET,Detroit Tigers,Briggs Stadium,77,1132641,14710,1110334
+AL,1952,DET,Detroit Tigers,Briggs Stadium,77,1026846,13165,1036737
+AL,1953,DET,Detroit Tigers,Briggs Stadium,79,884658,11198,870510
+AL,1954,DET,Detroit Tigers,Briggs Stadium,77,1079847,13933,990296
+AL,1955,DET,Detroit Tigers,Briggs Stadium,77,1181838,15349,1117871
+AL,1956,DET,Detroit Tigers,Briggs Stadium,78,1051182,13564,986710
+AL,1957,DET,Detroit Tigers,Briggs Stadium,77,1272346,16524,1024527
+AL,1958,DET,Detroit Tigers,Briggs Stadium,77,1098924,14272,912004
+AL,1959,DET,Detroit Tigers,Briggs Stadium,77,1221221,15860,1143682
+AL,1960,DET,Detroit Tigers,Briggs Stadium,77,1167669,15165,1153316
+AL,1961,DET,Detroit Tigers,Tiger Stadium,82,1600710,19641,1016302
+AL,1962,DET,Detroit Tigers,Tiger Stadium,82,1207881,15005,1001506
+AL,1963,DET,Detroit Tigers,Tiger Stadium,81,821952,10148,909485
+AL,1964,DET,Detroit Tigers,Tiger Stadium,82,816139,10014,923515
+AL,1965,DET,Detroit Tigers,Tiger Stadium,81,1029645,12712,886076
+AL,1966,DET,Detroit Tigers,Tiger Stadium,81,1124293,13880,1016674
+AL,1967,DET,Detroit Tigers,Tiger Stadium,82,1447143,17756,1133692
+AL,1968,DET,Detroit Tigers,Tiger Stadium,81,2031847,24779,1131739
+AL,1969,DET,Detroit Tigers,Tiger Stadium,81,1577481,19475,1011227
+AL,1970,DET,Detroit Tigers,Tiger Stadium,81,1501293,18534,1007095
+AL,1971,DET,Detroit Tigers,Tiger Stadium,81,1591073,19643,989047
+AL,1972,DET,Detroit Tigers,Tiger Stadium,78,1892386,24261,953211
+AL,1973,DET,Detroit Tigers,Tiger Stadium,81,1724146,21286,1119467
+AL,1974,DET,Detroit Tigers,Tiger Stadium,81,1243080,15347,1087275
+AL,1975,DET,Detroit Tigers,Tiger Stadium,80,1058836,13319,1099119
+AL,1976,DET,Detroit Tigers,Tiger Stadium,80,1467020,18224,1221484
+AL,1977,DET,Detroit Tigers,Tiger Stadium,81,1359856,16788,1402825
+AL,1978,DET,Detroit Tigers,Tiger Stadium,81,1714893,21172,1466426
+AL,1979,DET,Detroit Tigers,Tiger Stadium,80,1630929,20260,1597999
+AL,1980,DET,Detroit Tigers,Tiger Stadium,82,1785293,21905,1563575
+AL,1981,DET,Detroit Tigers,Tiger Stadium,55,1149144,21085,1004713
+AL,1982,DET,Detroit Tigers,Tiger Stadium,81,1636058,20198,1648604
+AL,1983,DET,Detroit Tigers,Tiger Stadium,81,1829636,22588,1713647
+AL,1984,DET,Detroit Tigers,Tiger Stadium,82,2704794,33393,1711531
+AL,1985,DET,Detroit Tigers,Tiger Stadium,81,2286609,28405,1752302
+AL,1986,DET,Detroit Tigers,Tiger Stadium,81,1899437,23450,1798052
+AL,1987,DET,Detroit Tigers,Tiger Stadium,81,2061830,25455,1948382
+AL,1988,DET,Detroit Tigers,Tiger Stadium,81,2081162,25693,2035688
+AL,1989,DET,Detroit Tigers,Tiger Stadium,81,1543656,19057,2132090
+AL,1990,DET,Detroit Tigers,Tiger Stadium,81,1495785,18466,2166590
+AL,1991,DET,Detroit Tigers,Tiger Stadium,81,1641661,20267,2294113
+AL,1992,DET,Detroit Tigers,Tiger Stadium,80,1423963,17580,2268524
+AL,1993,DET,Detroit Tigers,Tiger Stadium,81,1971421,24339,2380955
+AL,1994,DET,Detroit Tigers,Tiger Stadium,58,1184783,20605,1728728
+AL,1995,DET,Detroit Tigers,Tiger Stadium,72,1180979,16402,1811356
+AL,1996,DET,Detroit Tigers,Tiger Stadium,81,1168610,14427,2122721
+AL,1997,DET,Detroit Tigers,Tiger Stadium,81,1365157,16854,2234523
+AL,1998,DET,Detroit Tigers,Tiger Stadium,81,1409391,17400,2298169
+AL,1999,DET,Detroit Tigers,Tiger Stadium,81,2026491,25174,2286874
+AL,2000,DET,Detroit Tigers,Comerica Park,81,2438617,30106,2262557
+AL,2001,DET,Detroit Tigers,Comerica Park,81,1920995,24012,2346071
+AL,2002,DET,Detroit Tigers,Comerica Park,80,1503623,18563,2207891
+AL,2003,DET,Detroit Tigers,Comerica Park,81,1368245,17103,2191745
+AL,2004,DET,Detroit Tigers,Comerica Park,81,1917004,23962,2340422
+AL,2005,DET,Detroit Tigers,Comerica Park,81,2024505,25306,2360452
+AL,2006,DET,Detroit Tigers,Comerica Park,81,2595937,32048,2458741
+AL,2007,DET,Detroit Tigers,Comerica Park,81,3047124,37618,2527968
+AL,2008,DET,Detroit Tigers,Comerica Park,81,3202654,39538,2464986
+AL,2009,DET,Detroit Tigers,Comerica Park,81,2567185,31693,2305178
+AL,2010,DET,Detroit Tigers,Comerica Park,81,2461237,30386,2289427
+AL,2011,DET,Detroit Tigers,Comerica Park,81,2642045,32618,2333812
+AL,2012,DET,Detroit Tigers,Comerica Park,81,3028033,37383,2384555
+AL,2013,DET,Detroit Tigers,Comerica Park,81,3083397,38067,2306065
+AL,2014,DET,Detroit Tigers,Comerica Park,81,2917209,36015,2299409
+NL,1962,HOU,Houston Colt .45s,Colt Stadium,82,924456,11413,1136016
+NL,1963,HOU,Houston Colt .45s,Colt Stadium,81,719502,8883,1138223
+NL,1964,HOU,Houston Colt .45s,Colt Stadium,81,725773,8960,1204519
+NL,1965,HOU,Houston Astros,Astrodome,81,2151470,25561,1358114
+NL,1966,HOU,Houston Astros,Astrodome,81,1872108,22971,1501547
+NL,1967,HOU,Houston Astros,Astrodome,81,1348303,16646,1297143
+NL,1968,HOU,Houston Astros,Astrodome,81,1312887,16208,1178536
+NL,1969,HOU,Houston Astros,Astrodome,81,1442995,17815,1257912
+NL,1970,HOU,Houston Astros,Astrodome,81,1253444,15475,1388517
+NL,1971,HOU,Houston Astros,Astrodome,81,1261589,15575,1443738
+NL,1972,HOU,Houston Astros,Astrodome,77,1469247,19206,1294144
+NL,1973,HOU,Houston Astros,Astrodome,81,1394004,17210,1389610
+NL,1974,HOU,Houston Astros,Astrodome,81,1090728,13466,1414860
+NL,1975,HOU,Houston Astros,Astrodome,81,858002,10593,1383374
+NL,1976,HOU,Houston Astros,Astrodome,82,886146,10940,1388377
+NL,1977,HOU,Houston Astros,Astrodome,81,1109560,13698,1589186
+NL,1978,HOU,Houston Astros,Astrodome,81,1126145,13903,1675577
+NL,1979,HOU,Houston Astros,Astrodome,81,1900312,23461,1764868
+NL,1980,HOU,Houston Astros,Astrodome,81,2278217,27954,1760340
+NL,1981,HOU,Houston Astros,Astrodome,51,1321282,24023,1039866
+NL,1982,HOU,Houston Astros,Astrodome,81,1558555,19241,1792285
+NL,1983,HOU,Houston Astros,Astrodome,82,1351962,16692,1795774
+NL,1984,HOU,Houston Astros,Astrodome,81,1229862,15183,1731786
+NL,1985,HOU,Houston Astros,Astrodome,81,1184314,14621,1857680
+NL,1986,HOU,Houston Astros,Astrodome,81,1734276,21411,1861123
+NL,1987,HOU,Houston Astros,Astrodome,81,1909902,23579,2061180
+NL,1988,HOU,Houston Astros,Astrodome,81,1933505,23870,2041606
+NL,1989,HOU,Houston Astros,Astrodome,82,1834908,22653,2110320
+NL,1990,HOU,Houston Astros,Astrodome,81,1310927,16184,2040959
+NL,1991,HOU,Houston Astros,Astrodome,81,1196152,14767,2058014
+NL,1992,HOU,Houston Astros,Astrodome,81,1211412,14956,2009261
+NL,1993,HOU,Houston Astros,Astrodome,81,2084618,25736,2637470
+NL,1994,HOU,Houston Astros,Astrodome,59,1561136,27150,1843416
+NL,1995,HOU,Houston Astros,Astrodome,72,1363801,18942,1793589
+NL,1996,HOU,Houston Astros,Astrodome,81,1975888,24394,2169949
+NL,1997,HOU,Houston Astros,Astrodome,81,2046781,25269,2277526
+NL,1998,HOU,Houston Astros,Astrodome,81,2458451,30351,2401674
+NL,1999,HOU,Houston Astros,Astrodome,82,2706017,33408,2380436
+NL,2000,HOU,Houston Astros,Enron Field,81,3020581,37730,2480194
+NL,2001,HOU,Houston Astros,Enron Field,81,2906277,35880,2481346
+NL,2002,HOU,Houston Astros,Minute Maid Park,81,2517407,31079,2309294
+NL,2003,HOU,Houston Astros,Minute Maid Park,81,2454241,30299,2273813
+NL,2004,HOU,Houston Astros,Minute Maid Park,81,3087872,38121,2512690
+NL,2005,HOU,Houston Astros,Minute Maid Park,81,2762472,34530,2583685
+NL,2006,HOU,Houston Astros,Minute Maid Park,81,3022763,37318,2598741
+NL,2007,HOU,Houston Astros,Minute Maid Park,81,3020405,37288,2756384
+NL,2008,HOU,Houston Astros,Minute Maid Park,80,2779287,34741,2755082
+NL,2009,HOU,Houston Astros,Minute Maid Park,81,2521076,31124,2571627
+NL,2010,HOU,Houston Astros,Minute Maid Park,81,2331490,28784,2563111
+NL,2011,HOU,Houston Astros,Minute Maid Park,81,2067016,25519,2547018
+NL,2012,HOU,Houston Astros,Minute Maid Park,81,1607733,19848,2592218
+AL,2013,HOU,Houston Astros,Minute Maid Park,81,1651883,20394,2306065
+AL,2014,HOU,Houston Astros,Minute Maid Park,81,1751829,21628,2299409
+AL,1969,KCA,Kansas City Royals,Municipal Stadium,82,902414,11073,1011227
+AL,1970,KCA,Kansas City Royals,Municipal Stadium,79,693047,8556,1007095
+AL,1971,KCA,Kansas City Royals,Municipal Stadium,81,910784,11314,989047
+AL,1972,KCA,Kansas City Royals,Municipal Stadium,77,707656,9190,953211
+AL,1973,KCA,Kansas City Royals,Royals Stadium,81,1345341,16609,1119467
+AL,1974,KCA,Kansas City Royals,Royals Stadium,81,1173292,14485,1087275
+AL,1975,KCA,Kansas City Royals,Royals Stadium,81,1151836,14220,1099119
+AL,1976,KCA,Kansas City Royals,Royals Stadium,81,1680265,20744,1221484
+AL,1977,KCA,Kansas City Royals,Royals Stadium,81,1852603,22872,1402825
+AL,1978,KCA,Kansas City Royals,Royals Stadium,81,2255493,27846,1466426
+AL,1979,KCA,Kansas City Royals,Royals Stadium,81,2261845,27924,1597999
+AL,1980,KCA,Kansas City Royals,Royals Stadium,81,2288714,28256,1563575
+AL,1981,KCA,Kansas City Royals,Royals Stadium,47,1279403,24843,1004713
+AL,1982,KCA,Kansas City Royals,Royals Stadium,81,2284464,28203,1648604
+AL,1983,KCA,Kansas City Royals,Royals Stadium,82,1963875,24097,1713647
+AL,1984,KCA,Kansas City Royals,Royals Stadium,81,1810018,22346,1711531
+AL,1985,KCA,Kansas City Royals,Royals Stadium,82,2162717,26700,1752302
+AL,1986,KCA,Kansas City Royals,Royals Stadium,81,2320794,28652,1798052
+AL,1987,KCA,Kansas City Royals,Royals Stadium,81,2392471,29537,1948382
+AL,1988,KCA,Kansas City Royals,Royals Stadium,80,2350181,29195,2035688
+AL,1989,KCA,Kansas City Royals,Royals Stadium,81,2477700,30589,2132090
+AL,1990,KCA,Kansas City Royals,Royals Stadium,81,2244956,27888,2166590
+AL,1991,KCA,Kansas City Royals,Royals Stadium,81,2161537,26686,2294113
+AL,1992,KCA,Kansas City Royals,Royals Stadium,81,1867689,23058,2268524
+AL,1993,KCA,Kansas City Royals,Royals Stadium,81,1934578,23884,2380955
+AL,1994,KCA,Kansas City Royals,Kauffman Stadium,59,1400494,24356,1728728
+AL,1995,KCA,Kansas City Royals,Kauffman Stadium,72,1233530,17132,1811356
+AL,1996,KCA,Kansas City Royals,Kauffman Stadium,80,1435997,17838,2122721
+AL,1997,KCA,Kansas City Royals,Kauffman Stadium,80,1517638,18853,2234523
+AL,1998,KCA,Kansas City Royals,Kauffman Stadium,80,1494875,18570,2298169
+AL,1999,KCA,Kansas City Royals,Kauffman Stadium,80,1506068,18709,2286874
+AL,2000,KCA,Kansas City Royals,Kauffman Stadium,81,1564847,19319,2262557
+AL,2001,KCA,Kansas City Royals,Kauffman Stadium,81,1536101,18964,2346071
+AL,2002,KCA,Kansas City Royals,Kauffman Stadium,77,1323034,16334,2207891
+AL,2003,KCA,Kansas City Royals,Kauffman Stadium,80,1779895,22819,2191745
+AL,2004,KCA,Kansas City Royals,Kauffman Stadium,80,1661478,21031,2340422
+AL,2005,KCA,Kansas City Royals,Kauffman Stadium,81,1371181,17356,2360452
+AL,2006,KCA,Kansas City Royals,Kauffman Stadium,81,1372684,17158,2458741
+AL,2007,KCA,Kansas City Royals,Kauffman Stadium,81,1616867,19961,2527968
+AL,2008,KCA,Kansas City Royals,Kauffman Stadium,81,1578922,19986,2464986
+AL,2009,KCA,Kansas City Royals,Kauffman Stadium,81,1797887,22473,2305178
+AL,2010,KCA,Kansas City Royals,Kauffman Stadium,81,1615327,19942,2289427
+AL,2011,KCA,Kansas City Royals,Kauffman Stadium,81,1724450,21290,2333812
+AL,2012,KCA,Kansas City Royals,Kauffman Stadium,81,1739859,21748,2384555
+AL,2013,KCA,Kansas City Royals,Kauffman Stadium,81,1750754,21614,2306065
+AL,2014,KCA,Kansas City Royals,Kauffman Stadium,81,1956482,24154,2299409
+AL,1961,LAA,Los Angeles Angels,Wrigley Field at Los Angeles,82,603510,7451,1016302
+AL,1962,LAA,Los Angeles Angels,Dodger Stadium,81,1144063,14124,1001506
+AL,1963,LAA,Los Angeles Angels,Dodger Stadium,81,821015,10199,909485
+AL,1964,LAA,Los Angeles Angels,Dodger Stadium,81,760439,9388,923515
+AL,1965,CAL,California Angels,Dodger Stadium,80,566727,6997,886076
+AL,1966,CAL,California Angels,Anaheim Stadium,81,1400321,17288,1016674
+AL,1967,CAL,California Angels,Anaheim Stadium,83,1317713,16369,1133692
+AL,1968,CAL,California Angels,Anaheim Stadium,81,1025956,12666,1131739
+AL,1969,CAL,California Angels,Anaheim Stadium,81,758388,9305,1011227
+AL,1970,CAL,California Angels,Anaheim Stadium,81,1077741,13305,1007095
+AL,1971,CAL,California Angels,Anaheim Stadium,81,926373,11437,989047
+AL,1972,CAL,California Angels,Anaheim Stadium,80,744190,9603,953211
+AL,1973,CAL,California Angels,Anaheim Stadium,81,1058206,13064,1119467
+AL,1974,CAL,California Angels,Anaheim Stadium,81,917269,11255,1087275
+AL,1975,CAL,California Angels,Anaheim Stadium,81,1058163,13145,1099119
+AL,1976,CAL,California Angels,Anaheim Stadium,81,1006774,12429,1221484
+AL,1977,CAL,California Angels,Anaheim Stadium,81,1432633,17687,1402825
+AL,1978,CAL,California Angels,Anaheim Stadium,81,1755386,21671,1466426
+AL,1979,CAL,California Angels,Anaheim Stadium,81,2523575,31155,1597999
+AL,1980,CAL,California Angels,Anaheim Stadium,81,2297327,28717,1563575
+AL,1981,CAL,California Angels,Anaheim Stadium,54,1441545,26210,1004713
+AL,1982,CAL,California Angels,Anaheim Stadium,81,2807360,34659,1648604
+AL,1983,CAL,California Angels,Anaheim Stadium,81,2555016,31543,1713647
+AL,1984,CAL,California Angels,Anaheim Stadium,81,2402997,29667,1711531
+AL,1985,CAL,California Angels,Anaheim Stadium,79,2567427,31697,1752302
+AL,1986,CAL,California Angels,Anaheim Stadium,82,2655872,32789,1798052
+AL,1987,CAL,California Angels,Anaheim Stadium,81,2696299,33288,1948382
+AL,1988,CAL,California Angels,Anaheim Stadium,81,2340925,28900,2035688
+AL,1989,CAL,California Angels,Anaheim Stadium,81,2647291,32683,2132090
+AL,1990,CAL,California Angels,Anaheim Stadium,81,2555688,31552,2166590
+AL,1991,CAL,California Angels,Anaheim Stadium,81,2416236,29830,2294113
+AL,1992,CAL,California Angels,Anaheim Stadium,81,2065444,25499,2268524
+AL,1993,CAL,California Angels,Anaheim Stadium,81,2057460,25401,2380955
+AL,1994,CAL,California Angels,Anaheim Stadium,63,1512622,26306,1728728
+AL,1995,CAL,California Angels,Anaheim Stadium,72,1748680,24120,1811356
+AL,1996,CAL,California Angels,Anaheim Stadium,81,1820521,22615,2122721
+AL,1997,ANA,Anaheim Angels,Anaheim Stadium,82,1767330,21819,2234523
+AL,1998,ANA,Anaheim Angels,Anaheim Stadium,81,2519280,31102,2298169
+AL,1999,ANA,Anaheim Angels,Edison International Field,81,2253040,27815,2286874
+AL,2000,ANA,Anaheim Angels,Edison International Field,81,2066982,25518,2262557
+AL,2001,ANA,Anaheim Angels,Edison International Field,81,2001319,24708,2346071
+AL,2002,ANA,Anaheim Angels,Edison International Field,81,2305565,28463,2207891
+AL,2003,ANA,Anaheim Angels,Edison International Field,82,3061094,37791,2191745
+AL,2004,ANA,Anaheim Angels,Angel Stadium,81,3375677,41675,2340422
+AL,2005,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3404686,42033,2360452
+AL,2006,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3406790,42059,2458741
+AL,2007,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3365632,41551,2527968
+AL,2008,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3336744,41194,2464986
+AL,2009,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3240386,40004,2305178
+AL,2010,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3250814,40134,2289427
+AL,2011,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3166321,39090,2333812
+AL,2012,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3061770,37799,2384555
+AL,2013,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3019505,37278,2306065
+AL,2014,LAA,Los Angeles Angels of Anaheim,Angel Stadium,81,3095935,38221,2299409
+AL,1901,WS1,Washington Senators,American League Park,68,161661,2343,210448
+AL,1902,WS1,Washington Senators,American League Park,68,188158,2727,275807
+AL,1903,WS1,Washington Senators,American League Park,71,128878,1841,293111
+AL,1904,WS1,Washington Senators,American League Park,78,131744,1678,378004
+AL,1905,WS1,Washington Senators,American League Park,77,252027,3273,390094
+AL,1906,WS1,Washington Senators,American League Park,75,129903,1721,367260
+AL,1907,WS1,Washington Senators,American League Park,75,221929,2882,424846
+AL,1908,WS1,Washington Senators,American League Park,78,350020,3410,451421
+AL,1909,WS1,Washington Senators,American League Park,77,205199,2631,467484
+AL,1910,WS1,Washington Senators,American League Park,77,254591,3243,408836
+AL,1911,WS1,Washington Senators,Griffith Stadium,77,244884,3180,417439
+AL,1912,WS1,Washington Senators,Griffith Stadium,78,350663,4554,407954
+AL,1913,WS1,Washington Senators,Griffith Stadium,78,325831,4204,440851
+AL,1914,WS1,Washington Senators,Griffith Stadium,77,243888,3087,343449
+AL,1915,WS1,Washington Senators,Griffith Stadium,80,167332,2159,304336
+AL,1916,WS1,Washington Senators,Griffith Stadium,81,177265,2230,431486
+AL,1917,WS1,Washington Senators,Griffith Stadium,80,89682,1142,357357
+AL,1918,WS1,Washington Senators,Griffith Stadium,74,182122,2802,213500
+AL,1919,WS1,Washington Senators,Griffith Stadium,72,234096,3297,456780
+AL,1920,WS1,Washington Senators,Griffith Stadium,76,359260,4696,635538
+AL,1921,WS1,Washington Senators,Griffith Stadium,76,456069,5923,577541
+AL,1922,WS1,Washington Senators,Griffith Stadium,79,458552,5955,609294
+AL,1923,WS1,Washington Senators,Griffith Stadium,79,357406,4611,575324
+AL,1924,WS1,Washington Senators,Griffith Stadium,79,584310,7491,656930
+AL,1925,WS1,Washington Senators,Griffith Stadium,76,817199,10753,648356
+AL,1926,WS1,Washington Senators,Griffith Stadium,74,551580,7258,614073
+AL,1927,WS1,Washington Senators,Griffith Stadium,79,528976,6739,576619
+AL,1928,WS1,Washington Senators,Griffith Stadium,80,378501,4884,527649
+AL,1929,WS1,Washington Senators,Griffith Stadium,78,355506,4647,582809
+AL,1930,WS1,Washington Senators,Griffith Stadium,77,614474,7980,585716
+AL,1931,WS1,Washington Senators,Griffith Stadium,79,492657,6316,485412
+AL,1932,WS1,Washington Senators,Griffith Stadium,77,371396,4823,391654
+AL,1933,WS1,Washington Senators,Griffith Stadium,76,437533,5719,365776
+AL,1934,WS1,Washington Senators,Griffith Stadium,76,330074,4259,470451
+AL,1935,WS1,Washington Senators,Griffith Stadium,77,255011,3312,461001
+AL,1936,WS1,Washington Senators,Griffith Stadium,77,379525,4961,522365
+AL,1937,WS1,Washington Senators,Griffith Stadium,80,397799,5035,591979
+AL,1938,WS1,Washington Senators,Griffith Stadium,78,522694,6878,555711
+AL,1939,WS1,Washington Senators,Griffith Stadium,77,339257,4435,533825
+AL,1940,WS1,Washington Senators,Griffith Stadium,77,381241,4951,679224
+AL,1941,WS1,Washington Senators,Griffith Stadium,78,415663,5329,613995
+AL,1942,WS1,Washington Senators,Griffith Stadium,77,403493,5344,525027
+AL,1943,WS1,Washington Senators,Griffith Stadium,76,574694,7512,462071
+AL,1944,WS1,Washington Senators,Griffith Stadium,77,525235,6821,599770
+AL,1945,WS1,Washington Senators,Griffith Stadium,78,652660,8367,697553
+AL,1946,WS1,Washington Senators,Griffith Stadium,76,1027216,13254,1202648
+AL,1947,WS1,Washington Senators,Griffith Stadium,77,850758,11049,1185759
+AL,1948,WS1,Washington Senators,Griffith Stadium,78,795254,10328,1393762
+AL,1949,WS1,Washington Senators,Griffith Stadium,77,770745,10010,1341331
+AL,1950,WS1,Washington Senators,Griffith Stadium,78,699697,9028,1142795
+AL,1951,WS1,Washington Senators,Griffith Stadium,76,695167,9028,1110334
+AL,1952,WS1,Washington Senators,Griffith Stadium,78,699457,8910,1036737
+AL,1953,WS1,Washington Senators,Griffith Stadium,75,595594,7837,870510
+AL,1954,WS1,Washington Senators,Griffith Stadium,78,503542,6497,990296
+AL,1955,WS1,Washington Senators,Griffith Stadium,77,425238,5523,1117871
+AL,1956,WS1,Washington Senators,Griffith Stadium,77,431647,5570,986710
+AL,1957,WS1,Washington Senators,Griffith Stadium,77,457079,5936,1024527
+AL,1958,WS1,Washington Senators,Griffith Stadium,78,475288,6093,912004
+AL,1959,WS1,Washington Senators,Griffith Stadium,77,615372,7992,1143682
+AL,1960,WS1,Washington Senators,Griffith Stadium,77,743404,7992,1153316
+AL,1961,MIN,Minnesota Twins,Metropolitan Stadium,81,1256723,15611,1016302
+AL,1962,MIN,Minnesota Twins,Metropolitan Stadium,82,1433116,17584,1001506
+AL,1963,MIN,Minnesota Twins,Metropolitan Stadium,81,1406652,17474,909485
+AL,1964,MIN,Minnesota Twins,Metropolitan Stadium,82,1207514,14816,923515
+AL,1965,MIN,Minnesota Twins,Metropolitan Stadium,81,1463258,18065,886076
+AL,1966,MIN,Minnesota Twins,Metropolitan Stadium,81,1259374,15548,1016674
+AL,1967,MIN,Minnesota Twins,Metropolitan Stadium,81,1483547,18092,1133692
+AL,1968,MIN,Minnesota Twins,Metropolitan Stadium,81,1143257,14114,1131739
+AL,1969,MIN,Minnesota Twins,Metropolitan Stadium,81,1349328,16658,1011227
+AL,1970,MIN,Minnesota Twins,Metropolitan Stadium,81,1261887,15579,1007095
+AL,1971,MIN,Minnesota Twins,Metropolitan Stadium,79,940858,11760,989047
+AL,1972,MIN,Minnesota Twins,Metropolitan Stadium,74,797901,10362,953211
+AL,1973,MIN,Minnesota Twins,Metropolitan Stadium,81,907499,11204,1119467
+AL,1974,MIN,Minnesota Twins,Metropolitan Stadium,82,662401,8129,1087275
+AL,1975,MIN,Minnesota Twins,Metropolitan Stadium,82,737156,9272,1099119
+AL,1976,MIN,Minnesota Twins,Metropolitan Stadium,81,715394,8832,1221484
+AL,1977,MIN,Minnesota Twins,Metropolitan Stadium,80,1162727,14444,1402825
+AL,1978,MIN,Minnesota Twins,Metropolitan Stadium,81,787878,9727,1466426
+AL,1979,MIN,Minnesota Twins,Metropolitan Stadium,81,1070521,13216,1597999
+AL,1980,MIN,Minnesota Twins,Metropolitan Stadium,80,769206,9555,1563575
+AL,1981,MIN,Minnesota Twins,Metropolitan Stadium,61,469090,8529,1004713
+AL,1982,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,921186,11373,1648604
+AL,1983,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,859,10604,1713647
+AL,1984,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1598692,19737,1711531
+AL,1985,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,84,1651814,20393,1752302
+AL,1986,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1255453,15499,1798052
+AL,1987,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2081976,25703,1948382
+AL,1988,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,3030672,37416,2035688
+AL,1989,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2277438,28117,2132090
+AL,1990,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1751584,21624,2166590
+AL,1991,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2293842,28319,2294113
+AL,1992,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2482428,30647,2268524
+AL,1993,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2048673,25292,2380955
+AL,1994,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,59,1398565,24753,1728728
+AL,1995,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,72,1057667,14690,1811356
+AL,1996,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,82,1437352,17745,2122721
+AL,1997,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1411064,17421,2234523
+AL,1998,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1165976,14395,2298169
+AL,1999,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1202829,14942,2286874
+AL,2000,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1000760,12355,2262557
+AL,2001,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1782926,22287,2346071
+AL,2002,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1924473,23758,2207891
+AL,2003,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1946011,24024,2191745
+AL,2004,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,1879222,23490,2340422
+AL,2005,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2013453,25168,2360452
+AL,2006,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2285018,28210,2458741
+AL,2007,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2296383,28350,2527968
+AL,2008,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,81,2302431,28425,2464986
+AL,2009,MIN,Minnesota Twins,Hubert H Humphrey Metrodome,82,2416237,29466,2305178
+AL,2010,MIN,Minnesota Twins,Target Field,81,3223640,39798,2289427
+AL,2011,MIN,Minnesota Twins,Target Field,81,3168116,39113,2333812
+AL,2012,MIN,Minnesota Twins,Target Field,81,2776354,34275,2384555
+AL,2013,MIN,Minnesota Twins,Target Field,81,2477644,30588,2306065
+AL,2014,MIN,Minnesota Twins,Target Field,81,2250606,27785,2299409
+AL,1901,BLA,Baltimore Orioles,Oriole Park,66,141952,2103,210448
+AL,1902,BLA,Baltimore Orioles,Oriole Park,64,174606,2477,275807
+AL,1903,NYA,New York Highlanders,Hilltop Park,67,211808,3115,293111
+AL,1904,NYA,New York Highlanders,Hilltop Park,75,438919,5664,378004
+AL,1905,NYA,New York Highlanders,Hilltop Park,75,309100,4067,390094
+AL,1906,NYA,New York Highlanders,Hilltop Park,76,434700,5609,367260
+AL,1907,NYA,New York Highlanders,Hilltop Park,75,350020,4606,424846
+AL,1908,NYA,New York Highlanders,Hilltop Park,77,305500,3942,451421
+AL,1909,NYA,New York Highlanders,Hilltop Park,77,501000,6549,467484
+AL,1910,NYA,New York Highlanders,Hilltop Park,77,355857,4562,408836
+AL,1911,NYA,New York Highlanders,Hilltop Park,77,302444,3954,417439
+AL,1912,NYA,New York Highlanders,Hilltop Park,76,242194,3166,407954
+AL,1913,NYA,New York Yankees,Polo Grounds,75,357551,4674,440851
+AL,1914,NYA,New York Yankees,Polo Grounds,78,359477,4579,343449
+AL,1915,NYA,New York Yankees,Polo Grounds,82,256035,3325,304336
+AL,1916,NYA,New York Yankees,Polo Grounds,79,469211,6016,431486
+AL,1917,NYA,New York Yankees,Polo Grounds,75,330294,4262,357357
+AL,1918,NYA,New York Yankees,Polo Grounds,67,282047,4477,213500
+AL,1919,NYA,New York Yankees,Polo Grounds,73,619164,8783,456780
+AL,1920,NYA,New York Yankees,Polo Grounds,77,1289422,16746,635538
+AL,1921,NYA,New York Yankees,Polo Grounds,78,1230696,16088,577541
+AL,1922,NYA,New York Yankees,Polo Grounds,77,1026134,13326,609294
+AL,1923,NYA,New York Yankees,Yankee Stadium,76,1007066,13251,575324
+AL,1924,NYA,New York Yankees,Yankee Stadium,78,1053533,13772,656930
+AL,1925,NYA,New York Yankees,Yankee Stadium,79,697267,8939,648356
+AL,1926,NYA,New York Yankees,Yankee Stadium,75,1027675,13260,614073
+AL,1927,NYA,New York Yankees,Yankee Stadium,77,1164015,15020,576619
+AL,1928,NYA,New York Yankees,Yankee Stadium,77,1072132,13924,527649
+AL,1929,NYA,New York Yankees,Yankee Stadium,77,960148,12470,582809
+AL,1930,NYA,New York Yankees,Yankee Stadium,76,1169230,15185,585716
+AL,1931,NYA,New York Yankees,Yankee Stadium,77,912437,11773,485412
+AL,1932,NYA,New York Yankees,Yankee Stadium,77,962320,12337,391654
+AL,1933,NYA,New York Yankees,Yankee Stadium,75,728014,9579,365776
+AL,1934,NYA,New York Yankees,Yankee Stadium,77,854682,11100,470451
+AL,1935,NYA,New York Yankees,Yankee Stadium,74,657508,8826,461001
+AL,1936,NYA,New York Yankees,Yankee Stadium,77,976913,12605,522365
+AL,1937,NYA,New York Yankees,Yankee Stadium,79,998148,12715,591979
+AL,1938,NYA,New York Yankees,Yankee Stadium,79,970916,12368,555711
+AL,1939,NYA,New York Yankees,Yankee Stadium,77,859785,11313,533825
+AL,1940,NYA,New York Yankees,Yankee Stadium,76,988975,12761,679224
+AL,1941,NYA,New York Yankees,Yankee Stadium,78,964722,12368,613995
+AL,1942,NYA,New York Yankees,Yankee Stadium,77,922011,11974,525027
+AL,1943,NYA,New York Yankees,Yankee Stadium,77,618330,7979,462071
+AL,1944,NYA,New York Yankees,Yankee Stadium,78,789995,10260,599770
+AL,1945,NYA,New York Yankees,Yankee Stadium,76,881845,11603,697553
+AL,1946,NYA,New York Yankees,Yankee Stadium,77,2265512,29422,1202648
+AL,1947,NYA,New York Yankees,Yankee Stadium,77,2178937,28115,1185759
+AL,1948,NYA,New York Yankees,Yankee Stadium,77,2373901,30830,1393762
+AL,1949,NYA,New York Yankees,Yankee Stadium,78,2283676,29467,1341331
+AL,1950,NYA,New York Yankees,Yankee Stadium,77,2081380,26857,1142795
+AL,1951,NYA,New York Yankees,Yankee Stadium,78,1950107,25326,1110334
+AL,1952,NYA,New York Yankees,Yankee Stadium,77,1629665,21165,1036737
+AL,1953,NYA,New York Yankees,Yankee Stadium,77,1537811,20368,870510
+AL,1954,NYA,New York Yankees,Yankee Stadium,78,1475171,19034,990296
+AL,1955,NYA,New York Yankees,Yankee Stadium,77,1490138,19352,1117871
+AL,1956,NYA,New York Yankees,Yankee Stadium,77,1491784,19374,986710
+AL,1957,NYA,New York Yankees,Yankee Stadium,77,1497134,19443,1024527
+AL,1958,NYA,New York Yankees,Yankee Stadium,78,1428438,18431,912004
+AL,1959,NYA,New York Yankees,Yankee Stadium,77,1552030,20026,1143682
+AL,1960,NYA,New York Yankees,Yankee Stadium,77,1627349,20998,1153316
+AL,1961,NYA,New York Yankees,Yankee Stadium,81,1747725,21444,1016302
+AL,1962,NYA,New York Yankees,Yankee Stadium,80,1493574,18439,1001506
+AL,1963,NYA,New York Yankees,Yankee Stadium,80,1308920,16260,909485
+AL,1964,NYA,New York Yankees,Yankee Stadium,81,1305638,15922,923515
+AL,1965,NYA,New York Yankees,Yankee Stadium,83,1213552,14982,886076
+AL,1966,NYA,New York Yankees,Yankee Stadium,82,"1,12,4648",14058,1016674
+AL,1967,NYA,New York Yankees,Yankee Stadium,82,1259514,15454,1133692
+AL,1968,NYA,New York Yankees,Yankee Stadium,82,1185666,14459,1131739
+AL,1969,NYA,New York Yankees,Yankee Stadium,80,1067996,13185,1011227
+AL,1970,NYA,New York Yankees,Yankee Stadium,81,1136879,13949,1007095
+AL,1971,NYA,New York Yankees,Yankee Stadium,81,1070771,13219,989047
+AL,1972,NYA,New York Yankees,Yankee Stadium,77,966328,12469,953211
+AL,1973,NYA,New York Yankees,Yankee Stadium,81,1262103,15581,1119467
+AL,1974,NYA,New York Yankees,Shea Stadium,81,1273075,15717,1087275
+AL,1975,NYA,New York Yankees,Shea Stadium,78,1288048,16101,1099119
+AL,1976,NYA,New York Yankees,Yankee Stadium,80,2012434,25314,1221484
+AL,1977,NYA,New York Yankees,Yankee Stadium,81,2103092,25964,1402825
+AL,1978,NYA,New York Yankees,Yankee Stadium,81,2335871,28661,1466426
+AL,1979,NYA,New York Yankees,Yankee Stadium,81,2537765,31722,1597999
+AL,1980,NYA,New York Yankees,Yankee Stadium,81,2627417,32437,1563575
+AL,1981,NYA,New York Yankees,Yankee Stadium,51,1614353,30175,1004713
+AL,1982,NYA,New York Yankees,Yankee Stadium,81,2041219,25200,1648604
+AL,1983,NYA,New York Yankees,Yankee Stadium,81,2257976,27876,1713647
+AL,1984,NYA,New York Yankees,Yankee Stadium,81,1821815,22492,1711531
+AL,1985,NYA,New York Yankees,Yankee Stadium,80,2214587,27510,1752302
+AL,1986,NYA,New York Yankees,Yankee Stadium,80,2268030,28000,1798052
+AL,1987,NYA,New York Yankees,Yankee Stadium,81,2427672,29971,1948382
+AL,1988,NYA,New York Yankees,Yankee Stadium,80,2633701,32717,2035688
+AL,1989,NYA,New York Yankees,Yankee Stadium,81,2170485,26963,2132090
+AL,1990,NYA,New York Yankees,Yankee Stadium,81,2006436,24771,2166590
+AL,1991,NYA,New York Yankees,Yankee Stadium,81,1863733,23009,2294113
+AL,1992,NYA,New York Yankees,Yankee Stadium,81,1748737,21589,2268524
+AL,1993,NYA,New York Yankees,Yankee Stadium,81,2416942,29839,2380955
+AL,1994,NYA,New York Yankees,Yankee Stadium,57,1675556,29656,1728728
+AL,1995,NYA,New York Yankees,Yankee Stadium,73,1705263,23521,1811356
+AL,1996,NYA,New York Yankees,Yankee Stadium,80,2250877,27789,2122721
+AL,1997,NYA,New York Yankees,Yankee Stadium,80,2580325,31856,2234523
+AL,1998,NYA,New York Yankees,Yankee Stadium,81,2955193,36484,2298169
+AL,1999,NYA,New York Yankees,Yankee Stadium,81,3293659,40662,2286874
+AL,2000,NYA,New York Yankees,Yankee Stadium,80,3227657,37956,2262557
+AL,2001,NYA,New York Yankees,Yankee Stadium,80,3264552,40807,2346071
+AL,2002,NYA,New York Yankees,Yankee Stadium,80,3461644,42736,2207891
+AL,2003,NYA,New York Yankees,Yankee Stadium,82,3465600,42785,2191745
+AL,2004,NYA,New York Yankees,Yankee Stadium,81,3775292,47788,2340422
+AL,2005,NYA,New York Yankees,Yankee Stadium,81,4090440,50499,2360452
+AL,2006,NYA,New York Yankees,Yankee Stadium,81,4200518,51858,2458741
+AL,2007,NYA,New York Yankees,Yankee Stadium,81,4271867,52739,2527968
+AL,2008,NYA,New York Yankees,Yankee Stadium,81,4298655,53069,2464986
+AL,2009,NYA,New York Yankees,Yankee Stadium,81,3719358,45918,2305178
+AL,2010,NYA,New York Yankees,Yankee Stadium,81,3765807,46491,2289427
+AL,2011,NYA,New York Yankees,Yankee Stadium,81,3653680,45107,2333812
+AL,2012,NYA,New York Yankees,Yankee Stadium,81,3542406,43733,2384555
+AL,2013,NYA,New York Yankees,Yankee Stadium,81,3279589,40489,2306065
+AL,2014,NYA,New York Yankees,Yankee Stadium,81,3401624,41995,2299409
+AL,1901,PHA,Philadelphia Athletics,Columbia Park,66,206329,3012,210448
+AL,1902,PHA,Philadelphia Athletics,Columbia Park,73,420078,6133,275807
+AL,1903,PHA,Philadelphia Athletics,Columbia Park,67,422473,6167,293111
+AL,1904,PHA,Philadelphia Athletics,Columbia Park,79,512294,6610,378004
+AL,1905,PHA,Philadelphia Athletics,Columbia Park,74,554576,7297,390094
+AL,1906,PHA,Philadelphia Athletics,Columbia Park,73,489129,6565,367260
+AL,1907,PHA,Philadelphia Athletics,Columbia Park,73,625581,8341,424846
+AL,1908,PHA,Philadelphia Athletics,Columbia Park,78,455062,5797,451421
+AL,1909,PHA,Philadelphia Athletics,Shibe Park,76,674915,8822,467484
+AL,1910,PHA,Philadelphia Athletics,Shibe Park,78,588905,7599,408836
+AL,1911,PHA,Philadelphia Athletics,Shibe Park,75,605749,7970,417439
+AL,1912,PHA,Philadelphia Athletics,Shibe Park,77,517653,6767,407954
+AL,1913,PHA,Philadelphia Athletics,Shibe Park,76,571896,7476,440851
+AL,1914,PHA,Philadelphia Athletics,Shibe Park,78,346641,4388,343449
+AL,1915,PHA,Philadelphia Athletics,Shibe Park,74,146223,1899,304336
+AL,1916,PHA,Philadelphia Athletics,Shibe Park,76,184471,2396,431486
+AL,1917,PHA,Philadelphia Athletics,Shibe Park,76,221432,2876,357357
+AL,1918,PHA,Philadelphia Athletics,Shibe Park,68,177926,2737,213500
+AL,1919,PHA,Philadelphia Athletics,Shibe Park,70,225209,3217,456780
+AL,1920,PHA,Philadelphia Athletics,Shibe Park,77,287888,3691,635538
+AL,1921,PHA,Philadelphia Athletics,Shibe Park,77,344430,4444,577541
+AL,1922,PHA,Philadelphia Athletics,Shibe Park,78,425356,5488,609294
+AL,1923,PHA,Philadelphia Athletics,Shibe Park,75,534122,6982,575324
+AL,1924,PHA,Philadelphia Athletics,Shibe Park,75,531992,7000,656930
+AL,1925,PHA,Philadelphia Athletics,Shibe Park,77,869703,11369,648356
+AL,1926,PHA,Philadelphia Athletics,Shibe Park,71,714508,9527,614073
+AL,1927,PHA,Philadelphia Athletics,Shibe Park,77,605529,7813,576619
+AL,1928,PHA,Philadelphia Athletics,Shibe Park,77,689756,9016,527649
+AL,1929,PHA,Philadelphia Athletics,Shibe Park,74,839176,11115,582809
+AL,1930,PHA,Philadelphia Athletics,Shibe Park,76,721663,9372,585716
+AL,1931,PHA,Philadelphia Athletics,Shibe Park,75,627464,8202,485412
+AL,1932,PHA,Philadelphia Athletics,Shibe Park,77,405500,5266,391654
+AL,1933,PHA,Philadelphia Athletics,Shibe Park,76,297138,3910,365776
+AL,1934,PHA,Philadelphia Athletics,Shibe Park,76,305847,3998,470451
+AL,1935,PHA,Philadelphia Athletics,Shibe Park,72,233173,3130,461001
+AL,1936,PHA,Philadelphia Athletics,Shibe Park,77,285173,3704,522365
+AL,1937,PHA,Philadelphia Athletics,Shibe Park,79,430738,5594,591979
+AL,1938,PHA,Philadelphia Athletics,Shibe Park,76,385357,5005,555711
+AL,1939,PHA,Philadelphia Athletics,Shibe Park,76,395022,5164,533825
+AL,1940,PHA,Philadelphia Athletics,Shibe Park,71,432145,5612,679224
+AL,1941,PHA,Philadelphia Athletics,Shibe Park,77,528894,6869,613995
+AL,1942,PHA,Philadelphia Athletics,Shibe Park,76,423487,5500,525027
+AL,1943,PHA,Philadelphia Athletics,Shibe Park,79,376735,4861,462071
+AL,1944,PHA,Philadelphia Athletics,Shibe Park,76,505322,6520,599770
+AL,1945,PHA,Philadelphia Athletics,Shibe Park,77,462631,6047,697553
+AL,1946,PHA,Philadelphia Athletics,Shibe Park,78,621793,8023,1202648
+AL,1947,PHA,Philadelphia Athletics,Shibe Park,78,911566,11687,1185759
+AL,1948,PHA,Philadelphia Athletics,Shibe Park,77,945076,12274,1393762
+AL,1949,PHA,Philadelphia Athletics,Shibe Park,77,816514,10604,1341331
+AL,1950,PHA,Philadelphia Athletics,Shibe Park,77,309805,4023,1142795
+AL,1951,PHA,Philadelphia Athletics,Shibe Park,79,465469,6045,1110334
+AL,1952,PHA,Philadelphia Athletics,Shibe Park,78,627100,8092,1036737
+AL,1953,PHA,Philadelphia Athletics,Shibe Park,78,362113,4613,870510
+AL,1954,PHA,Philadelphia Athletics,Shibe Park,77,304666,3906,990296
+AL,1955,KC1,Kansas City Athletics,Municipal Stadium,76,1393054,17975,1117871
+AL,1956,KC1,Kansas City Athletics,Municipal Stadium,77,1015154,13184,986710
+AL,1957,KC1,Kansas City Athletics,Municipal Stadium,77,901067,11702,1024527
+AL,1958,KC1,Kansas City Athletics,Municipal Stadium,78,925090,11860,912004
+AL,1959,KC1,Kansas City Athletics,Municipal Stadium,77,963683,12515,1143682
+AL,1960,KC1,Kansas City Athletics,Municipal Stadium,78,774944,9999,1153316
+AL,1961,KC1,Kansas City Athletics,Municipal Stadium,80,683817,8442,1016302
+AL,1962,KC1,Kansas City Athletics,Municipal Stadium,81,635675,7848,1001506
+AL,1963,KC1,Kansas City Athletics,Municipal Stadium,81,762364,9412,909485
+AL,1964,KC1,Kansas City Athletics,Municipal Stadium,81,642478,7883,923515
+AL,1965,KC1,Kansas City Athletics,Municipal Stadium,81,528344,6523,886076
+AL,1966,KC1,Kansas City Athletics,Municipal Stadium,81,773929,9674,1016674
+AL,1967,KC1,Kansas City Athletics,Municipal Stadium,81,726639,9027,1133692
+AL,1968,OAK,Oakland Athletics,Oakland-Alameda Coliseum,83,837466,10276,1131739
+AL,1969,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,778232,9608,1011227
+AL,1970,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,778355,9609,1007095
+AL,1971,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,914993,11366,989047
+AL,1972,OAK,Oakland Athletics,Oakland-Alameda Coliseum,77,921323,11888,953211
+AL,1973,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1000763,12355,1119467
+AL,1974,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,845693,10441,1087275
+AL,1975,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1075518,13278,1099119
+AL,1976,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,780593,9697,1221484
+AL,1977,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,495599,6157,1402825
+AL,1978,OAK,Oakland Athletics,Oakland-Alameda Coliseum,80,526999,6506,1466426
+AL,1979,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,306763,3787,1597999
+AL,1980,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,842259,10398,1563575
+AL,1981,OAK,Oakland Athletics,Oakland-Alameda Coliseum,56,1304052,23928,1004713
+AL,1982,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1735489,21426,1648604
+AL,1983,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1294941,15987,1713647
+AL,1984,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1353281,16707,1711531
+AL,1985,OAK,Oakland Athletics,Oakland-Alameda Coliseum,79,1334599,16477,1752302
+AL,1986,OAK,Oakland Athletics,Oakland-Alameda Coliseum,83,1314646,16230,1798052
+AL,1987,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1678921,20727,1948382
+AL,1988,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,2287335,28239,2035688
+AL,1989,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,2667225,32929,2132090
+AL,1990,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,2900217,35805,2166590
+AL,1991,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,2713493,33500,2294113
+AL,1992,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,2494160,30792,2268524
+AL,1993,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,2035025,25124,2380955
+AL,1994,OAK,Oakland Athletics,Oakland-Alameda Coliseum,56,1242692,21802,1728728
+AL,1995,OAK,Oakland Athletics,Oakland-Alameda Coliseum,72,1174310,16310,1811356
+AL,1996,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1148380,14178,2122721
+AL,1997,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1264218,15608,2234523
+AL,1998,OAK,Oakland Athletics,Oakland-Alameda Coliseum,81,1232343,15214,2298169
+AL,1999,OAK,Oakland Athletics,Networks Associates Coliseum,81,1434632,17712,2286874
+AL,2000,OAK,Oakland Athletics,Networks Associates Coliseum,81,1728885,19922,2262557
+AL,2001,OAK,Oakland Athletics,Networks Associates Coliseum,81,2133477,26339,2346071
+AL,2002,OAK,Oakland Athletics,Networks Associates Coliseum,81,2169811,26788,2207891
+AL,2003,OAK,Oakland Athletics,Networks Associates Coliseum,81,2216596,27365,2191745
+AL,2004,OAK,Oakland Athletics,McAfee Coliseum,81,2201516,27179,2340422
+AL,2005,OAK,Oakland Athletics,McAfee Coliseum,81,2109298,26040,2360452
+AL,2006,OAK,Oakland Athletics,McAfee Coliseum,81,1976625,24402,2458741
+AL,2007,OAK,Oakland Athletics,McAfee Coliseum,81,1921844,23726,2527968
+AL,2008,OAK,Oakland Athletics,McAfee Coliseum,81,1578922,19986,2464986
+AL,2009,OAK,Oakland Athletics,McAfee Coliseum,81,1408783,17392,2305178
+AL,2010,OAK,Oakland Athletics,McAfee Coliseum,81,1418391,17511,2289427
+AL,2011,OAK,Oakland Athletics,McAfee Coliseum,81,1476791,18232,2333812
+AL,2012,OAK,Oakland Athletics,McAfee Coliseum,81,1679013,20728,2384555
+AL,2013,OAK,Oakland Athletics,McAfee Coliseum,81,1809302,22337,2306065
+AL,2014,OAK,Oakland Athletics,McAfee Coliseum,81,2003628,24736,2299409
+AL,1977,SEA,Seattle Mariners,Kingdome,81,1338511,16525,1402825
+AL,1978,SEA,Seattle Mariners,Kingdome,81,877440,10968,1466426
+AL,1979,SEA,Seattle Mariners,Kingdome,81,844447,10425,1597999
+AL,1980,SEA,Seattle Mariners,Kingdome,81,836204,10260,1563575
+AL,1981,SEA,Seattle Mariners,Kingdome,57,636276,11569,1004713
+AL,1982,SEA,Seattle Mariners,Kingdome,81,1070404,13215,1648604
+AL,1983,SEA,Seattle Mariners,Kingdome,81,813537,10044,1713647
+AL,1984,SEA,Seattle Mariners,Kingdome,81,870372,10745,1711531
+AL,1985,SEA,Seattle Mariners,Kingdome,83,1128696,13935,1752302
+AL,1986,SEA,Seattle Mariners,Kingdome,82,1029045,12704,1798052
+AL,1987,SEA,Seattle Mariners,Kingdome,81,1134255,14003,1948382
+AL,1988,SEA,Seattle Mariners,Kingdome,81,1022398,12701,2035688
+AL,1989,SEA,Seattle Mariners,Kingdome,81,1298443,16030,2132090
+AL,1990,SEA,Seattle Mariners,Kingdome,81,1509727,18639,2166590
+AL,1991,SEA,Seattle Mariners,Kingdome,81,2147905,26517,2294113
+AL,1992,SEA,Seattle Mariners,Kingdome,81,1651367,20387,2268524
+AL,1993,SEA,Seattle Mariners,Kingdome,81,2052638,25341,2380955
+AL,1994,SEA,Seattle Mariners,Kingdome,44,1104206,19718,1728728
+AL,1995,SEA,Seattle Mariners,Kingdome,73,1643203,22665,1811356
+AL,1996,SEA,Seattle Mariners,Kingdome,81,2723850,33837,2122721
+AL,1997,SEA,Seattle Mariners,Kingdome,81,3192237,39410,2234523
+AL,1998,SEA,Seattle Mariners,Kingdome,81,2651511,32938,2298169
+AL,1999,SEA,Seattle Mariners,Kingdome,81,2915908,35999,2286874
+AL,2000,SEA,Seattle Mariners,Kingdome / SAFECO Field,81,3148317,35983,2262557
+AL,2001,SEA,Seattle Mariners,SAFECO Field,81,3512326,43362,2346071
+AL,2002,SEA,Seattle Mariners,SAFECO Field,81,3540482,43710,2207891
+AL,2003,SEA,Seattle Mariners,SAFECO Field,81,3268509,40351,2191745
+AL,2004,SEA,Seattle Mariners,SAFECO Field,82,2940731,36305,2340422
+AL,2005,SEA,Seattle Mariners,SAFECO Field,81,2689529,33619,2360452
+AL,2006,SEA,Seattle Mariners,SAFECO Field,81,2480717,30626,2458741
+AL,2007,SEA,Seattle Mariners,SAFECO Field,82,2672409,32992,2527968
+AL,2008,SEA,Seattle Mariners,SAFECO Field,81,2329702,28761,2464986
+AL,2009,SEA,Seattle Mariners,SAFECO Field,81,2195284,27102,2305178
+AL,2010,SEA,Seattle Mariners,SAFECO Field,81,2085630,25749,2289427
+AL,2011,SEA,Seattle Mariners,SAFECO Field,84,1896321,23411,2333812
+AL,2012,SEA,Seattle Mariners,SAFECO Field,81,1721920,21258,2384555
+AL,2013,SEA,Seattle Mariners,SAFECO Field,81,1761546,21747,2306065
+AL,2014,SEA,Seattle Mariners,SAFECO Field,81,2064334,25486,2299409
+AL,1998,TBA,Tampa Bay Devil Rays,Tropicana Field,81,2506023,30942,2298169
+AL,1999,TBA,Tampa Bay Devil Rays,Tropicana Field,81,1562827,21601,2286874
+AL,2000,TBA,Tampa Bay Devil Rays,Tropicana Field,80,1479782,18008,2262557
+AL,2001,TBA,Tampa Bay Devil Rays,Tropicana Field,81,1298075,16026,2346071
+AL,2002,TBA,Tampa Bay Devil Rays,Tropicana Field,81,1065762,13158,2207891
+AL,2003,TBA,Tampa Bay Devil Rays,Tropicana Field,81,1058695,13070,2191745
+AL,2004,TBA,Tampa Bay Devil Rays,Tropicana Field,80,1275011,16139,2340422
+AL,2005,TBA,Tampa Bay Devil Rays,Tropicana Field,81,1124189,14052,2360452
+AL,2006,TBA,Tampa Bay Devil Rays,Tropicana Field,81,1369031,16901,2458741
+AL,2007,TBA,Tampa Bay Devil Rays,Tropicana Field,81,1389031,17148,2527968
+AL,2008,TBA,Tampa Bay Rays,Tropicana Field,81,1780791,22259,2464986
+AL,2009,TBA,Tampa Bay Rays,Tropicana Field,81,1874962,23147,2305178
+AL,2010,TBA,Tampa Bay Rays,Tropicana Field,81,1864999,23025,2289427
+AL,2011,TBA,Tampa Bay Rays,Tropicana Field,81,1529188,18879,2333812
+AL,2012,TBA,Tampa Bay Rays,Tropicana Field,81,1559681,19255,2384555
+AL,2013,TBA,Tampa Bay Rays,Tropicana Field,81,1510300,18646,2306065
+AL,2014,TBA,Tampa Bay Rays,Tropicana Field,81,1446464,17858,2299409
+AL,1961,WS2,Washington Senators,Griffith Stadium,79,597287,7420,1016302
+AL,1962,WS2,Washington Senators,R.F.K. Stadium,80,729775,9010,1001506
+AL,1963,WS2,Washington Senators,R.F.K. Stadium,80,535604,6612,909485
+AL,1964,WS2,Washington Senators,R.F.K. Stadium,81,600106,7409,923515
+AL,1965,WS2,Washington Senators,R.F.K. Stadium,81,560083,6915,886076
+AL,1966,WS2,Washington Senators,R.F.K. Stadium,78,576260,7249,1016674
+AL,1967,WS2,Washington Senators,R.F.K. Stadium,80,770868,9576,1133692
+AL,1968,WS2,Washington Senators,R.F.K. Stadium,81,546661,6791,1131739
+AL,1969,WS2,Washington Senators,R.F.K. Stadium,81,918106,11335,1011227
+AL,1970,WS2,Washington Senators,R.F.K. Stadium,81,824789,10183,1007095
+AL,1971,WS2,Washington Senators,R.F.K. Stadium,81,655156,8241,989047
+AL,1972,TEX,Texas Rangers,Arlington Stadium,77,662974,8610,953211
+AL,1973,TEX,Texas Rangers,Arlington Stadium,81,686085,8470,1119467
+AL,1974,TEX,Texas Rangers,Arlington Stadium,80,1193902,14831,1087275
+AL,1975,TEX,Texas Rangers,Arlington Stadium,80,1127924,13925,1099119
+AL,1976,TEX,Texas Rangers,Arlington Stadium,81,1164982,14382,1221484
+AL,1977,TEX,Texas Rangers,Arlington Stadium,81,1250722,15441,1402825
+AL,1978,TEX,Texas Rangers,Arlington Stadium,82,1447963,17876,1466426
+AL,1979,TEX,Texas Rangers,Arlington Stadium,81,1519671,18761,1597999
+AL,1980,TEX,Texas Rangers,Arlington Stadium,80,1198175,14702,1563575
+AL,1981,TEX,Texas Rangers,Arlington Stadium,56,850076,16192,1004713
+AL,1982,TEX,Texas Rangers,Arlington Stadium,81,1154432,14252,1648604
+AL,1983,TEX,Texas Rangers,Arlington Stadium,81,1363469,16730,1713647
+AL,1984,TEX,Texas Rangers,Arlington Stadium,80,1102471,13695,1711531
+AL,1985,TEX,Texas Rangers,Arlington Stadium,80,1112497,13820,1752302
+AL,1986,TEX,Texas Rangers,Arlington Stadium,81,1692002,20889,1798052
+AL,1987,TEX,Texas Rangers,Arlington Stadium,81,1763053,21766,1948382
+AL,1988,TEX,Texas Rangers,Arlington Stadium,81,1581901,19651,2035688
+AL,1989,TEX,Texas Rangers,Arlington Stadium,81,2043993,25234,2132090
+AL,1990,TEX,Texas Rangers,Arlington Stadium,82,2057911,25406,2166590
+AL,1991,TEX,Texas Rangers,Arlington Stadium,81,2297720,28367,2294113
+AL,1992,TEX,Texas Rangers,Arlington Stadium,81,2198231,27139,2268524
+AL,1993,TEX,Texas Rangers,Arlington Stadium,81,2244616,27711,2380955
+AL,1994,TEX,Texas Rangers,The Ballpark at Arlington,63,2503198,43916,1728728
+AL,1995,TEX,Texas Rangers,The Ballpark at Arlington,72,1985910,27582,1811356
+AL,1996,TEX,Texas Rangers,The Ballpark at Arlington,81,2889020,35448,2122721
+AL,1997,TEX,Texas Rangers,The Ballpark at Arlington,81,2945228,36361,2234523
+AL,1998,TEX,Texas Rangers,The Ballpark at Arlington,81,2927399,36142,2298169
+AL,1999,TEX,Texas Rangers,The Ballpark at Arlington,81,2774501,34253,2286874
+AL,2000,TEX,Texas Rangers,The Ballpark at Arlington,81,2800075,31956,2262557
+AL,2001,TEX,Texas Rangers,The Ballpark at Arlington,82,2831111,34952,2346071
+AL,2002,TEX,Texas Rangers,The Ballpark at Arlington,80,2352447,29043,2207891
+AL,2003,TEX,Texas Rangers,The Ballpark at Arlington,81,2094394,25856,2191745
+AL,2004,TEX,Texas Rangers,Ameriquest Field at Arlington,81,2513685,31818,2340422
+AL,2005,TEX,Texas Rangers,Ameriquest Field at Arlington,81,2486925,31480,2360452
+AL,2006,TEX,Texas Rangers,Ameriquest Field at Arlington,81,2388757,29490,2458741
+AL,2007,TEX,Texas Rangers,Rangers Ballpark in Arlington,81,2353862,29795,2527968
+AL,2008,TEX,Texas Rangers,Rangers Ballpark in Arlington,81,1945677,24320,2464986
+AL,2009,TEX,Texas Rangers,Rangers Ballpark in Arlington,81,2156016,27641,2305178
+AL,2010,TEX,Texas Rangers,Rangers Ballpark in Arlington,81,2505171,30928,2289427
+AL,2011,TEX,Texas Rangers,Rangers Ballpark in Arlington,81,2946949,36382,2333812
+AL,2012,TEX,Texas Rangers,Rangers Ballpark in Arlington,81,3462780,42719,2384555
+AL,2013,TEX,Texas Rangers,Rangers Ballpark in Arlington,82,3178273,38759,2306065
+AL,2014,TEX,Texas Rangers,Rangers Ballpark in Arlington,81,2718733,33565,2299409
+AL,1977,TOR,Toronto Blue Jays,Exhibition Stadium,80,1701052,21131,1402825
+AL,1978,TOR,Toronto Blue Jays,Exhibition Stadium,81,1562585,19411,1466426
+AL,1979,TOR,Toronto Blue Jays,Exhibition Stadium,81,1431651,17675,1597999
+AL,1980,TOR,Toronto Blue Jays,Exhibition Stadium,81,1400327,17288,1563575
+AL,1981,TOR,Toronto Blue Jays,Exhibition Stadium,53,755083,14247,1004713
+AL,1982,TOR,Toronto Blue Jays,Exhibition Stadium,81,1275978,15753,1648604
+AL,1983,TOR,Toronto Blue Jays,Exhibition Stadium,81,1930415,23832,1713647
+AL,1984,TOR,Toronto Blue Jays,Exhibition Stadium,81,2110009,25890,1711531
+AL,1985,TOR,Toronto Blue Jays,Exhibition Stadium,80,2468925,30670,1752302
+AL,1986,TOR,Toronto Blue Jays,Exhibition Stadium,81,2455477,30129,1798052
+AL,1987,TOR,Toronto Blue Jays,Exhibition Stadium,81,2778429,34302,1948382
+AL,1988,TOR,Toronto Blue Jays,Exhibition Stadium,81,2595175,32039,2035688
+AL,1989,TOR,Toronto Blue Jays,Exhibition Stadium / SkyDome,81,3375883,41678,2132090
+AL,1990,TOR,Toronto Blue Jays,Skydome,81,3885284,47966,2166590
+AL,1991,TOR,Toronto Blue Jays,Skydome,81,4001527,49402,2294113
+AL,1992,TOR,Toronto Blue Jays,Skydome,81,4028318,49732,2268524
+AL,1993,TOR,Toronto Blue Jays,Skydome,81,4057947,50098,2380955
+AL,1994,TOR,Toronto Blue Jays,Skydome,59,2907933,49287,1728728
+AL,1995,TOR,Toronto Blue Jays,Skydome,72,2826483,39257,1811356
+AL,1996,TOR,Toronto Blue Jays,Skydome,81,2559573,31600,2122721
+AL,1997,TOR,Toronto Blue Jays,Skydome,81,2589297,31967,2234523
+AL,1998,TOR,Toronto Blue Jays,Skydome,81,2454303,30300,2298169
+AL,1999,TOR,Toronto Blue Jays,Skydome,81,2163486,26710,2286874
+AL,2000,TOR,Toronto Blue Jays,Skydome,81,1819919,21058,2262557
+AL,2001,TOR,Toronto Blue Jays,Skydome,82,1895236,23690,2346071
+AL,2002,TOR,Toronto Blue Jays,Skydome,81,1636904,20209,2207891
+AL,2003,TOR,Toronto Blue Jays,Skydome,81,1799458,22215,2191745
+AL,2004,TOR,Toronto Blue Jays,Skydome,81,1900041,23457,2340422
+AL,2005,TOR,Toronto Blue Jays,Rogers Centre,81,1977949,24724,2360452
+AL,2006,TOR,Toronto Blue Jays,Rogers Centre,81,2302182,28422,2458741
+AL,2007,TOR,Toronto Blue Jays,Rogers Centre,81,2360648,29143,2527968
+AL,2008,TOR,Toronto Blue Jays,Rogers Centre,81,2399786,29626,2464986
+AL,2009,TOR,Toronto Blue Jays,Rogers Centre,81,1876129,23162,2305178
+AL,2010,TOR,Toronto Blue Jays,Rogers Centre,78,1495482,18463,2289427
+AL,2011,TOR,Toronto Blue Jays,Rogers Centre,81,1818103,22446,2333812
+AL,2012,TOR,Toronto Blue Jays,Rogers Centre,81,2099663,25921,2384555
+AL,2013,TOR,Toronto Blue Jays,Rogers Centre,81,2536562,31316,2306065
+AL,2014,TOR,Toronto Blue Jays,Rogers Centre,81,2375525,29327,2299409
+NL,1998,ARI,Arizona Diamondbacks,Bank One Ballpark,81,3600412,44571,2401674
+NL,1999,ARI,Arizona Diamondbacks,Bank One Ballpark,81,3019654,37234,2380436
+NL,2000,ARI,Arizona Diamondbacks,Bank One Ballpark,81,2819539,36324,2480194
+NL,2001,ARI,Arizona Diamondbacks,Bank One Ballpark,81,2735821,33766,2481346
+NL,2002,ARI,Arizona Diamondbacks,Bank One Ballpark,81,3200725,39515,2309294
+NL,2003,ARI,Arizona Diamondbacks,Bank One Ballpark,81,2805542,34636,2273813
+NL,2004,ARI,Arizona Diamondbacks,Bank One Ballpark,81,2519560,31105,2512690
+NL,2005,ARI,Arizona Diamondbacks,Bank One Ballpark,81,2059331,25423,2583685
+NL,2006,ARI,Arizona Diamondbacks,Chase Field,81,2091505,25821,2598741
+NL,2007,ARI,Arizona Diamondbacks,Chase Field,81,2316507,28598,2756384
+NL,2008,ARI,Arizona Diamondbacks,Chase Field,81,2509924,30986,2755082
+NL,2009,ARI,Arizona Diamondbacks,Chase Field,81,2129183,26286,2571627
+NL,2010,ARI,Arizona Diamondbacks,Chase Field,81,2056697,25391,2563111
+NL,2011,ARI,Arizona Diamondbacks,Chase Field,81,2105432,25993,2547018
+NL,2012,ARI,Arizona Diamondbacks,Chase Field,81,2177617,26884,2592218
+NL,2013,ARI,Arizona Diamondbacks,Chase Field,81,2134795,26355,2629060
+NL,2014,ARI,Arizona Diamondbacks,Chase Field,81,2073730,25602,2615565
+NL,1901,BSN,Boston Beaneaters,South End Grounds,70,146502,2123,240004
+NL,1902,BSN,Boston Beaneaters,South End Grounds,72,116960,1707,210377
+NL,1903,BSN,Boston Beaneaters,South End Grounds,68,143155,2075,298795
+NL,1904,BSN,Boston Beaneaters,South End Grounds,79,140694,1839,333034
+NL,1905,BSN,Boston Beaneaters,South End Grounds,76,150003,1948,341789
+NL,1906,BSN,Boston Beaneaters,South End Grounds,76,143280,1898,347652
+NL,1907,BSN,Boston Beaneaters,South End Grounds,74,203221,2746,330028
+NL,1908,BSN,Boston Beaneaters,South End Grounds,78,253750,3295,439014
+NL,1909,BSN,Boston Beaneaters,South End Grounds,76,195188,2551,437053
+NL,1910,BSN,Boston Beaneaters,South End Grounds,78,149027,1948,366970
+NL,1911,BSN,Boston Beaneaters,South End Grounds,75,116000,1536,403971
+NL,1912,BSN,Boston Beaneaters,South End Grounds,79,121000,1582,341970
+NL,1913,BSN,Boston Braves,South End Grounds,77,208000,2755,353941
+NL,1914,BSN,Boston Braves,South End Grounds,79,382913,5005,213425
+NL,1915,BSN,Boston Braves,Braves Field,78,376283,4951,303768
+NL,1916,BSN,Boston Braves,Braves Field,78,313495,4125,381454
+NL,1917,BSN,Boston Braves,Braves Field,77,174253,2278,295142
+NL,1918,BSN,Boston Braves,Braves Field,52,84938,1370,171516
+NL,1919,BSN,Boston Braves,Braves Field,68,167401,2409,359775
+NL,1920,BSN,Boston Braves,Braves Field,74,162483,2138,504572
+NL,1921,BSN,Boston Braves,Braves Field,74,318627,4165,498373
+NL,1922,BSN,Boston Braves,Braves Field,76,167965,2196,492728
+NL,1923,BSN,Boston Braves,Braves Field,77,227802,2958,508727
+NL,1924,BSN,Boston Braves,Braves Field,76,177478,2320,542581
+NL,1925,BSN,Boston Braves,Braves Field,76,313528,4098,544213
+NL,1926,BSN,Boston Braves,Braves Field,77,303598,3995,615050
+NL,1927,BSN,Boston Braves,Braves Field,74,288685,3749,663740
+NL,1928,BSN,Boston Braves,Braves Field,76,227001,2967,610137
+NL,1929,BSN,Boston Braves,Braves Field,77,372351,4836,615714
+NL,1930,BSN,Boston Braves,Braves Field,77,464835,6037,680817
+NL,1931,BSN,Boston Braves,Braves Field,78,515005,6688,572977
+NL,1932,BSN,Boston Braves,Braves Field,77,507606,6592,480167
+NL,1933,BSN,Boston Braves,Braves Field,77,517803,6725,395353
+NL,1934,BSN,Boston Braves,Braves Field,75,303205,4016,400013
+NL,1935,BSN,Boston Braves,Braves Field,75,232754,3043,457164
+NL,1936,BSN,Boston Braves,Braves Field,79,340585,4423,487961
+NL,1937,BSN,Boston Braves,Braves Field,76,385339,5070,525529
+NL,1938,BSN,Boston Braves,Braves Field,75,341149,4489,570103
+NL,1939,BSN,Boston Braves,Braves Field,73,285994,3788,588397
+NL,1940,BSN,Boston Braves,Braves Field,75,241616,3179,548712
+NL,1941,BSN,Boston Braves,Braves Field,76,263680,3424,597206
+NL,1942,BSN,Boston Braves,Braves Field,71,285332,3856,544169
+NL,1943,BSN,Boston Braves,Braves Field,77,271289,3546,471168
+NL,1944,BSN,Boston Braves,Braves Field,78,208691,2710,496824
+NL,1945,BSN,Boston Braves,Braves Field,75,374178,4923,657588
+NL,1946,BSN,Boston Braves,Braves Field,77,969673,12675,1112763
+NL,1947,BSN,Boston Braves,Braves Field,77,1277361,16589,1298559
+NL,1948,BSN,Boston Braves,Braves Field,76,1455439,19025,1221343
+NL,1949,BSN,Boston Braves,Braves Field,77,1081795,14049,1185590
+NL,1950,BSN,Boston Braves,Braves Field,79,944391,12265,1040077
+NL,1951,BSN,Boston Braves,Braves Field,78,487475,6331,905500
+NL,1952,BSN,Boston Braves,Braves Field,77,281278,3677,792394
+NL,1953,ML1,Milwaukee Braves,County Stadium,79,1826397,23719,927465
+NL,1954,ML1,Milwaukee Braves,County Stadium,77,2131388,27680,1001690
+NL,1955,ML1,Milwaukee Braves,County Stadium,77,2005836,26050,959302
+NL,1956,ML1,Milwaukee Braves,County Stadium,77,2046331,26576,1081196
+NL,1957,ML1,Milwaukee Braves,County Stadium,78,2215404,28771,1102450
+NL,1958,ML1,Milwaukee Braves,County Stadium,77,1971101,25599,1270575
+NL,1959,ML1,Milwaukee Braves,County Stadium,79,1749112,22425,1249316
+NL,1960,ML1,Milwaukee Braves,County Stadium,77,1497799,19452,1335620
+NL,1961,ML1,Milwaukee Braves,County Stadium,77,1101441,14304,1091438
+NL,1962,ML1,Milwaukee Braves,County Stadium,81,766921,9468,"1,13,6016"
+NL,1963,ML1,Milwaukee Braves,County Stadium,82,773018,9543,1138223
+NL,1964,ML1,Milwaukee Braves,County Stadium,81,910911,11246,1204519
+NL,1965,ML1,Milwaukee Braves,County Stadium,81,555584,6859,1358114
+NL,1966,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,82,1539801,19010,1501547
+NL,1967,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1389222,17151,1297143
+NL,1968,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1126540,13908,1178536
+NL,1969,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1458320,18004,1257912
+NL,1970,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1078848,13319,1388517
+NL,1971,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,82,1006320,12424,1443738
+NL,1972,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,78,752973,9779,1294144
+NL,1973,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,800655,9946,1389610
+NL,1974,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,981085,12112,1414860
+NL,1975,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,80,534672,6642,1383374
+NL,1976,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,818179,10101,1388377
+NL,1977,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,872464,10771,1589186
+NL,1978,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,904494,11167,1675577
+NL,1979,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,79,769465,9618,1764868
+NL,1980,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,80,1048411,13024,1760340
+NL,1981,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,50,535418,10102,1039866
+NL,1982,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1801985,22247,1792285
+NL,1983,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,80,2119935,26172,1795774
+NL,1984,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1724892,21295,1731786
+NL,1985,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1350137,16668,1857680
+NL,1986,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1387181,17232,1861123
+NL,1987,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,1217402,15123,2061180
+NL,1988,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,79,848089,10601,2041606
+NL,1989,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,79,984930,12312,2110320
+NL,1990,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,980129,12100,2040959
+NL,1991,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,2140217,26422,2058014
+NL,1992,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,3077400,37992,2009261
+NL,1993,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,3884720,47960,2637470
+NL,1994,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,55,2539240,44548,1843416
+NL,1995,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,72,2561831,35581,1793589
+NL,1996,ATL,Atlanta Braves,Atlanta-Fulton County Stadium,81,2901242,35818,2169949
+NL,1997,ATL,Atlanta Braves,Turner Field,81,3464488,42771,2277526
+NL,1998,ATL,Atlanta Braves,Turner Field,81,3360860,41492,2401674
+NL,1999,ATL,Atlanta Braves,Turner Field,81,3284901,40554,2380436
+NL,2000,ATL,Atlanta Braves,Turner Field,81,3234304,39930,2480194
+NL,2001,ATL,Atlanta Braves,Turner Field,81,2823530,34858,2481346
+NL,2002,ATL,Atlanta Braves,Turner Field,81,2603482,32142,2309294
+NL,2003,ATL,Atlanta Braves,Turner Field,81,2401084,30393,2273813
+NL,2004,ATL,Atlanta Braves,Turner Field,81,2322565,29399,2512690
+NL,2005,ATL,Atlanta Braves,Turner Field,81,2521534,31519,2583685
+NL,2006,ATL,Atlanta Braves,Turner Field,81,2549522,31869,2598741
+NL,2007,ATL,Atlanta Braves,Turner Field,81,2745203,33891,2756384
+NL,2008,ATL,Atlanta Braves,Turner Field,81,2532834,31269,2755082
+NL,2009,ATL,Atlanta Braves,Turner Field,81,2373631,29304,2571627
+NL,2010,ATL,Atlanta Braves,Turner Field,81,2510119,30989,2563111
+NL,2011,ATL,Atlanta Braves,Turner Field,81,2372940,29296,2547018
+NL,2012,ATL,Atlanta Braves,Turner Field,81,2420171,29878,2592218
+NL,2013,ATL,Atlanta Braves,Turner Field,81,2548679,31465,2629060
+NL,2014,ATL,Atlanta Braves,Turner Field,81,2354305,29065,2615565
+NL,1901,CHN,Chicago Orphans,West Side Park,70,205071,2930,240004
+NL,1902,CHN,Chicago Cubs,West Side Park,70,263700,3740,210377
+NL,1903,CHN,Chicago Cubs,West Side Park,73,386205,5557,298795
+NL,1904,CHN,Chicago Cubs,West Side Park,78,439100,5629,333034
+NL,1905,CHN,Chicago Cubs,West Side Park,81,509900,6579,341789
+NL,1906,CHN,Chicago Cubs,West Side Park,79,654300,8443,347652
+NL,1907,CHN,Chicago Cubs,West Side Park,76,422550,5452,330028
+NL,1908,CHN,Chicago Cubs,West Side Park,78,665325,8422,439014
+NL,1909,CHN,Chicago Cubs,West Side Park,77,633480,8174,437053
+NL,1910,CHN,Chicago Cubs,West Side Park,77,526152,6833,366970
+NL,1911,CHN,Chicago Cubs,West Side Park,84,576000,7338,403971
+NL,1912,CHN,Chicago Cubs,West Side Park,78,514000,6763,341970
+NL,1913,CHN,Chicago Cubs,West Side Park,76,419000,5406,353941
+NL,1914,CHN,Chicago Cubs,West Side Park,76,202516,2596,213425
+NL,1915,CHN,Chicago Cubs,West Side Park,77,217058,2783,303768
+NL,1916,CHN,Chicago Cubs,Weeghman Park,79,453685,5816,381454
+NL,1917,CHN,Chicago Cubs,Weeghman Park,77,360218,4589,295142
+NL,1918,CHN,Chicago Cubs,Weeghman Park,74,337256,5149,171516
+NL,1919,CHN,Chicago Cubs,Weeghman Park,71,424430,6063,359775
+NL,1920,CHN,Chicago Cubs,Cubs Park,77,480783,6244,504572
+NL,1921,CHN,Chicago Cubs,Cubs Park,76,410107,5361,498373
+NL,1922,CHN,Chicago Cubs,Cubs Park,76,542283,6952,492728
+NL,1923,CHN,Chicago Cubs,Cubs Park,77,703705,9139,508727
+NL,1924,CHN,Chicago Cubs,Cubs Park,78,716922,9311,542581
+NL,1925,CHN,Chicago Cubs,Cubs Park,77,622610,8086,544213
+NL,1926,CHN,Chicago Cubs,Wrigley Field,78,885063,11420,615050
+NL,1927,CHN,Chicago Cubs,Wrigley Field,78,1159168,15153,663740
+NL,1928,CHN,Chicago Cubs,Wrigley Field,77,1143740,14854,610137
+NL,1929,CHN,Chicago Cubs,Wrigley Field,78,1485166,19041,615714
+NL,1930,CHN,Chicago Cubs,Wrigley Field,79,1463624,18764,680817
+NL,1931,CHN,Chicago Cubs,Wrigley Field,77,1086422,13928,572977
+NL,1932,CHN,Chicago Cubs,Wrigley Field,77,974688,12658,480167
+NL,1933,CHN,Chicago Cubs,Wrigley Field,79,594112,7716,395353
+NL,1934,CHN,Chicago Cubs,Wrigley Field,77,707525,9310,400013
+NL,1935,CHN,Chicago Cubs,Wrigley Field,77,692604,8995,457164
+NL,1936,CHN,Chicago Cubs,Wrigley Field,77,699370,9083,487961
+NL,1937,CHN,Chicago Cubs,Wrigley Field,78,895020,11624,525529
+NL,1938,CHN,Chicago Cubs,Wrigley Field,77,951640,12359,570103
+NL,1939,CHN,Chicago Cubs,Wrigley Field,80,726663,9316,588397
+NL,1940,CHN,Chicago Cubs,Wrigley Field,77,534878,6946,548712
+NL,1941,CHN,Chicago Cubs,Wrigley Field,77,545159,7034,597206
+NL,1942,CHN,Chicago Cubs,Wrigley Field,78,590972,7625,544169
+NL,1943,CHN,Chicago Cubs,Wrigley Field,75,508247,6601,471168
+NL,1944,CHN,Chicago Cubs,Wrigley Field,78,640110,8154,496824
+NL,1945,CHN,Chicago Cubs,Wrigley Field,76,1036386,13373,657588
+NL,1946,CHN,Chicago Cubs,Wrigley Field,77,1342970,17329,1112763
+NL,1947,CHN,Chicago Cubs,Wrigley Field,79,1364039,17601,1298559
+NL,1948,CHN,Chicago Cubs,Wrigley Field,78,1237792,15972,1221343
+NL,1949,CHN,Chicago Cubs,Wrigley Field,77,1143139,14846,1185590
+NL,1950,CHN,Chicago Cubs,Wrigley Field,78,1165944,15142,1040077
+NL,1951,CHN,Chicago Cubs,Wrigley Field,77,894415,11541,905500
+NL,1952,CHN,Chicago Cubs,Wrigley Field,77,1024826,13224,792394
+NL,1953,CHN,Chicago Cubs,Wrigley Field,77,763658,9854,927465
+NL,1954,CHN,Chicago Cubs,Wrigley Field,77,748183,9717,1001690
+NL,1955,CHN,Chicago Cubs,Wrigley Field,77,875800,11374,959302
+NL,1956,CHN,Chicago Cubs,Wrigley Field,80,720118,9173,1081196
+NL,1957,CHN,Chicago Cubs,Wrigley Field,78,670629,8598,1102450
+NL,1958,CHN,Chicago Cubs,Wrigley Field,77,979904,12726,1270575
+NL,1959,CHN,Chicago Cubs,Wrigley Field,77,858255,11074,1249316
+NL,1960,CHN,Chicago Cubs,Wrigley Field,79,809770,10382,1335620
+NL,1961,CHN,Chicago Cubs,Wrigley Field,78,673057,8629,1091438
+NL,1962,CHN,Chicago Cubs,Wrigley Field,81,609802,7528,"1,13,6016"
+NL,1963,CHN,Chicago Cubs,Wrigley Field,81,979551,12093,1138223
+NL,1964,CHN,Chicago Cubs,Wrigley Field,81,751647,9280,1204519
+NL,1965,CHN,Chicago Cubs,Wrigley Field,83,641361,7821,1358114
+NL,1966,CHN,Chicago Cubs,Wrigley Field,81,635891,7851,1501547
+NL,1967,CHN,Chicago Cubs,Wrigley Field,84,977226,12065,1297143
+NL,1968,CHN,Chicago Cubs,Wrigley Field,82,1043409,12803,1178536
+NL,1969,CHN,Chicago Cubs,Wrigley Field,82,1674993,20552,1257912
+NL,1970,CHN,Chicago Cubs,Wrigley Field,80,1642705,20280,1388517
+NL,1971,CHN,Chicago Cubs,Wrigley Field,81,1653007,20407,1443738
+NL,1972,CHN,Chicago Cubs,Wrigley Field,77,1299163,16656,1294144
+NL,1973,CHN,Chicago Cubs,Wrigley Field,80,1351705,16791,1389610
+NL,1974,CHN,Chicago Cubs,Wrigley Field,81,1015378,12536,1414860
+NL,1975,CHN,Chicago Cubs,Wrigley Field,81,1034819,12776,1383374
+NL,1976,CHN,Chicago Cubs,Wrigley Field,81,1026217,12669,1388377
+NL,1977,CHN,Chicago Cubs,Wrigley Field,81,1439834,17776,1589186
+NL,1978,CHN,Chicago Cubs,Wrigley Field,82,1525311,18831,1675577
+NL,1979,CHN,Chicago Cubs,Wrigley Field,81,1648587,20353,1764868
+NL,1980,CHN,Chicago Cubs,Wrigley Field,81,1206776,14898,1760340
+NL,1981,CHN,Chicago Cubs,Wrigley Field,58,565637,10672,1039866
+NL,1982,CHN,Chicago Cubs,Wrigley Field,81,1249278,15423,1792285
+NL,1983,CHN,Chicago Cubs,Wrigley Field,81,1479717,18268,1795774
+NL,1984,CHN,Chicago Cubs,Wrigley Field,80,2107655,26182,1731786
+NL,1985,CHN,Chicago Cubs,Wrigley Field,81,2161534,26686,1857680
+NL,1986,CHN,Chicago Cubs,Wrigley Field,80,1859102,23239,1861123
+NL,1987,CHN,Chicago Cubs,Wrigley Field,80,2035130,25281,2061180
+NL,1988,CHN,Chicago Cubs,Wrigley Field,82,2089034,25632,2041606
+NL,1989,CHN,Chicago Cubs,Wrigley Field,81,2491942,30765,2110320
+NL,1990,CHN,Chicago Cubs,Wrigley Field,81,2243791,27701,2040959
+NL,1991,CHN,Chicago Cubs,Wrigley Field,83,2314250,28928,2058014
+NL,1992,CHN,Chicago Cubs,Wrigley Field,81,2126720,26256,2009261
+NL,1993,CHN,Chicago Cubs,Wrigley Field,82,2653763,32562,2637470
+NL,1994,CHN,Chicago Cubs,Wrigley Field,59,1845208,32659,1843416
+NL,1995,CHN,Chicago Cubs,Wrigley Field,72,1918265,26643,1793589
+NL,1996,CHN,Chicago Cubs,Wrigley Field,81,2219110,27228,2169949
+NL,1997,CHN,Chicago Cubs,Wrigley Field,81,2190308,27041,2277526
+NL,1998,CHN,Chicago Cubs,Wrigley Field,82,2623194,32186,2401674
+NL,1999,CHN,Chicago Cubs,Wrigley Field,81,2813854,34739,2380436
+NL,2000,CHN,Chicago Cubs,Wrigley Field,81,2789511,34438,2480194
+NL,2001,CHN,Chicago Cubs,Wrigley Field,81,2780465,35196,2481346
+NL,2002,CHN,Chicago Cubs,Wrigley Field,78,2693071,33248,2309294
+NL,2003,CHN,Chicago Cubs,Wrigley Field,81,2962630,37032,2273813
+NL,2004,CHN,Chicago Cubs,Wrigley Field,82,3170184,39138,2512690
+NL,2005,CHN,Chicago Cubs,Wrigley Field,81,3100262,38753,2583685
+NL,2006,CHN,Chicago Cubs,Wrigley Field,81,3123215,39040,2598741
+NL,2007,CHN,Chicago Cubs,Wrigley Field,81,3252462,40153,2756384
+NL,2008,CHN,Chicago Cubs,Wrigley Field,81,3300200,40743,2755082
+NL,2009,CHN,Chicago Cubs,Wrigley Field,80,3168859,39610,2571627
+NL,2010,CHN,Chicago Cubs,Wrigley Field,81,3062973,37814,2563111
+NL,2011,CHN,Chicago Cubs,Wrigley Field,81,3017966,37259,2547018
+NL,2012,CHN,Chicago Cubs,Wrigley Field,81,2882756,35589,2592218
+NL,2013,CHN,Chicago Cubs,Wrigley Field,81,2642682,32626,2629060
+NL,2014,CHN,Chicago Cubs,Wrigley Field,81,2652113,32742,2615565
+NL,1901,CIN,Cincinnati Reds,League Park,72,205728,2898,240004
+NL,1902,CIN,Cincinnati Reds,Palace of the Fans,70,217300,3082,210377
+NL,1903,CIN,Cincinnati Reds,Palace of the Fans,76,351680,4988,298795
+NL,1904,CIN,Cincinnati Reds,Palace of the Fans,79,391915,4993,333034
+NL,1905,CIN,Cincinnati Reds,Palace of the Fans,79,313927,4051,341789
+NL,1906,CIN,Cincinnati Reds,Palace of the Fans,78,330056,4259,347652
+NL,1907,CIN,Cincinnati Reds,Palace of the Fans,81,317500,4071,330028
+NL,1908,CIN,Cincinnati Reds,Palace of the Fans,77,399200,5151,439014
+NL,1909,CIN,Cincinnati Reds,Palace of the Fans,80,424643,5444,437053
+NL,1910,CIN,Cincinnati Reds,Palace of the Fans,77,380622,4880,366970
+NL,1911,CIN,Cincinnati Reds,Palace of the Fans,82,300000,3774,403971
+NL,1912,CIN,Cincinnati Reds,Crosley Field,77,344000,4439,341970
+NL,1913,CIN,Cincinnati Reds,Crosley Field,78,258000,3308,353941
+NL,1914,CIN,Cincinnati Reds,Crosley Field,77,100791,1284,213425
+NL,1915,CIN,Cincinnati Reds,Crosley Field,79,218878,2736,303768
+NL,1916,CIN,Cincinnati Reds,Crosley Field,76,255846,3301,381454
+NL,1917,CIN,Cincinnati Reds,Crosley Field,80,269056,3427,295142
+NL,1918,CIN,Cincinnati Reds,Crosley Field,71,163009,2527,171516
+NL,1919,CIN,Cincinnati Reds,Crosley Field,70,532501,7607,359775
+NL,1920,CIN,Cincinnati Reds,Crosley Field,77,568107,7378,504572
+NL,1921,CIN,Cincinnati Reds,Crosley Field,76,311227,4068,498373
+NL,1922,CIN,Cincinnati Reds,Crosley Field,79,493754,6330,492728
+NL,1923,CIN,Cincinnati Reds,Crosley Field,78,575063,7468,508727
+NL,1924,CIN,Cincinnati Reds,Crosley Field,76,473707,6192,542581
+NL,1925,CIN,Cincinnati Reds,Crosley Field,76,464920,6077,544213
+NL,1926,CIN,Cincinnati Reds,Crosley Field,77,672987,8573,615050
+NL,1927,CIN,Cincinnati Reds,Crosley Field,80,442164,5780,663740
+NL,1928,CIN,Cincinnati Reds,Crosley Field,78,490490,6412,610137
+NL,1929,CIN,Cincinnati Reds,Crosley Field,78,295040,3807,615714
+NL,1930,CIN,Cincinnati Reds,Crosley Field,77,386727,5022,680817
+NL,1931,CIN,Cincinnati Reds,Crosley Field,77,263316,3420,572977
+NL,1932,CIN,Cincinnati Reds,Crosley Field,77,356950,4606,480167
+NL,1933,CIN,Cincinnati Reds,Crosley Field,79,218281,2853,395353
+NL,1934,CIN,Cincinnati Reds,Crosley Field,78,206773,2721,400013
+NL,1935,CIN,Cincinnati Reds,Crosley Field,76,448247,5821,457164
+NL,1936,CIN,Cincinnati Reds,Crosley Field,76,466345,6056,487961
+NL,1937,CIN,Cincinnati Reds,Crosley Field,80,411221,5306,525529
+NL,1938,CIN,Cincinnati Reds,Crosley Field,77,706756,9361,570103
+NL,1939,CIN,Cincinnati Reds,Crosley Field,81,981443,12583,588397
+NL,1940,CIN,Cincinnati Reds,Crosley Field,77,850180,10970,548712
+NL,1941,CIN,Cincinnati Reds,Crosley Field,79,643513,8357,597206
+NL,1942,CIN,Cincinnati Reds,Crosley Field,77,427031,5546,544169
+NL,1943,CIN,Cincinnati Reds,Crosley Field,78,379122,4892,471168
+NL,1944,CIN,Cincinnati Reds,Crosley Field,78,409567,5285,496824
+NL,1945,CIN,Cincinnati Reds,Crosley Field,77,290070,3767,657588
+NL,1946,CIN,Cincinnati Reds,Crosley Field,77,715751,9176,1112763
+NL,1947,CIN,Cincinnati Reds,Crosley Field,77,899975,11688,1298559
+NL,1948,CIN,Cincinnati Reds,Crosley Field,77,823386,10763,1221343
+NL,1949,CIN,Cincinnati Reds,Crosley Field,78,707782,9074,1185590
+NL,1950,CIN,Cincinnati Reds,Crosley Field,76,538794,7043,1040077
+NL,1951,CIN,Cincinnati Reds,Crosley Field,77,588268,7591,905500
+NL,1952,CIN,Cincinnati Reds,Crosley Field,77,604197,7847,792394
+NL,1953,CIN,Cincinnati Redlegs,Crosley Field,78,548086,7072,927465
+NL,1954,CIN,Cincinnati Redlegs,Crosley Field,77,704167,9145,1001690
+NL,1955,CIN,Cincinnati Redlegs,Crosley Field,77,693662,9009,959302
+NL,1956,CIN,Cincinnati Redlegs,Crosley Field,77,1125928,14528,1081196
+NL,1957,CIN,Cincinnati Redlegs,Crosley Field,77,1070850,13907,1102450
+NL,1958,CIN,Cincinnati Redlegs,Crosley Field,77,788582,10241,1270575
+NL,1959,CIN,Cincinnati Reds,Crosley Field,77,801298,10406,1249316
+NL,1960,CIN,Cincinnati Reds,Crosley Field,77,663486,8617,1335620
+NL,1961,CIN,Cincinnati Reds,Crosley Field,77,1117603,14514,1091438
+NL,1962,CIN,Cincinnati Reds,Crosley Field,81,982095,12125,"1,13,6016"
+NL,1963,CIN,Cincinnati Reds,Crosley Field,81,858805,10603,1138223
+NL,1964,CIN,Cincinnati Reds,Crosley Field,82,862466,10582,1204519
+NL,1965,CIN,Cincinnati Reds,Crosley Field,81,1047824,12936,1358114
+NL,1966,CIN,Cincinnati Reds,Crosley Field,79,742958,9287,1501547
+NL,1967,CIN,Cincinnati Reds,Crosley Field,81,958300,11831,1297143
+NL,1968,CIN,Cincinnati Reds,Crosley Field,82,733354,8998,1178536
+NL,1969,CIN,Cincinnati Reds,Crosley Field,81,987991,12123,1257912
+NL,1970,CIN,Cincinnati Reds,Crosley Field / Riverfront Stadium,81,1803568,22266,1388517
+NL,1971,CIN,Cincinnati Reds,Riverfront Stadium,81,1501122,18532,1443738
+NL,1972,CIN,Cincinnati Reds,Riverfront Stadium,76,1611459,20928,1294144
+NL,1973,CIN,Cincinnati Reds,Riverfront Stadium,81,2017601,24909,1389610
+NL,1974,CIN,Cincinnati Reds,Riverfront Stadium,82,2164307,26556,1414860
+NL,1975,CIN,Cincinnati Reds,Riverfront Stadium,81,2315603,28588,1383374
+NL,1976,CIN,Cincinnati Reds,Riverfront Stadium,81,2629708,32466,1388377
+NL,1977,CIN,Cincinnati Reds,Riverfront Stadium,81,2519670,31107,1589186
+NL,1978,CIN,Cincinnati Reds,Riverfront Stadium,80,2532497,31460,1675577
+NL,1979,CIN,Cincinnati Reds,Riverfront Stadium,80,2356933,29279,1764868
+NL,1980,CIN,Cincinnati Reds,Riverfront Stadium,82,2022450,24815,1760340
+NL,1981,CIN,Cincinnati Reds,Riverfront Stadium,54,1093730,20254,1039866
+NL,1982,CIN,Cincinnati Reds,Riverfront Stadium,81,1326528,16377,1792285
+NL,1983,CIN,Cincinnati Reds,Riverfront Stadium,81,1190419,14697,1795774
+NL,1984,CIN,Cincinnati Reds,Riverfront Stadium,81,1275887,15752,1731786
+NL,1985,CIN,Cincinnati Reds,Riverfront Stadium,81,1834619,22650,1857680
+NL,1986,CIN,Cincinnati Reds,Riverfront Stadium,81,1692432,20894,1861123
+NL,1987,CIN,Cincinnati Reds,Riverfront Stadium,81,2185205,26978,2061180
+NL,1988,CIN,Cincinnati Reds,Riverfront Stadium,80,2072528,25746,2041606
+NL,1989,CIN,Cincinnati Reds,Riverfront Stadium,81,1979320,24436,2110320
+NL,1990,CIN,Cincinnati Reds,Riverfront Stadium,81,2400892,29640,2040959
+NL,1991,CIN,Cincinnati Reds,Riverfront Stadium,81,2372377,29289,2058014
+NL,1992,CIN,Cincinnati Reds,Riverfront Stadium,81,2315946,28592,2009261
+NL,1993,CIN,Cincinnati Reds,Riverfront Stadium,81,2453232,30287,2637470
+NL,1994,CIN,Cincinnati Reds,Riverfront Stadium,60,1897681,33003,1843416
+NL,1995,CIN,Cincinnati Reds,Riverfront Stadium,72,1837649,25523,1793589
+NL,1996,CIN,Cincinnati Reds,Riverfront Stadium,81,1861428,22981,2169949
+NL,1997,CIN,Cincinnati Reds,Cinergy Field,81,1785788,22047,2277526
+NL,1998,CIN,Cincinnati Reds,Cinergy Field,81,1793649,22144,2401674
+NL,1999,CIN,Cincinnati Reds,Cinergy Field,82,2061324,25292,2380436
+NL,2000,CIN,Cincinnati Reds,Cinergy Field,82,2577371,31624,2480194
+NL,2001,CIN,Cincinnati Reds,Cinergy Field,81,1879757,23794,2481346
+NL,2002,CIN,Cincinnati Reds,Cinergy Field,80,1855973,22913,2309294
+NL,2003,CIN,Cincinnati Reds,Great American Ballpark,81,2355259,29077,2273813
+NL,2004,CIN,Cincinnati Reds,Great American Ballpark,81,2287250,28237,2512690
+NL,2005,CIN,Cincinnati Reds,Great American Ballpark,82,1943157,23989,2583685
+NL,2006,CIN,Cincinnati Reds,Great American Ballpark,82,2134472,26351,2598741
+NL,2007,CIN,Cincinnati Reds,Great American Ballpark,81,2056453,25388,2756384
+NL,2008,CIN,Cincinnati Reds,Great American Ballpark,81,2058632,25415,2755082
+NL,2009,CIN,Cincinnati Reds,Great American Ballpark,81,1747919,21579,2571627
+NL,2010,CIN,Cincinnati Reds,Great American Ballpark,81,2060550,25439,2563111
+NL,2011,CIN,Cincinnati Reds,Great American Ballpark,81,2213588,27328,2547018
+NL,2012,CIN,Cincinnati Reds,Great American Ballpark,81,2347251,28978,2592218
+NL,2013,CIN,Cincinnati Reds,Great American Ballpark,80,2492059,31151,2629060
+NL,2014,CIN,Cincinnati Reds,Great American Ballpark,81,2476664,30576,2615565
+NL,1993,COL,Colorado Rockies,Mile High Stadium,81,4483350,55350,2637470
+NL,1994,COL,Colorado Rockies,Mile High Stadium,57,3281511,56094,1843416
+NL,1995,COL,Colorado Rockies,Coors Field,72,3390037,47084,1793589
+NL,1996,COL,Colorado Rockies,Coors Field,81,3891014,47743,2169949
+NL,1997,COL,Colorado Rockies,Coors Field,81,3888453,48006,2277526
+NL,1998,COL,Colorado Rockies,Coors Field,81,3792683,46823,2401674
+NL,1999,COL,Colorado Rockies,Coors Field,81,3235833,39949,2380436
+NL,2000,COL,Colorado Rockies,Coors Field,81,3149117,40681,2480194
+NL,2001,COL,Colorado Rockies,Coors Field,81,3168579,39118,2481346
+NL,2002,COL,Colorado Rockies,Coors Field,81,2737918,33801,2309294
+NL,2003,COL,Colorado Rockies,Coors Field,81,2334085,28815,2273813
+NL,2004,COL,Colorado Rockies,Coors Field,81,2338069,29595,2512690
+NL,2005,COL,Colorado Rockies,Coors Field,81,1915586,23944,2583685
+NL,2006,COL,Colorado Rockies,Coors Field,81,2105995,25999,2598741
+NL,2007,COL,Colorado Rockies,Coors Field,82,2376250,28978,2756384
+NL,2008,COL,Colorado Rockies,Coors Field,81,2650218,33127,2755082
+NL,2009,COL,Colorado Rockies,Coors Field,81,2665080,32901,2571627
+NL,2010,COL,Colorado Rockies,Coors Field,81,2875245,35497,2563111
+NL,2011,COL,Colorado Rockies,Coors Field,81,2909777,35923,2547018
+NL,2012,COL,Colorado Rockies,Coors Field,81,2630458,32474,2592218
+NL,2013,COL,Colorado Rockies,Coors Field,81,2793828,34492,2629060
+NL,2014,COL,Colorado Rockies,Coors Field,81,2680329,33090,2615565
+NL,1901,BRO,Brooklyn Superbas,Washington Park,68,198200,2893,240004
+NL,1902,BRO,Brooklyn Superbas,Washington Park,69,199868,2835,210377
+NL,1903,BRO,Brooklyn Superbas,Washington Park,73,224670,3233,298795
+NL,1904,BRO,Brooklyn Superbas,Washington Park,76,214600,2787,333034
+NL,1905,BRO,Brooklyn Dodgers,Washington Park,77,227924,2941,341789
+NL,1906,BRO,Brooklyn Dodgers,Washington Park,76,277400,3626,347652
+NL,1907,BRO,Brooklyn Dodgers,Washington Park,77,312500,4085,330028
+NL,1908,BRO,Brooklyn Dodgers,Washington Park,77,275600,3579,439014
+NL,1909,BRO,Brooklyn Dodgers,Washington Park,79,321300,4146,437053
+NL,1910,BRO,Brooklyn Dodgers,Washington Park,80,279321,3581,366970
+NL,1911,BRO,Brooklyn Dodgers,Washington Park,74,269000,3494,403971
+NL,1912,BRO,Brooklyn Dodgers,Washington Park,76,243000,3176,341970
+NL,1913,BRO,Brooklyn Dodgers,Ebbets Field,77,347000,4566,353941
+NL,1914,BRO,Brooklyn Dodgers,Ebbets Field,79,122671,1593,213425
+NL,1915,BRO,Brooklyn Dodgers,Ebbets Field,78,297766,3867,303768
+NL,1916,BRO,Brooklyn Dodgers,Ebbets Field,78,447747,5740,381454
+NL,1917,BRO,Brooklyn Dodgers,Ebbets Field,78,221619,2841,295142
+NL,1918,BRO,Brooklyn Dodgers,Ebbets Field,54,83831,1331,171516
+NL,1919,BRO,Brooklyn Dodgers,Ebbets Field,70,360721,5117,359775
+NL,1920,BRO,Brooklyn Dodgers,Ebbets Field,78,808722,10435,504572
+NL,1921,BRO,Brooklyn Dodgers,Ebbets Field,78,613245,8069,498373
+NL,1922,BRO,Brooklyn Dodgers,Ebbets Field,78,498865,6437,492728
+NL,1923,BRO,Brooklyn Dodgers,Ebbets Field,78,564666,7286,508727
+NL,1924,BRO,Brooklyn Dodgers,Ebbets Field,77,818883,10635,542581
+NL,1925,BRO,Brooklyn Dodgers,Ebbets Field,77,659435,8620,544213
+NL,1926,BRO,Brooklyn Dodgers,Ebbets Field,76,650819,8398,615050
+NL,1927,BRO,Brooklyn Dodgers,Ebbets Field,74,637230,8276,663740
+NL,1928,BRO,Brooklyn Dodgers,Ebbets Field,77,664863,8579,610137
+NL,1929,BRO,Brooklyn Dodgers,Ebbets Field,77,731886,9567,615714
+NL,1930,BRO,Brooklyn Dodgers,Ebbets Field,77,1097329,14251,680817
+NL,1931,BRO,Brooklyn Dodgers,Ebbets Field,76,753133,9845,572977
+NL,1932,BRO,Brooklyn Dodgers,Ebbets Field,78,681827,8855,480167
+NL,1933,BRO,Brooklyn Dodgers,Ebbets Field,80,526815,6711,395353
+NL,1934,BRO,Brooklyn Dodgers,Ebbets Field,77,434188,5676,400013
+NL,1935,BRO,Brooklyn Dodgers,Ebbets Field,77,470517,6111,457164
+NL,1936,BRO,Brooklyn Dodgers,Ebbets Field,79,489618,6277,487961
+NL,1937,BRO,Brooklyn Dodgers,Ebbets Field,76,482481,6226,525529
+NL,1938,BRO,Brooklyn Dodgers,Ebbets Field,74,663087,8783,570103
+NL,1939,BRO,Brooklyn Dodgers,Ebbets Field,78,955668,12174,588397
+NL,1940,BRO,Brooklyn Dodgers,Ebbets Field,81,975978,12513,548712
+NL,1941,BRO,Brooklyn Dodgers,Ebbets Field,79,1214910,15477,597206
+NL,1942,BRO,Brooklyn Dodgers,Ebbets Field,79,1037765,13391,544169
+NL,1943,BRO,Brooklyn Dodgers,Ebbets Field,77,661739,8650,471168
+NL,1944,BRO,Brooklyn Dodgers,Ebbets Field,77,605905,7818,496824
+NL,1945,BRO,Brooklyn Dodgers,Ebbets Field,78,1059220,13667,657588
+NL,1946,BRO,Brooklyn Dodgers,Ebbets Field,79,1796824,22889,1112763
+NL,1947,BRO,Brooklyn Dodgers,Ebbets Field,78,1807526,23323,1298559
+NL,1948,BRO,Brooklyn Dodgers,Ebbets Field,78,1398967,18051,1221343
+NL,1949,BRO,Brooklyn Dodgers,Ebbets Field,78,1633747,20945,1185590
+NL,1950,BRO,Brooklyn Dodgers,Ebbets Field,78,1185896,15302,1040077
+NL,1951,BRO,Brooklyn Dodgers,Ebbets Field,78,1282628,16236,905500
+NL,1952,BRO,Brooklyn Dodgers,Ebbets Field,80,1088704,14048,792394
+NL,1953,BRO,Brooklyn Dodgers,Ebbets Field,78,1163419,15012,927465
+NL,1954,BRO,Brooklyn Dodgers,Ebbets Field,77,1020531,13254,1001690
+NL,1955,BRO,Brooklyn Dodgers,Ebbets Field,77,1033589,13423,959302
+NL,1956,BRO,Brooklyn Dodgers,Ebbets Field,77,1213562,15761,1081196
+NL,1957,BRO,Brooklyn Dodgers,Ebbets Field,77,1028258,13354,1102450
+NL,1958,LAN,Los Angeles Dodgers,Los Angeles Memorial Coliseum,77,1845556,23968,1270575
+NL,1959,LAN,Los Angeles Dodgers,Los Angeles Memorial Coliseum,78,2071045,26552,1249316
+NL,1960,LAN,Los Angeles Dodgers,Los Angeles Memorial Coliseum,77,2253887,29271,1335620
+NL,1961,LAN,Los Angeles Dodgers,Los Angeles Memorial Coliseum,77,1804250,23432,1091438
+NL,1962,LAN,Los Angeles Dodgers,Dodger Stadium,83,2755184,33396,"1,13,6016"
+NL,1963,LAN,Los Angeles Dodgers,Dodger Stadium,81,2538602,31148,1138223
+NL,1964,LAN,Los Angeles Dodgers,Dodger Stadium,81,2228751,27180,1204519
+NL,1965,LAN,Los Angeles Dodgers,Dodger Stadium,81,2553577,31526,1358114
+NL,1966,LAN,Los Angeles Dodgers,Dodger Stadium,81,2617029,32309,1501547
+NL,1967,LAN,Los Angeles Dodgers,Dodger Stadium,81,1664362,20548,1297143
+NL,1968,LAN,Los Angeles Dodgers,Dodger Stadium,81,1581093,19520,1178536
+NL,1969,LAN,Los Angeles Dodgers,Dodger Stadium,81,1784527,22031,1257912
+NL,1970,LAN,Los Angeles Dodgers,Dodger Stadium,81,1697142,21083,1388517
+NL,1971,LAN,Los Angeles Dodgers,Dodger Stadium,81,2064594,25489,1443738
+NL,1972,LAN,Los Angeles Dodgers,Dodger Stadium,75,1860858,24011,1294144
+NL,1973,LAN,Los Angeles Dodgers,Dodger Stadium,81,2136192,26373,1389610
+NL,1974,LAN,Los Angeles Dodgers,Dodger Stadium,81,2632474,32500,1414860
+NL,1975,LAN,Los Angeles Dodgers,Dodger Stadium,81,2539349,31350,1383374
+NL,1976,LAN,Los Angeles Dodgers,Dodger Stadium,81,2386301,29461,1388377
+NL,1977,LAN,Los Angeles Dodgers,Dodger Stadium,81,2955087,36483,1589186
+NL,1978,LAN,Los Angeles Dodgers,Dodger Stadium,81,3347845,41331,1675577
+NL,1979,LAN,Los Angeles Dodgers,Dodger Stadium,81,2860954,35320,1764868
+NL,1980,LAN,Los Angeles Dodgers,Dodger Stadium,82,3249287,39869,1760340
+NL,1981,LAN,Los Angeles Dodgers,Dodger Stadium,56,2381292,43296,1039866
+NL,1982,LAN,Los Angeles Dodgers,Dodger Stadium,81,3608881,44554,1792285
+NL,1983,LAN,Los Angeles Dodgers,Dodger Stadium,80,3510313,43071,1795774
+NL,1984,LAN,Los Angeles Dodgers,Dodger Stadium,81,3134824,38702,1731786
+NL,1985,LAN,Los Angeles Dodgers,Dodger Stadium,81,3264593,40304,1857680
+NL,1986,LAN,Los Angeles Dodgers,Dodger Stadium,81,3023208,37324,1861123
+NL,1987,LAN,Los Angeles Dodgers,Dodger Stadium,81,2797409,34536,2061180
+NL,1988,LAN,Los Angeles Dodgers,Dodger Stadium,81,2980262,36793,2041606
+NL,1989,LAN,Los Angeles Dodgers,Dodger Stadium,81,2944653,36808,2110320
+NL,1990,LAN,Los Angeles Dodgers,Dodger Stadium,81,3002396,37067,2040959
+NL,1991,LAN,Los Angeles Dodgers,Dodger Stadium,81,3348170,41335,2058014
+NL,1992,LAN,Los Angeles Dodgers,Dodger Stadium,81,2473266,30534,2009261
+NL,1993,LAN,Los Angeles Dodgers,Dodger Stadium,81,3170393,39141,2637470
+NL,1994,LAN,Los Angeles Dodgers,Dodger Stadium,55,2279355,39641,1843416
+NL,1995,LAN,Los Angeles Dodgers,Dodger Stadium,72,2766251,38420,1793589
+NL,1996,LAN,Los Angeles Dodgers,Dodger Stadium,81,3188454,39364,2169949
+NL,1997,LAN,Los Angeles Dodgers,Dodger Stadium,81,3319504,40982,2277526
+NL,1998,LAN,Los Angeles Dodgers,Dodger Stadium,81,3089222,38139,2401674
+NL,1999,LAN,Los Angeles Dodgers,Dodger Stadium,81,3098042,38247,2380436
+NL,2000,LAN,Los Angeles Dodgers,Dodger Stadium,81,2880242,35559,2480194
+NL,2001,LAN,Los Angeles Dodgers,Dodger Stadium,81,3017143,37249,2481346
+NL,2002,LAN,Los Angeles Dodgers,Dodger Stadium,81,3131077,38655,2309294
+NL,2003,LAN,Los Angeles Dodgers,Dodger Stadium,81,3138626,38748,2273813
+NL,2004,LAN,Los Angeles Dodgers,Dodger Stadium,81,3488283,43065,2512690
+NL,2005,LAN,Los Angeles Dodgers,Dodger Stadium,81,3603680,44489,2583685
+NL,2006,LAN,Los Angeles Dodgers,Dodger Stadium,81,3758421,46400,2598741
+NL,2007,LAN,Los Angeles Dodgers,Dodger Stadium,81,3856753,47614,2756384
+NL,2008,LAN,Los Angeles Dodgers,Dodger Stadium,81,3730553,46056,2755082
+NL,2009,LAN,Los Angeles Dodgers,Dodger Stadium,81,3761669,46440,2571627
+NL,2010,LAN,Los Angeles Dodgers,Dodger Stadium,81,3562320,43979,2563111
+NL,2011,LAN,Los Angeles Dodgers,Dodger Stadium,81,2935139,36236,2547018
+NL,2012,LAN,Los Angeles Dodgers,Dodger Stadium,81,3324246,41040,2592218
+NL,2013,LAN,Los Angeles Dodgers,Dodger Stadium,81,3743527,46216,2629060
+NL,2014,LAN,Los Angeles Dodgers,Dodger Stadium,81,3782337,46696,2615565
+NL,1993,FLO,Florida Marlins,Joe Robbie Stadium,81,3064847,37838,2637470
+NL,1994,FLO,Florida Marlins,Joe Robbie Stadium,59,1937467,33695,1843416
+NL,1995,FLO,Florida Marlins,Joe Robbie Stadium,71,1700466,23783,1793589
+NL,1996,FLO,Florida Marlins,Joe Robbie Stadium,81,1746767,21565,2169949
+NL,1997,FLO,Florida Marlins,Pro Player Stadium,81,2364387,29190,2277526
+NL,1998,FLO,Florida Marlins,Pro Player Stadium,81,1750395,21363,2401674
+NL,1999,FLO,Florida Marlins,Pro Player Stadium,80,1369421,16906,2380436
+NL,2000,FLO,Florida Marlins,Pro Player Stadium,81,1173389,15134,2480194
+NL,2001,FLO,Florida Marlins,Pro Player Stadium,80,1261226,15765,2481346
+NL,2002,FLO,Florida Marlins,Pro Player Stadium,81,813111,10038,2309294
+NL,2003,FLO,Florida Marlins,Pro Player Stadium,81,1303215,16290,2273813
+NL,2004,FLO,Florida Marlins,Pro Player Stadium,80,1723105,22091,2512690
+NL,2005,FLO,Florida Marlins,Dolphins Stadium,81,1823388,22792,2583685
+NL,2006,FLO,Florida Marlins,Dolphin Stadium,81,1165120,14384,2598741
+NL,2007,FLO,Florida Marlins,Dolphin Stadium,81,1370511,16919,2756384
+NL,2008,FLO,Florida Marlins,Dolphin Stadium,81,1335075,16688,2755082
+NL,2009,FLO,Florida Marlins,Dolphin Stadium / Landshark Stadium,81,1464109,18770,2571627
+NL,2010,FLO,Florida Marlins,Dolphin Stadium,81,1524894,18826,2563111
+NL,2011,FLO,Florida Marlins,Dolphin Stadium,78,1520562,18772,2547018
+NL,2012,MIA,Miami Marlins,Marlins Ballpark,81,2219444,27400,2592218
+NL,2013,MIA,Miami Marlins,Marlins Ballpark,81,1586322,19584,2629060
+NL,2014,MIA,Miami Marlins,Marlins Ballpark,81,1732283,21386,2615565
+AL,1969,SE1,Seattle Pilots,Sicks Stadium,82,677944,8370,1011227
+AL,1970,ML4,Milwaukee Brewers,County Stadium,81,933690,11527,1388517
+AL,1971,ML4,Milwaukee Brewers,County Stadium,82,731531,9031,1443738
+AL,1972,ML4,Milwaukee Brewers,County Stadium,79,600440,7413,1294144
+AL,1973,ML4,Milwaukee Brewers,County Stadium,81,1092158,13483,1389610
+AL,1974,ML4,Milwaukee Brewers,County Stadium,81,955741,11799,1414860
+AL,1975,ML4,Milwaukee Brewers,County Stadium,81,1213357,14980,1383374
+AL,1976,ML4,Milwaukee Brewers,County Stadium,81,1012164,12496,1388377
+AL,1977,ML4,Milwaukee Brewers,County Stadium,81,1114938,13765,1589186
+AL,1978,ML4,Milwaukee Brewers,County Stadium,81,1601406,19770,1675577
+AL,1979,ML4,Milwaukee Brewers,County Stadium,81,1918343,23683,1764868
+AL,1980,ML4,Milwaukee Brewers,County Stadium,82,1857408,22931,1760340
+AL,1981,ML4,Milwaukee Brewers,County Stadium,49,874292,10794,1039866
+AL,1982,ML4,Milwaukee Brewers,County Stadium,82,1978896,24431,1792285
+AL,1983,ML4,Milwaukee Brewers,County Stadium,81,2397131,25594,1795774
+AL,1984,ML4,Milwaukee Brewers,County Stadium,81,1608509,19858,1731786
+AL,1985,ML4,Milwaukee Brewers,County Stadium,80,1360265,16793,1857680
+AL,1986,ML4,Milwaukee Brewers,County Stadium,80,1265041,15618,1861123
+AL,1987,ML4,Milwaukee Brewers,County Stadium,81,1909244,23571,2061180
+AL,1988,ML4,Milwaukee Brewers,County Stadium,81,1923238,23744,2041606
+AL,1989,ML4,Milwaukee Brewers,County Stadium,81,1970735,24330,2110320
+AL,1990,ML4,Milwaukee Brewers,County Stadium,81,1752900,21641,2040959
+AL,1991,ML4,Milwaukee Brewers,County Stadium,80,1478729,18256,2058014
+AL,1992,ML4,Milwaukee Brewers,County Stadium,81,1857351,22930,2009261
+AL,1993,ML4,Milwaukee Brewers,County Stadium,81,1688080,20840,2637470
+AL,1994,ML4,Milwaukee Brewers,County Stadium,56,1268399,15659,1843416
+AL,1995,ML4,Milwaukee Brewers,County Stadium,72,1087560,13427,1793589
+AL,1996,ML4,Milwaukee Brewers,County Stadium,81,1327155,16385,2169949
+AL,1997,ML4,Milwaukee Brewers,County Stadium,80,1444027,17827,2277526
+NL,1998,MIL,Milwaukee Brewers,County Stadium,81,1811593,22365,2401674
+NL,1999,MIL,Milwaukee Brewers,County Stadium,80,1701790,21010,2380436
+NL,2000,MIL,Milwaukee Brewers,County Stadium,81,1573621,19427,2480194
+NL,2001,MIL,Milwaukee Brewers,Miller Park,81,2811040,34704,2481346
+NL,2002,MIL,Milwaukee Brewers,Miller Park,81,1969693,24317,2309294
+NL,2003,MIL,Milwaukee Brewers,Miller Park,81,1700354,20992,2273813
+NL,2004,MIL,Milwaukee Brewers,Miller Park,81,2062382,25461,2512690
+NL,2005,MIL,Milwaukee Brewers,Miller Park,81,2211023,27296,2583685
+NL,2006,MIL,Milwaukee Brewers,Miller Park,81,2335643,28835,2598741
+NL,2007,MIL,Milwaukee Brewers,Miller Park,81,2869144,35421,2756384
+NL,2008,MIL,Milwaukee Brewers,Miller Park,81,3068458,37882,2755082
+NL,2009,MIL,Milwaukee Brewers,Miller Park,81,3037451,37499,2571627
+NL,2010,MIL,Milwaukee Brewers,Miller Park,81,2776531,34278,2563111
+NL,2011,MIL,Milwaukee Brewers,Miller Park,81,3071373,37918,2547018
+NL,2012,MIL,Milwaukee Brewers,Miller Park,81,2831385,34955,2592218
+NL,2013,MIL,Milwaukee Brewers,Miller Park,81,2531105,31248,2629060
+NL,2014,MIL,Milwaukee Brewers,Miller Park,81,2797384,34536,2615565
+NL,1962,NYN,New York Mets,Polo Grounds,80,922530,11532,"1,13,6016"
+NL,1963,NYN,New York Mets,Polo Grounds,81,1080108,13335,1138223
+NL,1964,NYN,New York Mets,Shea Stadium,82,1732597,21390,1204519
+NL,1965,NYN,New York Mets,Shea Stadium,82,1768389,21832,1358114
+NL,1966,NYN,New York Mets,Shea Stadium,81,1932693,24009,1501547
+NL,1967,NYN,New York Mets,Shea Stadium,78,1565492,19327,1297143
+NL,1968,NYN,New York Mets,Shea Stadium,82,1781657,21996,1178536
+NL,1969,NYN,New York Mets,Shea Stadium,82,2175373,26856,1257912
+NL,1970,NYN,New York Mets,Shea Stadium,82,2697479,33302,1388517
+NL,1971,NYN,New York Mets,Shea Stadium,81,2266680,27984,1443738
+NL,1972,NYN,New York Mets,Shea Stadium,78,2134185,27361,1294144
+NL,1973,NYN,New York Mets,Shea Stadium,81,1912390,23756,1389610
+NL,1974,NYN,New York Mets,Shea Stadium,81,1722209,21262,1414860
+NL,1975,NYN,New York Mets,Shea Stadium,81,1730566,21365,1383374
+NL,1976,NYN,New York Mets,Shea Stadium,82,1468754,18133,1388377
+NL,1977,NYN,New York Mets,Shea Stadium,79,1066825,13171,1589186
+NL,1978,NYN,New York Mets,Shea Stadium,80,1007328,12436,1675577
+NL,1979,NYN,New York Mets,Shea Stadium,82,788905,9740,1764868
+NL,1980,NYN,New York Mets,Shea Stadium,82,1192073,14717,1760340
+NL,1981,NYN,New York Mets,Shea Stadium,52,704244,13675,1039866
+NL,1982,NYN,New York Mets,Shea Stadium,81,1323036,16334,1792285
+NL,1983,NYN,New York Mets,Shea Stadium,82,1112774,13738,1795774
+NL,1984,NYN,New York Mets,Shea Stadium,81,1842695,22749,1731786
+NL,1985,NYN,New York Mets,Shea Stadium,81,2761601,34094,1857680
+NL,1986,NYN,New York Mets,Shea Stadium,81,2767604,34168,1861123
+NL,1987,NYN,New York Mets,Shea Stadium,81,3034129,37458,2061180
+NL,1988,NYN,New York Mets,Shea Stadium,80,3055445,38193,2041606
+NL,1989,NYN,New York Mets,Shea Stadium,81,2918710,36033,2110320
+NL,1990,NYN,New York Mets,Shea Stadium,81,2732745,33738,2040959
+NL,1991,NYN,New York Mets,Shea Stadium,82,2284484,28379,2058014
+NL,1992,NYN,New York Mets,Shea Stadium,81,1779534,21970,2009261
+NL,1993,NYN,New York Mets,Shea Stadium,81,1873183,23126,2637470
+NL,1994,NYN,New York Mets,Shea Stadium,53,1151471,20380,1843416
+NL,1995,NYN,New York Mets,Shea Stadium,72,1273183,17683,1793589
+NL,1996,NYN,New York Mets,Shea Stadium,81,1588323,19609,2169949
+NL,1997,NYN,New York Mets,Shea Stadium,81,1766174,21805,2277526
+NL,1998,NYN,New York Mets,Shea Stadium,81,2287948,28246,2401674
+NL,1999,NYN,New York Mets,Shea Stadium,81,2726008,33448,2380436
+NL,2000,NYN,New York Mets,Shea Stadium,81,2820530,34821,2480194
+NL,2001,NYN,New York Mets,Shea Stadium,81,2658330,32819,2481346
+NL,2002,NYN,New York Mets,Shea Stadium,78,2804838,34628,2309294
+NL,2003,NYN,New York Mets,Shea Stadium,80,2140599,28165,2273813
+NL,2004,NYN,New York Mets,Shea Stadium,81,2318321,28979,2512690
+NL,2005,NYN,New York Mets,Shea Stadium,81,2782212,35217,2583685
+NL,2006,NYN,New York Mets,Shea Stadium,81,3379551,43327,2598741
+NL,2007,NYN,New York Mets,Shea Stadium,81,3853955,47579,2756384
+NL,2008,NYN,New York Mets,Shea Stadium,81,4042047,51165,2755082
+NL,2009,NYN,New York Mets,Citi Field,81,3154262,38941,2571627
+NL,2010,NYN,New York Mets,Citi Field,81,2559738,31602,2563111
+NL,2011,NYN,New York Mets,Citi Field,81,2352596,29044,2547018
+NL,2012,NYN,New York Mets,Citi Field,81,2242803,28035,2592218
+NL,2013,NYN,New York Mets,Citi Field,81,2135657,26366,2629060
+NL,2014,NYN,New York Mets,Citi Field,81,2148808,26528,2615565
+NL,1901,PHI,Philadelphia Phillies,Baker Bowl,69,234937,3356,240004
+NL,1902,PHI,Philadelphia Phillies,Baker Bowl,69,112066,1636,210377
+NL,1903,PHI,Philadelphia Phillies,Baker Bowl,61,151729,2248,298795
+NL,1904,PHI,Philadelphia Phillies,Baker Bowl,73,140771,1852,333034
+NL,1905,PHI,Philadelphia Phillies,Baker Bowl,76,317932,4183,341789
+NL,1906,PHI,Philadelphia Phillies,Baker Bowl,77,294680,3852,347652
+NL,1907,PHI,Philadelphia Phillies,Baker Bowl,75,341216,4642,330028
+NL,1908,PHI,Philadelphia Phillies,Baker Bowl,78,420660,5463,439014
+NL,1909,PHI,Philadelphia Phillies,Baker Bowl,77,303177,3963,437053
+NL,1910,PHI,Philadelphia Phillies,Baker Bowl,78,296597,3877,366970
+NL,1911,PHI,Philadelphia Phillies,Baker Bowl,76,416000,5474,403971
+NL,1912,PHI,Philadelphia Phillies,Baker Bowl,75,250000,3289,341970
+NL,1913,PHI,Philadelphia Phillies,Baker Bowl,78,470000,6225,353941
+NL,1914,PHI,Philadelphia Phillies,Baker Bowl,78,138474,1798,213425
+NL,1915,PHI,Philadelphia Phillies,Baker Bowl,76,449898,5920,303768
+NL,1916,PHI,Philadelphia Phillies,Baker Bowl,79,515365,6737,381454
+NL,1917,PHI,Philadelphia Phillies,Baker Bowl,76,354428,4664,295142
+NL,1918,PHI,Philadelphia Phillies,Baker Bowl,57,122266,1988,171516
+NL,1919,PHI,Philadelphia Phillies,Baker Bowl,71,240424,3510,359775
+NL,1920,PHI,Philadelphia Phillies,Baker Bowl,77,330998,4327,504572
+NL,1921,PHI,Philadelphia Phillies,Baker Bowl,76,273961,3558,498373
+NL,1922,PHI,Philadelphia Phillies,Baker Bowl,77,232471,3039,492728
+NL,1923,PHI,Philadelphia Phillies,Baker Bowl,75,228168,2963,508727
+NL,1924,PHI,Philadelphia Phillies,Baker Bowl,76,299818,3971,542581
+NL,1925,PHI,Philadelphia Phillies,Baker Bowl,77,304905,3986,544213
+NL,1926,PHI,Philadelphia Phillies,Baker Bowl,76,240600,3187,615050
+NL,1927,PHI,Philadelphia Phillies,Baker Bowl,78,305420,3966,663740
+NL,1928,PHI,Philadelphia Phillies,Baker Bowl,75,182168,2397,610137
+NL,1929,PHI,Philadelphia Phillies,Baker Bowl,76,281200,3676,615714
+NL,1930,PHI,Philadelphia Phillies,Baker Bowl,77,299007,3883,680817
+NL,1931,PHI,Philadelphia Phillies,Baker Bowl,76,284849,3699,572977
+NL,1932,PHI,Philadelphia Phillies,Baker Bowl,77,268914,3492,480167
+NL,1933,PHI,Philadelphia Phillies,Baker Bowl,72,156421,2058,395353
+NL,1934,PHI,Philadelphia Phillies,Baker Bowl,71,169885,2280,400013
+NL,1935,PHI,Philadelphia Phillies,Baker Bowl,79,205470,2686,457164
+NL,1936,PHI,Philadelphia Phillies,Baker Bowl,78,249219,3237,487961
+NL,1937,PHI,Philadelphia Phillies,Baker Bowl,74,212790,2782,525529
+NL,1938,PHI,Philadelphia Phillies,Baker Bowl / Shibe Park,75,166111,2215,570103
+NL,1939,PHI,Philadelphia Phillies,Shibe Park,74,277973,3682,588397
+NL,1940,PHI,Philadelphia Phillies,Shibe Park,79,207177,2708,548712
+NL,1941,PHI,Philadelphia Phillies,Shibe Park,76,231401,3005,597206
+NL,1942,PHI,Philadelphia Phillies,Shibe Park,74,230183,3049,544169
+NL,1943,PHI,Philadelphia Phillies,Shibe Park,78,466975,6065,471168
+NL,1944,PHI,Philadelphia Phillies,Shibe Park,79,369586,4831,496824
+NL,1945,PHI,Philadelphia Phillies,Shibe Park,77,285057,3702,657588
+NL,1946,PHI,Philadelphia Phillies,Shibe Park,78,1045247,13575,1112763
+NL,1947,PHI,Philadelphia Phillies,Shibe Park,77,907332,11784,1298559
+NL,1948,PHI,Philadelphia Phillies,Shibe Park,76,767429,9967,1221343
+NL,1949,PHI,Philadelphia Phillies,Shibe Park,77,819698,10645,1185590
+NL,1950,PHI,Philadelphia Phillies,Shibe Park,78,1217035,15806,1040077
+NL,1951,PHI,Philadelphia Phillies,Shibe Park,77,937658,12177,905500
+NL,1952,PHI,Philadelphia Phillies,Shibe Park,76,755417,9811,792394
+NL,1953,PHI,Philadelphia Phillies,Shibe Park,78,853644,11086,927465
+NL,1954,PHI,Philadelphia Phillies,Shibe Park,78,738991,9597,1001690
+NL,1955,PHI,Philadelphia Phillies,Shibe Park,77,922886,11986,959302
+NL,1956,PHI,Philadelphia Phillies,Shibe Park,77,934798,12140,1081196
+NL,1957,PHI,Philadelphia Phillies,Shibe Park,78,1146230,14886,1102450
+NL,1958,PHI,Philadelphia Phillies,Shibe Park,77,931110,12092,1270575
+NL,1959,PHI,Philadelphia Phillies,Shibe Park,78,802815,10426,1249316
+NL,1960,PHI,Philadelphia Phillies,Shibe Park,77,862205,11197,1335620
+NL,1961,PHI,Philadelphia Phillies,Shibe Park,78,590039,7663,1091438
+NL,1962,PHI,Philadelphia Phillies,Shibe Park,80,762034,9466,"1,13,6016"
+NL,1963,PHI,Philadelphia Phillies,Shibe Park,81,907141,11199,1138223
+NL,1964,PHI,Philadelphia Phillies,Shibe Park,81,1425891,17604,1204519
+NL,1965,PHI,Philadelphia Phillies,Shibe Park,80,1166376,14489,1358114
+NL,1966,PHI,Philadelphia Phillies,Shibe Park,81,1108201,13681,1501547
+NL,1967,PHI,Philadelphia Phillies,Shibe Park,80,828888,10233,1297143
+NL,1968,PHI,Philadelphia Phillies,Shibe Park,81,664546,8204,1178536
+NL,1969,PHI,Philadelphia Phillies,Shibe Park,81,519414,6413,1257912
+NL,1970,PHI,Philadelphia Phillies,Shibe Park,80,708247,8798,1388517
+NL,1971,PHI,Philadelphia Phillies,Veterans Stadium,81,1511223,18657,1443738
+NL,1972,PHI,Philadelphia Phillies,Veterans Stadium,79,1343329,17222,1294144
+NL,1973,PHI,Philadelphia Phillies,Veterans Stadium,81,1475934,18221,1389610
+NL,1974,PHI,Philadelphia Phillies,Veterans Stadium,81,1808648,22329,1414860
+NL,1975,PHI,Philadelphia Phillies,Veterans Stadium,81,1909233,23571,1383374
+NL,1976,PHI,Philadelphia Phillies,Veterans Stadium,81,2480150,30619,1388377
+NL,1977,PHI,Philadelphia Phillies,Veterans Stadium,81,2700070,33334,1589186
+NL,1978,PHI,Philadelphia Phillies,Veterans Stadium,82,2583389,31894,1675577
+NL,1979,PHI,Philadelphia Phillies,Veterans Stadium,81,2775011,34259,1764868
+NL,1980,PHI,Philadelphia Phillies,Veterans Stadium,81,2651650,32736,1760340
+NL,1981,PHI,Philadelphia Phillies,Veterans Stadium,55,1638752,30631,1039866
+NL,1982,PHI,Philadelphia Phillies,Veterans Stadium,81,2376394,29338,1792285
+NL,1983,PHI,Philadelphia Phillies,Veterans Stadium,82,2128339,26276,1795774
+NL,1984,PHI,Philadelphia Phillies,Veterans Stadium,81,2062693,25465,1731786
+NL,1985,PHI,Philadelphia Phillies,Veterans Stadium,81,1830350,22597,1857680
+NL,1986,PHI,Philadelphia Phillies,Veterans Stadium,80,1933335,24017,1861123
+NL,1987,PHI,Philadelphia Phillies,Veterans Stadium,81,2100110,25927,2061180
+NL,1988,PHI,Philadelphia Phillies,Veterans Stadium,81,1990041,24721,2041606
+NL,1989,PHI,Philadelphia Phillies,Veterans Stadium,81,1861985,22987,2110320
+NL,1990,PHI,Philadelphia Phillies,Veterans Stadium,81,1992484,24599,2040959
+NL,1991,PHI,Philadelphia Phillies,Veterans Stadium,83,2050012,25309,2058014
+NL,1992,PHI,Philadelphia Phillies,Veterans Stadium,81,1927448,23796,2009261
+NL,1993,PHI,Philadelphia Phillies,Veterans Stadium,81,3137674,38737,2637470
+NL,1994,PHI,Philadelphia Phillies,Veterans Stadium,60,2290971,39843,1843416
+NL,1995,PHI,Philadelphia Phillies,Veterans Stadium,72,2043598,28383,1793589
+NL,1996,PHI,Philadelphia Phillies,Veterans Stadium,81,1801677,22243,2169949
+NL,1997,PHI,Philadelphia Phillies,Veterans Stadium,81,1490638,18403,2277526
+NL,1998,PHI,Philadelphia Phillies,Veterans Stadium,81,1715722,21182,2401674
+NL,1999,PHI,Philadelphia Phillies,Veterans Stadium,81,1825337,22535,2380436
+NL,2000,PHI,Philadelphia Phillies,Veterans Stadium,81,1612769,19911,2480194
+NL,2001,PHI,Philadelphia Phillies,Veterans Stadium,81,1782054,22847,2481346
+NL,2002,PHI,Philadelphia Phillies,Veterans Stadium,79,1618141,19977,2309294
+NL,2003,PHI,Philadelphia Phillies,Veterans Stadium,81,2259948,28973,2273813
+NL,2004,PHI,Philadelphia Phillies,Citizens Bank Park,81,3206532,40589,2512690
+NL,2005,PHI,Philadelphia Phillies,Citizens Bank Park,81,2665301,33316,2583685
+NL,2006,PHI,Philadelphia Phillies,Citizens Bank Park,81,2701815,34200,2598741
+NL,2007,PHI,Philadelphia Phillies,Citizens Bank Park,81,3108331,38374,2756384
+NL,2008,PHI,Philadelphia Phillies,Citizens Bank Park,81,3422583,42254,2755082
+NL,2009,PHI,Philadelphia Phillies,Citizens Bank Park,81,3600693,44453,2571627
+NL,2010,PHI,Philadelphia Phillies,Citizens Bank Park,84,3777322,46634,2563111
+NL,2011,PHI,Philadelphia Phillies,Citizens Bank Park,81,3680718,45441,2547018
+NL,2012,PHI,Philadelphia Phillies,Citizens Bank Park,81,3565718,44021,2592218
+NL,2013,PHI,Philadelphia Phillies,Citizens Bank Park,81,3012403,37190,2629060
+NL,2014,PHI,Philadelphia Phillies,Citizens Bank Park,81,2423852,29924,2615565
+NL,1901,PIT,Pittsburgh Pirates,Exposition Park,69,251955,3625,240004
+NL,1902,PIT,Pittsburgh Pirates,Exposition Park,71,243826,3508,210377
+NL,1903,PIT,Pittsburgh Pirates,Exposition Park,70,326855,4669,298795
+NL,1904,PIT,Pittsburgh Pirates,Exposition Park,78,340615,4452,333034
+NL,1905,PIT,Pittsburgh Pirates,Exposition Park,78,369124,4825,341789
+NL,1906,PIT,Pittsburgh Pirates,Exposition Park,77,394877,5162,347652
+NL,1907,PIT,Pittsburgh Pirates,Exposition Park,77,319506,4149,330028
+NL,1908,PIT,Pittsburgh Pirates,Exposition Park,77,382444,4967,439014
+NL,1909,PIT,Pittsburgh Pirates,Exposition Park / Forbes Field,78,534950,7039,437053
+NL,1910,PIT,Pittsburgh Pirates,Forbes Field,76,436586,5707,366970
+NL,1911,PIT,Pittsburgh Pirates,Forbes Field,78,432000,5610,403971
+NL,1912,PIT,Pittsburgh Pirates,Forbes Field,75,384000,5086,341970
+NL,1913,PIT,Pittsburgh Pirates,Forbes Field,79,296000,3973,353941
+NL,1914,PIT,Pittsburgh Pirates,Forbes Field,77,139620,1813,213425
+NL,1915,PIT,Pittsburgh Pirates,Forbes Field,79,225743,2932,303768
+NL,1916,PIT,Pittsburgh Pirates,Forbes Field,78,289132,3755,381454
+NL,1917,PIT,Pittsburgh Pirates,Forbes Field,79,192807,2504,295142
+NL,1918,PIT,Pittsburgh Pirates,Forbes Field,71,213610,3418,171516
+NL,1919,PIT,Pittsburgh Pirates,Forbes Field,70,276810,3983,359775
+NL,1920,PIT,Pittsburgh Pirates,Forbes Field,78,429037,5572,504572
+NL,1921,PIT,Pittsburgh Pirates,Forbes Field,76,701567,9171,498373
+NL,1922,PIT,Pittsburgh Pirates,Forbes Field,78,523675,6801,492728
+NL,1923,PIT,Pittsburgh Pirates,Forbes Field,77,611082,7936,508727
+NL,1924,PIT,Pittsburgh Pirates,Forbes Field,77,736883,9632,542581
+NL,1925,PIT,Pittsburgh Pirates,Forbes Field,77,804354,10514,544213
+NL,1926,PIT,Pittsburgh Pirates,Forbes Field,79,798542,10438,615050
+NL,1927,PIT,Pittsburgh Pirates,Forbes Field,79,869720,11295,663740
+NL,1928,PIT,Pittsburgh Pirates,Forbes Field,77,495070,6514,610137
+NL,1929,PIT,Pittsburgh Pirates,Forbes Field,76,491377,6423,615714
+NL,1930,PIT,Pittsburgh Pirates,Forbes Field,77,357795,4647,680817
+NL,1931,PIT,Pittsburgh Pirates,Forbes Field,78,260392,3382,572977
+NL,1932,PIT,Pittsburgh Pirates,Forbes Field,76,287262,3731,480167
+NL,1933,PIT,Pittsburgh Pirates,Forbes Field,77,288747,3750,395353
+NL,1934,PIT,Pittsburgh Pirates,Forbes Field,78,322622,4302,400013
+NL,1935,PIT,Pittsburgh Pirates,Forbes Field,77,352885,4613,457164
+NL,1936,PIT,Pittsburgh Pirates,Forbes Field,76,372524,4838,487961
+NL,1937,PIT,Pittsburgh Pirates,Forbes Field,78,459679,5970,525529
+NL,1938,PIT,Pittsburgh Pirates,Forbes Field,78,641033,8547,570103
+NL,1939,PIT,Pittsburgh Pirates,Forbes Field,77,376734,4925,588397
+NL,1940,PIT,Pittsburgh Pirates,Forbes Field,75,507934,6597,548712
+NL,1941,PIT,Pittsburgh Pirates,Forbes Field,78,482241,6263,597206
+NL,1942,PIT,Pittsburgh Pirates,Forbes Field,77,448897,6107,544169
+NL,1943,PIT,Pittsburgh Pirates,Forbes Field,78,498740,6477,471168
+NL,1944,PIT,Pittsburgh Pirates,Forbes Field,81,604278,7899,496824
+NL,1945,PIT,Pittsburgh Pirates,Forbes Field,79,604694,7853,657588
+NL,1946,PIT,Pittsburgh Pirates,Forbes Field,78,749962,9740,1112763
+NL,1947,PIT,Pittsburgh Pirates,Forbes Field,79,1283531,16669,1298559
+NL,1948,PIT,Pittsburgh Pirates,Forbes Field,80,1517021,19702,1221343
+NL,1949,PIT,Pittsburgh Pirates,Forbes Field,77,1449435,18824,1185590
+NL,1950,PIT,Pittsburgh Pirates,Forbes Field,77,1166267,15245,1040077
+NL,1951,PIT,Pittsburgh Pirates,Forbes Field,78,980590,12735,905500
+NL,1952,PIT,Pittsburgh Pirates,Forbes Field,77,686673,8918,792394
+NL,1953,PIT,Pittsburgh Pirates,Forbes Field,77,572757,7438,927465
+NL,1954,PIT,Pittsburgh Pirates,Forbes Field,77,475494,6175,1001690
+NL,1955,PIT,Pittsburgh Pirates,Forbes Field,75,469397,6096,959302
+NL,1956,PIT,Pittsburgh Pirates,Forbes Field,78,949878,12336,1081196
+NL,1957,PIT,Pittsburgh Pirates,Forbes Field,77,850732,11048,1102450
+NL,1958,PIT,Pittsburgh Pirates,Forbes Field,77,1311988,17039,1270575
+NL,1959,PIT,Pittsburgh Pirates,Forbes Field,77,1359917,17661,1249316
+NL,1960,PIT,Pittsburgh Pirates,Forbes Field,78,1705828,22154,1335620
+NL,1961,PIT,Pittsburgh Pirates,Forbes Field,77,1199128,15573,1091438
+NL,1962,PIT,Pittsburgh Pirates,Forbes Field,81,1090648,13548,"1,13,6016"
+NL,1963,PIT,Pittsburgh Pirates,Forbes Field,81,783648,9675,1138223
+NL,1964,PIT,Pittsburgh Pirates,Forbes Field,81,759496,9376,1204519
+NL,1965,PIT,Pittsburgh Pirates,Forbes Field,82,909279,11226,1358114
+NL,1966,PIT,Pittsburgh Pirates,Forbes Field,81,1196618,14773,1501547
+NL,1967,PIT,Pittsburgh Pirates,Forbes Field,81,907012,11198,1297143
+NL,1968,PIT,Pittsburgh Pirates,Forbes Field,81,693485,8562,1178536
+NL,1969,PIT,Pittsburgh Pirates,Forbes Field,81,769369,9498,1257912
+NL,1970,PIT,Pittsburgh Pirates,Forbes Field / Three Rivers Stadium,82,1341947,16567,1388517
+NL,1971,PIT,Pittsburgh Pirates,Three Rivers Stadium,80,1501132,18532,1443738
+NL,1972,PIT,Pittsburgh Pirates,Three Rivers Stadium,78,1427460,18419,1294144
+NL,1973,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1319913,16295,1389610
+NL,1974,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1110552,13711,1414860
+NL,1975,PIT,Pittsburgh Pirates,Three Rivers Stadium,80,1270018,15777,1383374
+NL,1976,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1025945,12666,1388377
+NL,1977,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1237349,15276,1589186
+NL,1978,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,964106,11976,1675577
+NL,1979,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1435454,17722,1764868
+NL,1980,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1646757,20330,1760340
+NL,1981,PIT,Pittsburgh Pirates,Three Rivers Stadium,51,541789,10623,1039866
+NL,1982,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1024106,12643,1792285
+NL,1983,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1225916,15135,1795774
+NL,1984,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,773500,9549,1731786
+NL,1985,PIT,Pittsburgh Pirates,Three Rivers Stadium,80,735900,9142,1857680
+NL,1986,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1000917,12357,1861123
+NL,1987,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1161193,14336,2061180
+NL,1988,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1866713,23334,2041606
+NL,1989,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1374141,16965,2110320
+NL,1990,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,2049908,25308,2040959
+NL,1991,PIT,Pittsburgh Pirates,Three Rivers Stadium,84,2065302,25498,2058014
+NL,1992,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1829395,22585,2009261
+NL,1993,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1650593,20378,2637470
+NL,1994,PIT,Pittsburgh Pirates,Three Rivers Stadium,61,1222520,21448,1843416
+NL,1995,PIT,Pittsburgh Pirates,Three Rivers Stadium,72,905517,12577,1793589
+NL,1996,PIT,Pittsburgh Pirates,Three Rivers Stadium,80,1332150,16446,2169949
+NL,1997,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1657022,20457,2277526
+NL,1998,PIT,Pittsburgh Pirates,Three Rivers Stadium,80,1560950,19271,2401674
+NL,1999,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1638023,20348,2380436
+NL,2000,PIT,Pittsburgh Pirates,Three Rivers Stadium,81,1748908,21591,2480194
+NL,2001,PIT,Pittsburgh Pirates,PNC Park,81,2435867,30834,2481346
+NL,2002,PIT,Pittsburgh Pirates,PNC Park,79,1784993,23148,2309294
+NL,2003,PIT,Pittsburgh Pirates,PNC Park,81,1636751,20983,2273813
+NL,2004,PIT,Pittsburgh Pirates,PNC Park,80,1583031,21107,2512690
+NL,2005,PIT,Pittsburgh Pirates,PNC Park,81,1794237,23003,2583685
+NL,2006,PIT,Pittsburgh Pirates,PNC Park,81,1861549,23269,2598741
+NL,2007,PIT,Pittsburgh Pirates,PNC Park,81,1749142,22141,2756384
+NL,2008,PIT,Pittsburgh Pirates,PNC Park,81,1609076,20113,2755082
+NL,2009,PIT,Pittsburgh Pirates,PNC Park,81,1577853,19479,2571627
+NL,2010,PIT,Pittsburgh Pirates,PNC Park,81,1613399,19919,2563111
+NL,2011,PIT,Pittsburgh Pirates,PNC Park,81,1940429,23956,2547018
+NL,2012,PIT,Pittsburgh Pirates,PNC Park,81,2091918,26148,2592218
+NL,2013,PIT,Pittsburgh Pirates,PNC Park,81,2256862,27862,2629060
+NL,2014,PIT,Pittsburgh Pirates,PNC Park,81,2442564,30155,2615565
+NL,1901,SLN,St. Louis Cardinals,Robison Field,72,379988,5428,240004
+NL,1902,SLN,St. Louis Cardinals,Robison Field,70,226417,3379,210377
+NL,1903,SLN,St. Louis Cardinals,Robison Field,69,226538,3307,298795
+NL,1904,SLN,St. Louis Cardinals,Robison Field,76,386750,5023,333034
+NL,1905,SLN,St. Louis Cardinals,Robison Field,77,292800,3803,341789
+NL,1906,SLN,St. Louis Cardinals,Robison Field,77,283770,37836,347652
+NL,1907,SLN,St. Louis Cardinals,Robison Field,79,185377,2423,330028
+NL,1908,SLN,St. Louis Cardinals,Robison Field,77,205129,2664,439014
+NL,1909,SLN,St. Louis Cardinals,Robison Field,76,299982,3947,437053
+NL,1910,SLN,St. Louis Cardinals,Robison Field,76,355668,4649,366970
+NL,1911,SLN,St. Louis Cardinals,Robison Field,79,447768,6010,403971
+NL,1912,SLN,St. Louis Cardinals,Robison Field,77,241759,3160,341970
+NL,1913,SLN,St. Louis Cardinals,Robison Field,74,203531,2714,353941
+NL,1914,SLN,St. Louis Cardinals,Robison Field,79,256099,3348,213425
+NL,1915,SLN,St. Louis Cardinals,Robison Field,81,252666,3303,303768
+NL,1916,SLN,St. Louis Cardinals,Robison Field,76,224308,2932,381454
+NL,1917,SLN,St. Louis Cardinals,Robison Field,78,288491,3796,295142
+NL,1918,SLN,St. Louis Cardinals,Robison Field,73,110599,1715,171516
+NL,1919,SLN,St. Louis Cardinals,Robison Field / Sportsman's Park,69,167059,2439,359775
+NL,1920,SLN,St. Louis Cardinals,Sportsman's Park,76,326836,4245,504572
+NL,1921,SLN,St. Louis Cardinals,Sportsman's Park,78,384773,5030,498373
+NL,1922,SLN,St. Louis Cardinals,Sportsman's Park,77,536998,6974,492728
+NL,1923,SLN,St. Louis Cardinals,Sportsman's Park,78,338551,4426,508727
+NL,1924,SLN,St. Louis Cardinals,Sportsman's Park,77,272885,3544,542581
+NL,1925,SLN,St. Louis Cardinals,Sportsman's Park,76,404959,5294,544213
+NL,1926,SLN,St. Louis Cardinals,Sportsman's Park,79,668428,8681,615050
+NL,1927,SLN,St. Louis Cardinals,Sportsman's Park,80,749340,9795,663740
+NL,1928,SLN,St. Louis Cardinals,Sportsman's Park,77,761574,9891,610137
+NL,1929,SLN,St. Louis Cardinals,Sportsman's Park,77,399887,5262,615714
+NL,1930,SLN,St. Louis Cardinals,Sportsman's Park,77,508501,6604,680817
+NL,1931,SLN,St. Louis Cardinals,Sportsman's Park,78,608535,7903,572977
+NL,1932,SLN,St. Louis Cardinals,Sportsman's Park,79,279219,3626,480167
+NL,1933,SLN,St. Louis Cardinals,Sportsman's Park,77,256171,3349,395353
+NL,1934,SLN,St. Louis Cardinals,Sportsman's Park,77,325056,4249,400013
+NL,1935,SLN,St. Louis Cardinals,Sportsman's Park,77,506084,6574,457164
+NL,1936,SLN,St. Louis Cardinals,Sportsman's Park,77,448078,5819,487961
+NL,1937,SLN,St. Louis Cardinals,Sportsman's Park,80,430811,5595,525529
+NL,1938,SLN,St. Louis Cardinals,Sportsman's Park,81,291418,3860,570103
+NL,1939,SLN,St. Louis Cardinals,Sportsman's Park,79,400245,5232,588397
+NL,1940,SLN,St. Louis Cardinals,Sportsman's Park,77,324078,4236,548712
+NL,1941,SLN,St. Louis Cardinals,Sportsman's Park,79,633645,8283,597206
+NL,1942,SLN,St. Louis Cardinals,Sportsman's Park,78,553552,7189,544169
+NL,1943,SLN,St. Louis Cardinals,Sportsman's Park,81,517135,6716,471168
+NL,1944,SLN,St. Louis Cardinals,Sportsman's Park,77,461968,6000,496824
+NL,1945,SLN,St. Louis Cardinals,Sportsman's Park,78,594630,7722,657588
+NL,1946,SLN,St. Louis Cardinals,Sportsman's Park,78,1061807,13613,1112763
+NL,1947,SLN,St. Louis Cardinals,Sportsman's Park,77,1247913,16207,1298559
+NL,1948,SLN,St. Louis Cardinals,Sportsman's Park,77,1111440,14434,1221343
+NL,1949,SLN,St. Louis Cardinals,Sportsman's Park,79,1430676,18580,1185590
+NL,1950,SLN,St. Louis Cardinals,Sportsman's Park,76,1093411,14294,1040077
+NL,1951,SLN,St. Louis Cardinals,Sportsman's Park,79,1013429,13161,905500
+NL,1952,SLN,St. Louis Cardinals,Sportsman's Park,77,913113,11859,792394
+NL,1953,SLN,St. Louis Cardinals,Sportsman's Park,78,880242,11432,927465
+NL,1954,SLN,St. Louis Cardinals,Sportsman's Park,77,1039698,13503,1001690
+NL,1955,SLN,St. Louis Cardinals,Sportsman's Park,77,849130,11028,959302
+NL,1956,SLN,St. Louis Cardinals,Sportsman's Park,78,1029773,13374,1081196
+NL,1957,SLN,St. Louis Cardinals,Sportsman's Park,77,1183575,15371,1102450
+NL,1958,SLN,St. Louis Cardinals,Sportsman's Park,77,1063730,13815,1270575
+NL,1959,SLN,St. Louis Cardinals,Sportsman's Park,77,929953,12077,1249316
+NL,1960,SLN,St. Louis Cardinals,Sportsman's Park,77,1096632,14243,1335620
+NL,1961,SLN,St. Louis Cardinals,Sportsman's Park,78,855305,11108,1091438
+NL,1962,SLN,St. Louis Cardinals,Sportsman's Park,81,953895,11776,1136016
+NL,1963,SLN,St. Louis Cardinals,Sportsman's Park,81,1170546,14451,1138223
+NL,1964,SLN,St. Louis Cardinals,Sportsman's Park,81,1143294,14115,1204519
+NL,1965,SLN,St. Louis Cardinals,Sportsman's Park,81,1241201,15419,1358114
+NL,1966,SLN,St. Louis Cardinals,Sportsman's Park / Busch Stadium,81,1712980,21148,1501547
+NL,1967,SLN,St. Louis Cardinals,Busch Stadium,81,2090145,25965,1297143
+NL,1968,SLN,St. Louis Cardinals,Busch Stadium,81,2011167,24829,1178536
+NL,1969,SLN,St. Louis Cardinals,Busch Stadium,80,1682783,20775,1257912
+NL,1970,SLN,St. Louis Cardinals,Busch Stadium,81,1629736,20120,1388517
+NL,1971,SLN,St. Louis Cardinals,Busch Stadium,82,1604671,19811,1443738
+NL,1972,SLN,St. Louis Cardinals,Busch Stadium,77,1196894,15345,1294144
+NL,1973,SLN,St. Louis Cardinals,Busch Stadium,81,1574046,19433,1389610
+NL,1974,SLN,St. Louis Cardinals,Busch Stadium,81,1838413,22837,1414860
+NL,1975,SLN,St. Louis Cardinals,Busch Stadium,82,1695270,20929,1383374
+NL,1976,SLN,St. Louis Cardinals,Busch Stadium,81,1207079,14902,1388377
+NL,1977,SLN,St. Louis Cardinals,Busch Stadium,83,1659287,20485,1589186
+NL,1978,SLN,St. Louis Cardinals,Busch Stadium,81,1278215,15780,1675577
+NL,1979,SLN,St. Louis Cardinals,Busch Stadium,82,1627256,20090,1764868
+NL,1980,SLN,St. Louis Cardinals,Busch Stadium,81,1385147,17101,1760340
+NL,1981,SLN,St. Louis Cardinals,Busch Stadium,53,1010247,19809,1039866
+NL,1982,SLN,St. Louis Cardinals,Busch Stadium,81,2111906,26073,1792285
+NL,1983,SLN,St. Louis Cardinals,Busch Stadium,81,2317914,28616,1795774
+NL,1984,SLN,St. Louis Cardinals,Busch Stadium,81,2037448,25154,1731786
+NL,1985,SLN,St. Louis Cardinals,Busch Stadium,81,2637563,32563,1857680
+NL,1986,SLN,St. Louis Cardinals,Busch Stadium,81,2471974,30708,1861123
+NL,1987,SLN,St. Louis Cardinals,Busch Stadium,81,3072122,37927,2061180
+NL,1988,SLN,St. Louis Cardinals,Busch Stadium,81,2892799,35714,2041606
+NL,1989,SLN,St. Louis Cardinals,Busch Stadium,83,3080980,38037,2110320
+NL,1990,SLN,St. Louis Cardinals,Busch Stadium,81,2573225,31768,2040959
+NL,1991,SLN,St. Louis Cardinals,Busch Stadium,84,2448699,30231,2058014
+NL,1992,SLN,St. Louis Cardinals,Busch Stadium,81,2418483,29858,2009261
+NL,1993,SLN,St. Louis Cardinals,Busch Stadium,81,2844977,35123,2637470
+NL,1994,SLN,St. Louis Cardinals,Busch Stadium,56,1866544,32746,1843416
+NL,1995,SLN,St. Louis Cardinals,Busch Stadium,72,1756727,24570,1793589
+NL,1996,SLN,St. Louis Cardinals,Busch Stadium,81,2654718,32774,2169949
+NL,1997,SLN,St. Louis Cardinals,Busch Stadium,81,2634014,32519,2277526
+NL,1998,SLN,St. Louis Cardinals,Busch Stadium,82,3195691,39453,2401674
+NL,1999,SLN,St. Louis Cardinals,Busch Stadium,80,3235833,40197,2380436
+NL,2000,SLN,St. Louis Cardinals,Busch Stadium,81,3336493,41191,2480194
+NL,2001,SLN,St. Louis Cardinals,Busch Stadium,82,3109578,38390,2481346
+NL,2002,SLN,St. Louis Cardinals,Busch Stadium,81,3011756,37182,2309294
+NL,2003,SLN,St. Louis Cardinals,Busch Stadium,81,2910386,35930,2273813
+NL,2004,SLN,St. Louis Cardinals,Busch Stadium,81,3048427,37634,2512690
+NL,2005,SLN,St. Louis Cardinals,Busch Stadium,81,3491837,43647,2583685
+NL,2006,SLN,St. Louis Cardinals,Busch Stadium,80,3407104,42588,2598741
+NL,2007,SLN,St. Louis Cardinals,Busch Stadium,81,3552166,48853,2756384
+NL,2008,SLN,St. Louis Cardinals,Busch Stadium,81,3430660,42353,2755082
+NL,2009,SLN,St. Louis Cardinals,Busch Stadium,81,3343252,41274,2571627
+NL,2010,SLN,St. Louis Cardinals,Busch Stadium,81,3301218,40756,2563111
+NL,2011,SLN,St. Louis Cardinals,Busch Stadium,81,3093954,38197,2547018
+NL,2012,SLN,St. Louis Cardinals,Busch Stadium,81,3262109,40272,2592218
+NL,2013,SLN,St. Louis Cardinals,Busch Stadium,81,3369769,41602,2629060
+NL,2014,SLN,St. Louis Cardinals,Busch Stadium,81,3540649,43712,2615565
+NL,1969,SDN,San Diego Padres,San Diego Stadium,81,512970,6333,1257912
+NL,1970,SDN,San Diego Padres,San Diego Stadium,81,643679,7947,1388517
+NL,1971,SDN,San Diego Padres,San Diego Stadium,81,557513,6926,1443738
+NL,1972,SDN,San Diego Padres,San Diego Stadium,80,644273,8422,1294144
+NL,1973,SDN,San Diego Padres,San Diego Stadium,81,611826,7553,1389610
+NL,1974,SDN,San Diego Padres,San Diego Stadium,81,1075399,13277,1414860
+NL,1975,SDN,San Diego Padres,San Diego Stadium,81,1281747,15824,1383374
+NL,1976,SDN,San Diego Padres,San Diego Stadium,80,1458478,18006,1388377
+NL,1977,SDN,San Diego Padres,San Diego Stadium,81,1376269,16991,1589186
+NL,1978,SDN,San Diego Padres,San Diego Stadium,81,1670107,20619,1675577
+NL,1979,SDN,San Diego Padres,San Diego Stadium,81,1456967,18099,1764868
+NL,1980,SDN,San Diego Padres,San Diego Stadium,81,1139026,14062,1760340
+NL,1981,SDN,San Diego Padres,Jack Murphy Stadium,55,519161,9439,1039866
+NL,1982,SDN,San Diego Padres,Jack Murphy Stadium,81,1607516,19846,1792285
+NL,1983,SDN,San Diego Padres,Jack Murphy Stadium,82,1539815,19010,1795774
+NL,1984,SDN,San Diego Padres,Jack Murphy Stadium,81,1983904,24493,1731786
+NL,1985,SDN,San Diego Padres,Jack Murphy Stadium,81,2210352,27288,1857680
+NL,1986,SDN,San Diego Padres,Jack Murphy Stadium,81,1805716,22293,1861123
+NL,1987,SDN,San Diego Padres,Jack Murphy Stadium,81,1454061,17951,2061180
+NL,1988,SDN,San Diego Padres,Jack Murphy Stadium,81,1506896,18719,2041606
+NL,1989,SDN,San Diego Padres,Jack Murphy Stadium,81,2009031,24803,2110320
+NL,1990,SDN,San Diego Padres,Jack Murphy Stadium,81,1856396,22918,2040959
+NL,1991,SDN,San Diego Padres,Jack Murphy Stadium,81,1804289,22275,2058014
+NL,1992,SDN,San Diego Padres,Jack Murphy Stadium,81,1721406,21252,2009261
+NL,1993,SDN,San Diego Padres,Jack Murphy Stadium,81,1375432,16981,2637470
+NL,1994,SDN,San Diego Padres,Jack Murphy Stadium,57,953857,16305,1843416
+NL,1995,SDN,San Diego Padres,Jack Murphy Stadium,72,1041805,14470,1793589
+NL,1996,SDN,San Diego Padres,Jack Murphy Stadium,81,2187886,27011,2169949
+NL,1997,SDN,San Diego Padres,Qualcomm Stadium,81,2089333,25794,2277526
+NL,1998,SDN,San Diego Padres,Qualcomm Stadium,81,2555874,31554,2401674
+NL,1999,SDN,San Diego Padres,Qualcomm Stadium,81,2523538,31155,2380436
+NL,2000,SDN,San Diego Padres,Qualcomm Stadium,81,2423149,29043,2480194
+NL,2001,SDN,San Diego Padres,Qualcomm Stadium,81,2378128,29727,2481346
+NL,2002,SDN,San Diego Padres,Qualcomm Stadium,81,2220416,27413,2309294
+NL,2003,SDN,San Diego Padres,Qualcomm Stadium,81,2030084,25062,2273813
+NL,2004,SDN,San Diego Padres,PETCO Park,81,3040046,37531,2512690
+NL,2005,SDN,San Diego Padres,PETCO Park,81,2832039,35400,2583685
+NL,2006,SDN,San Diego Padres,PETCO Park,81,2659732,32836,2598741
+NL,2007,SDN,San Diego Padres,PETCO Park,81,2790074,34445,2756384
+NL,2008,SDN,San Diego Padres,PETCO Park,81,2427535,29969,2755082
+NL,2009,SDN,San Diego Padres,PETCO Park,81,1922603,23735,2571627
+NL,2010,SDN,San Diego Padres,PETCO Park,81,2131774,26318,2563111
+NL,2011,SDN,San Diego Padres,PETCO Park,81,2143018,26457,2547018
+NL,2012,SDN,San Diego Padres,PETCO Park,81,2123721,26218,2592218
+NL,2013,SDN,San Diego Padres,PETCO Park,81,2166691,26749,2629060
+NL,2014,SDN,San Diego Padres,PETCO Park,81,2195373,27103,2615565
+NL,1901,NY1,New York Giants,Polo Grounds,71,297650,4345,240004
+NL,1902,NY1,New York Giants,Polo Grounds,71,302875,4454,210377
+NL,1903,NY1,New York Giants,Polo Grounds,70,579530,8339,298795
+NL,1904,NY1,New York Giants,Polo Grounds,84,609826,7972,333034
+NL,1905,NY1,New York Giants,Polo Grounds,76,552700,7225,341789
+NL,1906,NY1,New York Giants,Polo Grounds,75,402850,5301,347652
+NL,1907,NY1,New York Giants,Polo Grounds,77,538350,7037,330028
+NL,1908,NY1,New York Giants,Polo Grounds,80,910000,11818,439014
+NL,1909,NY1,New York Giants,Polo Grounds,77,783700,10244,437053
+NL,1910,NY1,New York Giants,Hilltop Park / Polo Grounds,79,511785,6647,366970
+NL,1911,NY1,New York Giants,Polo Grounds,75,675000,8824,403971
+NL,1912,NY1,New York Giants,Polo Grounds,76,638000,8450,341970
+NL,1913,NY1,New York Giants,Polo Grounds,81,630000,8289,353941
+NL,1914,NY1,New York Giants,Polo Grounds,80,364313,4731,213425
+NL,1915,NY1,New York Giants,Polo Grounds,76,391850,5156,303768
+NL,1916,NY1,New York Giants,Polo Grounds,78,552056,7264,381454
+NL,1917,NY1,New York Giants,Polo Grounds,80,500264,6497,295142
+NL,1918,NY1,New York Giants,Polo Grounds,56,256618,4139,171516
+NL,1919,NY1,New York Giants,Polo Grounds,69,708857,10127,359775
+NL,1920,NY1,New York Giants,Polo Grounds,80,929609,12073,504572
+NL,1921,NY1,New York Giants,Polo Grounds,79,973477,12725,498373
+NL,1922,NY1,New York Giants,Polo Grounds,79,945809,12283,492728
+NL,1923,NY1,New York Giants,Polo Grounds,77,820780,10729,508727
+NL,1924,NY1,New York Giants,Polo Grounds,77,844068,11034,542581
+NL,1925,NY1,New York Giants,Polo Grounds,76,778993,10250,544213
+NL,1926,NY1,New York Giants,Polo Grounds,76,700362,9276,615050
+NL,1927,NY1,New York Giants,Polo Grounds,74,858190,11145,663740
+NL,1928,NY1,New York Giants,Polo Grounds,77,916191,11899,610137
+NL,1929,NY1,New York Giants,Polo Grounds,77,868806,11507,615714
+NL,1930,NY1,New York Giants,Polo Grounds,77,868714,11282,680817
+NL,1931,NY1,New York Giants,Polo Grounds,78,812163,10686,572977
+NL,1932,NY1,New York Giants,Polo Grounds,77,484868,6297,480167
+NL,1933,NY1,New York Giants,Polo Grounds,77,604471,7956,395353
+NL,1934,NY1,New York Giants,Polo Grounds,75,730851,9554,400013
+NL,1935,NY1,New York Giants,Polo Grounds,79,748748,9788,457164
+NL,1936,NY1,New York Giants,Polo Grounds,78,837952,10882,487961
+NL,1937,NY1,New York Giants,Polo Grounds,75,926887,12196,525529
+NL,1938,NY1,New York Giants,Polo Grounds,73,799633,10662,570103
+NL,1939,NY1,New York Giants,Polo Grounds,74,702457,9304,588397
+NL,1940,NY1,New York Giants,Polo Grounds,76,747852,9840,548712
+NL,1941,NY1,New York Giants,Polo Grounds,78,763098,9975,597206
+NL,1942,NY1,New York Giants,Polo Grounds,79,779621,10258,544169
+NL,1943,NY1,New York Giants,Polo Grounds,77,466095,6093,471168
+NL,1944,NY1,New York Giants,Polo Grounds,75,674483,8760,496824
+NL,1945,NY1,New York Giants,Polo Grounds,78,1016468,13375,657588
+NL,1946,NY1,New York Giants,Polo Grounds,77,1219873,15843,1112763
+NL,1947,NY1,New York Giants,Polo Grounds,76,1600793,20790,1298559
+NL,1948,NY1,New York Giants,Polo Grounds,77,1459269,18952,1221343
+NL,1949,NY1,New York Giants,Polo Grounds,79,1218446,15824,1185590
+NL,1950,NY1,New York Giants,Polo Grounds,76,1008878,13102,1040077
+NL,1951,NY1,New York Giants,Polo Grounds,78,1059539,13497,905500
+NL,1952,NY1,New York Giants,Polo Grounds,77,984940,12791,792394
+NL,1953,NY1,New York Giants,Polo Grounds,77,811518,10539,927465
+NL,1954,NY1,New York Giants,Polo Grounds,76,1155067,15001,1001690
+NL,1955,NY1,New York Giants,Polo Grounds,79,824112,10703,959302
+NL,1956,NY1,New York Giants,Polo Grounds,77,629179,8171,1081196
+NL,1957,NY1,New York Giants,Polo Grounds,77,653923,8493,1102450
+NL,1958,SFN,San Francisco Giants,Seals Stadium,77,1272625,15711,1270575
+NL,1959,SFN,San Francisco Giants,Seals Stadium,77,1422130,17557,1249316
+NL,1960,SFN,San Francisco Giants,Candlestick Park,77,1795356,22165,1335620
+NL,1961,SFN,San Francisco Giants,Candlestick Park,77,1390679,17169,1091438
+NL,1962,SFN,San Francisco Giants,Candlestick Park,82,1592594,19662,"1,13,6016"
+NL,1963,SFN,San Francisco Giants,Candlestick Park,81,1571306,19399,1138223
+NL,1964,SFN,San Francisco Giants,Candlestick Park,81,1504364,18572,1204519
+NL,1965,SFN,San Francisco Giants,Candlestick Park,81,1546075,19087,1358114
+NL,1966,SFN,San Francisco Giants,Candlestick Park,81,1657192,20459,1501547
+NL,1967,SFN,San Francisco Giants,Candlestick Park,82,1242480,15339,1297143
+NL,1968,SFN,San Francisco Giants,Candlestick Park,81,837220,10336,1178536
+NL,1969,SFN,San Francisco Giants,Candlestick Park,81,873603,10785,1257912
+NL,1970,SFN,San Francisco Giants,Candlestick Park,81,740720,9145,1388517
+NL,1971,SFN,San Francisco Giants,Candlestick Park,81,1106043,13654,1443738
+NL,1972,SFN,San Francisco Giants,Candlestick Park,77,647744,7997,1294144
+NL,1973,SFN,San Francisco Giants,Candlestick Park,81,834193,10299,1389610
+NL,1974,SFN,San Francisco Giants,Candlestick Park,81,519987,6420,1414860
+NL,1975,SFN,San Francisco Giants,Candlestick Park,81,522919,6456,1383374
+NL,1976,SFN,San Francisco Giants,Candlestick Park,81,626868,7739,1388377
+NL,1977,SFN,San Francisco Giants,Candlestick Park,81,700056,8643,1589186
+NL,1978,SFN,San Francisco Giants,Candlestick Park,81,1740477,21487,1675577
+NL,1979,SFN,San Francisco Giants,Candlestick Park,81,1456402,17980,1764868
+NL,1980,SFN,San Francisco Giants,Candlestick Park,81,1096115,13532,1760340
+NL,1981,SFN,San Francisco Giants,Candlestick Park,53,632274,7806,1039866
+NL,1982,SFN,San Francisco Giants,Candlestick Park,81,1200948,14827,1792285
+NL,1983,SFN,San Francisco Giants,Candlestick Park,81,1251530,15451,1795774
+NL,1984,SFN,San Francisco Giants,Candlestick Park,81,1001545,12365,1731786
+NL,1985,SFN,San Francisco Giants,Candlestick Park,81,818697,10107,1857680
+NL,1986,SFN,San Francisco Giants,Candlestick Park,81,1528748,18873,1861123
+NL,1987,SFN,San Francisco Giants,Candlestick Park,81,1917168,23669,2061180
+NL,1988,SFN,San Francisco Giants,Candlestick Park,81,1785297,22041,2041606
+NL,1989,SFN,San Francisco Giants,Candlestick Park,81,2059701,25428,2110320
+NL,1990,SFN,San Francisco Giants,Candlestick Park,81,1975528,24389,2040959
+NL,1991,SFN,San Francisco Giants,Candlestick Park,81,1737478,21450,2058014
+NL,1992,SFN,San Francisco Giants,Candlestick Park,81,1560998,19272,2009261
+NL,1993,SFN,San Francisco Giants,Candlestick Park,81,2606354,32177,2637470
+NL,1994,SFN,San Francisco Giants,Candlestick Park,60,1704608,21045,1843416
+NL,1995,SFN,San Francisco Giants,Candlestick Park,72,1241500,15327,1793589
+NL,1996,SFN,San Francisco Giants,Candlestick Park,82,1413922,17456,2169949
+NL,1997,SFN,San Francisco Giants,3Com Park,81,1690869,20875,2277526
+NL,1998,SFN,San Francisco Giants,3Com Park,81,1925364,23770,2401674
+NL,1999,SFN,San Francisco Giants,3Com Park,81,2078365,25659,2380436
+NL,2000,SFN,San Francisco Giants,PacBell Park,81,3318800,40973,2480194
+NL,2001,SFN,San Francisco Giants,PacBell Park,81,3311000,40877,2481346
+NL,2002,SFN,San Francisco Giants,PacBell Park,81,3253205,40163,2309294
+NL,2003,SFN,San Francisco Giants,PacBell Park,81,3264898,40307,2273813
+NL,2004,SFN,San Francisco Giants,PacBell Park,82,3258864,40232,2512690
+NL,2005,SFN,San Francisco Giants,AT&T Park,81,3140781,39259,2583685
+NL,2006,SFN,San Francisco Giants,AT&T Park,81,3130304,38645,2598741
+NL,2007,SFN,San Francisco Giants,AT&T Park,81,3223202,39792,2756384
+NL,2008,SFN,San Francisco Giants,AT&T Park,81,2863837,35356,2755082
+NL,2009,SFN,San Francisco Giants,AT&T Park,81,2861113,35322,2571627
+NL,2010,SFN,San Francisco Giants,AT&T Park,81,3037443,37499,2563111
+NL,2011,SFN,San Francisco Giants,AT&T Park,81,3387303,41819,2547018
+NL,2012,SFN,San Francisco Giants,AT&T Park,81,3377371,41695,2592218
+NL,2013,SFN,San Francisco Giants,AT&T Park,82,3369106,41087,2629060
+NL,2014,SFN,San Francisco Giants,AT&T Park,81,3368697,41589,2615565
+NL,1969,MON,Montreal Expos,Parc Jarry,81,1212608,14970,1257912
+NL,1970,MON,Montreal Expos,Parc Jarry,80,1424683,17589,1388517
+NL,1971,MON,Montreal Expos,Parc Jarry,80,1290963,16037,1443738
+NL,1972,MON,Montreal Expos,Parc Jarry,78,1142145,14643,1294144
+NL,1973,MON,Montreal Expos,Parc Jarry,81,1246863,15393,1389610
+NL,1974,MON,Montreal Expos,Parc Jarry,80,1019134,12660,1414860
+NL,1975,MON,Montreal Expos,Parc Jarry,81,908292,11213,1383374
+NL,1976,MON,Montreal Expos,Parc Jarry,80,646704,7984,1388377
+NL,1977,MON,Montreal Expos,Stade Olympique,81,1433757,17701,1589186
+NL,1978,MON,Montreal Expos,Stade Olympique,80,1427007,17617,1675577
+NL,1979,MON,Montreal Expos,Stade Olympique,81,2102173,26277,1764868
+NL,1980,MON,Montreal Expos,Stade Olympique,80,2208175,27261,1760340
+NL,1981,MON,Montreal Expos,Stade Olympique,56,1534564,28418,1039866
+NL,1982,MON,Montreal Expos,Stade Olympique,81,2318292,28621,1792285
+NL,1983,MON,Montreal Expos,Stade Olympique,81,2320651,28650,1795774
+NL,1984,MON,Montreal Expos,Stade Olympique,81,1606531,19957,1731786
+NL,1985,MON,Montreal Expos,Stade Olympique,81,1502494,18665,1857680
+NL,1986,MON,Montreal Expos,Stade Olympique,80,1128981,14025,1861123
+NL,1987,MON,Montreal Expos,Stade Olympique,81,1850324,22844,2061180
+NL,1988,MON,Montreal Expos,Stade Olympique,81,1478659,18255,2041606
+NL,1989,MON,Montreal Expos,Stade Olympique,81,1783533,22019,2110320
+NL,1990,MON,Montreal Expos,Stade Olympique,81,1373087,16952,2040959
+NL,1991,MON,Montreal Expos,Stade Olympique,68,934742,11612,2058014
+NL,1992,MON,Montreal Expos,Stade Olympique,81,1669127,20607,2009261
+NL,1993,MON,Montreal Expos,Stade Olympique,81,1641437,20265,2637470
+NL,1994,MON,Montreal Expos,Stade Olympique,52,1276250,22390,1843416
+NL,1995,MON,Montreal Expos,Stade Olympique,72,1309618,18189,1793589
+NL,1996,MON,Montreal Expos,Stade Olympique,81,1616709,19959,2169949
+NL,1997,MON,Montreal Expos,Stade Olympique,81,1497609,18489,2277526
+NL,1998,MON,Montreal Expos,Stade Olympique,81,914909,11295,2401674
+NL,1999,MON,Montreal Expos,Stade Olympique,81,772737,9540,2380436
+NL,2000,MON,Montreal Expos,Stade Olympique,81,926272,11435,2480194
+NL,2001,MON,Montreal Expos,Stade Olympique,81,642743,7935,2481346
+NL,2002,MON,Montreal Expos,Stade Olympique,81,812537,10031,2309294
+NL,2003,MON,Montreal Expos,Stade Olympique / Hiram Bithorn Stadium,81,1025639,12662,2273813
+NL,2004,MON,Montreal Expos,Stade Olympique / Hiram Bithorn Stadium,80,748550,9356,2512690
+NL,2005,WAS,Washington Nationals,R.F.K. Stadium,81,2692123,33651,2583685
+NL,2006,WAS,Washington Nationals,R.F.K. Stadium,81,2153150,26582,2598741
+NL,2007,WAS,Washington Nationals,R.F.K. Stadium,81,1961579,24217,2756384
+NL,2008,WAS,Washington Nationals,Nationals Park,80,2320400,29005,2755082
+NL,2009,WAS,Washington Nationals,Nationals Park,81,1817280,22716,2571627
+NL,2010,WAS,Washington Nationals,Nationals Park,81,1828066,22569,2563111
+NL,2011,WAS,Washington Nationals,Nationals Park,80,1940478,24256,2547018
+NL,2012,WAS,Washington Nationals,Nationals Park,81,2370794,30010,2592218
+NL,2013,WAS,Washington Nationals,Nationals Park,81,2652422,32746,2629060
+NL,2014,WAS,Washington Nationals,Nationals Park,81,2579389,31844,2615565
