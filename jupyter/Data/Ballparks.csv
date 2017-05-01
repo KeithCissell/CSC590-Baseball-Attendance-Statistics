@@ -1,0 +1,83 @@
+Ballpark,Park ID,Teams,Opened,Closed,Capacity,Cost,Turf,Dimensions
+American League Park,NA,Washington Senators,1901,1910,"10,000",Unknown,Grass,Unknown
+Angel Stadium,ANA01,Los Angeles Angels,1966,,"45,493",$24 Million,Grass,330-396-330
+Arlington Stadium,ARL01,Texas Rangers,1966,1993,"43,521",$19 Million,Grass,330-400-330
+Astrodome,HOU02,Houston Astros,1965,1999,"54,816",$95 Million,AstroTurf,330-400-330
+AT&T Park,SFO03,San Francisco Giants,2000,,"41,915",$255 Million,Grass,339-399-339
+Atlanta Fulton County,ATL01,Atlanta Braves,1966,1995,"52,013",$18 Million,Grass,330-402-330
+Baker Bowl,PHI09,Philadelphia Phillies,1895,1938,"18,000","$80,000 ",Grass,Unknown
+Braves Field,BOS08,Boston Braves,1915,1952,"42,000","$500,000 ",Grass,337-370-319
+Busch Stadium,STL10,St. Louis Cardinals,2006,,"46,200",$411 Million,Grass,336-400-335
+Busch Stadium,STL09,St. Louis Cardinals,1966,2005,"49,676",$55 Million,Grass,330-402-330
+Camden Yards,NA,Baltimore Orioles,1992,,"45,971",$110 Million,Grass,337-406-330
+Candlestick Park,SFO02,San Francisco Giants,1960,1999,"57,546",$21.1 Million,Grass,335-400-330
+Chase Field,PHO01,Arizona Diamondbacks,1998,,"48,519",$354 Million,Grass,330-407-335
+Citi Field,NYC20,New York Mets,2009,,"45,000",$632 Million,Grass,335-405-330
+Citizens Bank Park,PHI13,Philadelphia Phillies,2004,,"43,826",$458 Million,Grass,330-401-339
+Cleveland Municipal,CLE07,Cleveland Indians,1932,1993,"74,400",$11.6 Million,Grass,320-404-320
+Colt Stadium,HOU01,Houston Astros,1962,1964,"33,000",$2 Million,Grass,360-420-360
+Columbia Park,PHI10,Philadelphia A's,1901,1908,"9,500","$40,000 ",Grass,Unknown
+Comerica Park,DET05,Detroit Tigers,2000,,"41,574",$300 Million,Grass,345-420-340
+Comiskey Park,CHI10,Chicago White Sox,1910,1990,"52,000",$1.7 Million,Grass,347-409-347
+Coors Field,DEN02,Colorado Rockies,1995,,"50,398",$115 Million,Grass,347-415-340
+County Stadium,MIL05,Milwaukee Brewers,1953,2000,"53,192",$5 Million,Grass,315-402-315
+Crosley Field,CIN07,Cincinnati Reds,1912,1970,"29,400","$225,000 ",Grass,328-387-366
+Dodger Stadium,LOS03,Los Angeles Dodgers,1962,,"56,000",$23 Million,Grass,330-400-330
+Ebbets Field,NYC15,Brooklyn Dodgers,1913,1957,"32,000","$750,000 ",Grass,348-393-297
+Exhibition Stadium,TOR01,Toronto BlueJays,1977,1989,"43,737",$17.6 Million,AstroTurf,330-400-330
+Exposition Park,NA,Pittsburgh Pirates,1890,1914,"16,500",Unknown,Grass,400-450-400
+Fenway Park,BOS07,Boston Red Sox,1912,,"37,673","$650,000 ",Grass,310-420-312
+Forbes Field,PIT06,Pittsburgh Pirates,1909,1970,"35,000",$1 Million,Grass,365-400-300
+Globe Life Park,NA,Texas Rangers,1994,,"48,911",$191 Million,Grass,332-400-335
+Great American Ball Park,CIN09,Cincinnati Reds,2003,,"42,271",$320 Million,Grass,325-404-328
+Griffith Stadium,WAS09,Washington Senators,1911,1961,"27,410",Unknown,Grass,388-421-320
+H.H.H. Metrodome,MIN03,Minnesota Twins,1982,2009,"56,144",$68 Million,FieldTurf,343-408-327
+Hilltop Park,NYC13,New York Highlanders,1903,1911,"16,000","$75,000 ",Grass,365-542-400
+Huntington Ave. Grounds,PHI06,Boston Red Sox,1901,1911,"11,500",Unknown,Grass,350-530-320
+Huntington Ave. Grounds,PHI14,Boston Red Sox,1901,1911,"11,500",Unknown,Grass,350-530-320
+Jarry Park,NA,Montreal Expos,1969,1976,"28,456",Unknown,Grass,340-417-340
+K.C. Municipal,NA,Kansas City A's,1955,1972,"30,611",Unknown,Grass,369-421-338
+Kauffman Stadium,KAN06,Kansas City Royals,1973,,"38,177",$43 Million,Grass,330-400-330
+Kingdome,SEA02,Seattle Mariners,1977,1999,"59,100",$67 Million,AstroTurf,330-410-330
+L.A. Coliseum,LOS01,Los Angeles Dodgers,1958,1961,"93,000","$950,000 ",Grass,252-420-300
+L.A. Wrigley Field,LOS02,L.A. (Anaheim) Angels,1961,1961,"20,457",Unknown,Grass,340-412-339
+League Park,NA,Cleveland Indians,1910,1946,"21,400",Unknown,Grass,375-420-290
+Marlins Park,MIA02,Miami Marlins,2012,,"37,442",$515 Million,Grass,340-420-345
+Memorial Stadium,BAL11,Baltimore Orioles,1954,1991,"54,000",$2.5 Million,Grass,309-405-309
+Metropolitan Stadium,MIN02,Minnesota Twins,1961,1981,"45,910",$8 Million,Grass,343-402-330
+Mile High Stadium,DEN01,Colorado Rockies,1993,1994,"76,123",Unknown,Grass,335-423-375
+Miller Park,MIL06,Milwaukee Brewers,2001,,"41,900",$382 Million,Grass,332-400-335
+Minute Maid Park,HOU03,Houston Astros,2000,,"41,574",$248 Million,Grass,315-435-316
+Nationals Park,WAS11,Washington Nationals,2008,,"43,341",$611 Million,Grass,336-403-335
+O.co Coliseum,OAK01,Oakland A's,1968,,"35,067",$25.5 Million,Grass,330-400-330
+Olympic Stadium,WAS01,Montreal Expos,1977,2004,"46,500",$500 Million,AstroTurf,325-404-325
+Oriole Park,NA,Baltimore Orioles,1901,1902,"8,000",Unknown,Grass,Unknown
+Palace of the Fans,CIN06,Cincinnati Reds,1902,1911,"10,000",Unknown,Grass,Unknown
+Petco Park,SAN02,San Diego Padres,2004,,"41,164",$449 Million,Grass,336-396-332
+PNC Park,PIT08,Pittsburgh Pirates,2001,,"38,496",$216 Million,Grass,325-399-320
+Polo Grounds,NA,New York Giants,1911,1963,"54,555","$300,000 ",Grass,280-475-258
+Progressive Field,CLE08,Cleveland Indians,1994,,"37,630",$169 Million,Grass,325-405-325
+Qualcomm Stadium,SAN01,San Diego Padres,1969,2003,"56,133",$27.8 Million,Grass,327-405-330
+R.F.K. Stadium,WAS10,Washington Nationals,1962,2007,"46,382",$20 Million,Grass,335-400-335
+Riverfront Stadium,NA,Cincinnati Reds,1970,2002,"52,952",$50 Million,Grass,325-393-325
+Rogers Centre,TOR02,Toronto Blue Jays,1989,,"50,516",$500 Million,Fieldturf,328-400-328
+Safeco Field,SEA03,Seattle Mariners,1999,,"47,116",$517 Million,Grass,331-405-337
+Seals Stadium,SFO01,San Francisco Giants,1958,1959,"22,900",Unknown,Grass,361-400-350
+Shea Stadium,NYC17,New York Mets,1964,2008,"57,333",$28.5 Million,Grass,325-404-325
+Shibe Park,PHI11,Philadelphia Phillies,1909,1970,"33,000","$450,000 ",Grass,334-410-329
+Sicks Stadium,SEA01,Seattle Pilots,1969,1969,"25,420",Unknown,Grass,305-420-320
+South End Grounds,NA,Boston Braves,1871,1914,"5,000",Unknown,Grass,Unknown
+South Side Park,NA,Chicago White Sox,1901,1910,"15,000",Unknown,Grass,Unknown
+Sportsman's Park,NA,St. Louis Cardinals,1881,1966,"30,611","$300,000 ",Grass,334-410-330
+Sun Life Stadium,MIA01,Florida Marlins,1993,2011,"47,972",$115 Million,Grass,330-434-345
+Target Field,MIN04,Minnesota Twins,2010,,"42,000",$545 Million,Grass,339-404-328
+Three Rivers Stadium,THR01,Pittsburgh Pirates,1970,2000,"47,952",$55 Million,AstroTurf,335-400-335
+Tiger Stadium,DET04,Detroit Tigers,1912,1999,"52,400",$8 Million,Grass,340-440-325
+Tropicana Field,STP01,Tampa Bay Rays,1998,,"31,042",$138 Million,Fieldturf,315-404-312
+Turner Field,ATL02,Atlanta Braves,1997,,"50,096",$239 Million,Grass,335-400-330
+U.S. Cellular Field,CHI12,Chicago White Sox,1991,,"40,615",$137 Million,Grass,330-400-335
+Veterans Stadium,PHI12,Philadelphia Phillies,1971,2003,"62,623",$50 Million,NexTurf,330-408-330
+West Side Park,CHI06,Chicago Cubs,1893,1915,"16,000",Unknown,Grass,340-560-316
+Wrigley Field,CHI11,Chicago Cubs,1914,,"40,929","$250,000 ",Grass,355-400-353
+Yankee Stadium,NYC21,New York Yankees,2009,,"52,355",$1.6 Billion,Grass,318-404-314
+Yankee Stadium,NYC16,New York Yankees,1923,2008,"56,937",$50 Million,Grass,318-408-314
