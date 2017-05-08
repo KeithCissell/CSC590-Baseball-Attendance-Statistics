@@ -25,8 +25,10 @@ We setup two global counters to use for the outcome percentage. For each team, o
 - __games_amalyzed__ - total number of games with attendance outside the standard deviation
 
 First, we get the standard deviation of the attendance level of a team for a given year.
+
 Next, we look at each individual game for that team and year. If the attendance level for that game falls outside of the
 standard deviation of attendance for that year, we add 1 to the __games_analyzed__ counter.
+
 Then, if the attendance level was above the standard deviation and resulted in a win, we add 1 to __supported__
 or if the attendance level was below the standard deviation and resulted in a loss, we add 1 to __supported__
 
@@ -34,10 +36,17 @@ Once we have looked at every game of every team for every year, we return:
 __supported_percentage__ = __supported__ / __games_analyzed__
 This percentage shows us if the attendance levels appear to help or hurt the outcome of games
 
+
+What the Supported Percentage means:
+
 Helped: if the __supported_percentage__ is well above 50%, this means that the size of the crowd helped the outcome
+
         (high attendance -> wins; low attendance -> losses)
+
 Indifferent: if the __supported_percentage__ is close to 50%, this means that the size of the crowd had no effect on the outcome
+
 Hurt: if the __supported_percentage__ is well below 50%, this means that the size of the crowd hurt the outcome of the game
+
         (high attendance -> losses; low attendance -> wins)
 
 ### Team Attendance Win Relation
