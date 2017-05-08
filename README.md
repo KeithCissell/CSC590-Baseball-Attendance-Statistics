@@ -57,5 +57,5 @@ The Helped/Indifferent/Hurt scale for the __supported_percentage__ still holds t
 This stat can help to see how well certain teams tend to play while under pressure.
 
 ## Data Sources
--http://www.ballparksofbaseball.com/capacity.htm
--http://www.seanlahman.com/baseball-archive/statistics/
+- http://www.ballparksofbaseball.com/capacity.htm
+- http://www.seanlahman.com/baseball-archive/statistics/
