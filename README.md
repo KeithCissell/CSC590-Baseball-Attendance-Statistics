@@ -1,5 +1,5 @@
 # CSC590-Baseball-Attendance-Statistics
-This is a group project assigned for CSC 590 - Sports Data Analytics through Missouri State University.
+This is a project assigned for CSC 590 - Sports Data Analytics through Missouri State University.
 
 ## Description
 We are using various MLB datasets to create stoical analysis based around the attendance of a baseball game.
@@ -23,6 +23,7 @@ For this statistic we looked at the relation of exceptionally high/low attendanc
 We setup two global counters to use for the outcome percentage. For each team, only home games were analyzed.
 - __supported__ - games with a high attendance level that resulted in a win and games with a low attendance level that resulted in a loss
 - __games_amalyzed__ - total number of games with attendance outside the standard deviation
+
 First, we get the standard deviation of the attendance level of a team for a given year.
 Next, we look at each individual game for that team and year. If the attendance level for that game falls outside of the
 standard deviation of attendance for that year, we add 1 to the __games_analyzed__ counter.
