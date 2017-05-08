@@ -45,7 +45,7 @@ def readcsv(fname):
 
 class Team:
     def __init__(self, team, teamid, yr):
-        self.team = team
+        self.name = team
         self.teamid = teamid
         self.year = yr
         self.avg_att = 0
@@ -105,14 +105,15 @@ def build_years_dict():
         games = readcsv(yr_file)
         for game in games:
             # validate data
-            if game[attx] and int(game[attx]) > 0:
-                # check if team is in team dict or not
-                teamid = game[teamx]
-                team_name = team_ref[teamid]
-                if team_name not in years[yr]:
-                    years[yr][team_name] = Team(team_name, teamid, yr)
-                # add game data to proper team
-                years[yr][team_name].addGame(game)
+            if game[attx]:                
+                if int(game[attx]) > 0:
+                    # check if team is in team dict or not
+                    teamid = game[teamx]
+                    team_name = team_ref[teamid]
+                    if team_name not in years[yr]:
+                        years[yr][team_name] = Team(team_name, teamid, yr)
+                    # add game data to proper team
+                    years[yr][team_name].addGame(game)
                     
     # calculate standard deviations of attendance
     for yr in years:
@@ -124,16 +125,19 @@ def build_years_dict():
     return years
 
 
-# In[8]:
+# In[30]:
 
 # Analyzes game data to see if high attendance number translate to higher team performance
-def supported_percentage(years):
-    supported = 0
-    games_analyzed = 0
+def find_supported_percentages(years):
     for y in years:
         year = years[y]
+        highPct = ("", 0)
+        lowPct = ("", 101)
+    
         for t in year:
             team = year[t]
+            supported = 0
+            games_analyzed = 0
             for g in range(0, len(team.games)):
                 game = team.games[g]
                 att_dev = team.getAttDeviation(game)
@@ -144,19 +148,26 @@ def supported_percentage(years):
                         supported += 1
                     elif att_dev < 0 and not team.win(game):
                         supported += 1
-    # return the percentage of games that supports: high attendance -> high team performance
-    return round((supported / games_analyzed) * 100, 2)
+            if games_analyzed > 10:   
+                pctSupported = round((supported / games_analyzed) * 100, 2)
+                if pctSupported > highPct[1]:
+                    highPct = (team.name, pctSupported)
+                if pctSupported < lowPct[1]:
+                    lowPct = (team.name, pctSupported)
+        
+        print(str(y) + ":")
+        print("Team most positively supported by attendence level:", highPct[0], "at", str(highPct[1]) + "%")
+        print("Team most negatively supported by attendence level:", lowPct[0], "at",  str(lowPct[1]) + "%\n")
 
 
-# In[9]:
+# In[31]:
 
 years = build_years_dict()
 
 
-# In[10]:
+# In[32]:
 
-sp = supported_percentage(years)
-print("The relation of high/low attendance to win/loss of game is", sp, "% supported.")
+find_supported_percentages(years)
 
 
 # In[ ]:
