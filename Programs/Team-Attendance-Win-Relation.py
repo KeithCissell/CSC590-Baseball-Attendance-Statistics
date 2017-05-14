@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[78]:
+# In[2]:
 
 import csv
 import numpy
@@ -10,7 +10,7 @@ from scipy.stats.stats import pearsonr
 get_ipython().magic('matplotlib inline')
 
 
-# In[79]:
+# In[3]:
 
 # File names
 teams_file = "Data//Teams.csv"
@@ -20,7 +20,7 @@ startyr = 1970
 endyr = 2016
 
 
-# In[80]:
+# In[4]:
 
 # Indicies
 # game logs
@@ -31,7 +31,7 @@ yrx, teamidx, gx, home_gx, wx, lx = 0, 2, 6, 7, 8, 9
 team_namex, avg_attx = 40, 42
 
 
-# In[81]:
+# In[5]:
 
 def readcsv(fname):
     f = open(fname, 'r')
@@ -41,7 +41,7 @@ def readcsv(fname):
     return lines
 
 
-# In[82]:
+# In[6]:
 
 class Team:
     def __init__(self, team, teamid, yr):
@@ -77,7 +77,7 @@ class Team:
             return False
 
 
-# In[83]:
+# In[7]:
 
 def build_teamid_ref(lines):
     d = {}
@@ -89,7 +89,7 @@ def build_teamid_ref(lines):
     return d
 
 
-# In[84]:
+# In[8]:
 
 # builds a dictionary -> {year: {team_name: Team, ...}, ...}
 def build_years_dict():
@@ -126,7 +126,7 @@ def build_years_dict():
     return years
 
 
-# In[88]:
+# In[12]:
 
 # Analyzes game data to see if high attendance number translate to higher team performance
 def find_supported_percentages(years):
@@ -134,6 +134,7 @@ def find_supported_percentages(years):
     for y in sortedYears:
         year = years[y]
         highPct = ("", 0)
+        midPct = ("", 101)
         lowPct = ("", 101)
     
         for t in year:
@@ -155,20 +156,23 @@ def find_supported_percentages(years):
                 pctSupported = round(((preNormalized - 50) * 2), 2)
                 if pctSupported > highPct[1]:
                     highPct = (team.name, pctSupported)
+                if abs(pctSupported) < midPct[1]:
+                    midPct = (team.name, pctSupported)
                 if pctSupported < lowPct[1]:
                     lowPct = (team.name, pctSupported)
         
         print(str(y) + ":")
         print("Team most positively effected by attendence level:", highPct[0], "at", str(highPct[1]) + "%")
+        print("Team least effected by attendence level:", midPct[0], "at", str(midPct[1]) + "%")
         print("Team most negatively effected by attendence level:", lowPct[0], "at",  str(lowPct[1]) + "%\n")
 
 
-# In[89]:
+# In[13]:
 
 years = build_years_dict()
 
 
-# In[90]:
+# In[14]:
 
 find_supported_percentages(years)
 

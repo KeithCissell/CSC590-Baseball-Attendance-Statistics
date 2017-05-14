@@ -39,13 +39,13 @@ This percentage shows us if the attendance levels appear to help or hurt the out
 
 What the Supported Percentage means:
 
-Helped: if the __supported_percentage__ is well above 50%, this means that the size of the crowd helped the outcome
+Helped: if the __supported_percentage__ is well above 0%, this means that the size of the crowd helped the outcome
 
         (high attendance -> wins; low attendance -> losses)
 
-Indifferent: if the __supported_percentage__ is close to 50%, this means that the size of the crowd had no effect on the outcome
+Indifferent: if the __supported_percentage__ is close to 0%, this means that the size of the crowd had no effect on the outcome
 
-Hurt: if the __supported_percentage__ is well below 50%, this means that the size of the crowd hurt the outcome of the game
+Hurt: if the __supported_percentage__ is well below 0%, this means that the size of the crowd hurt the outcome of the game
 
         (high attendance -> losses; low attendance -> wins)
 
@@ -57,5 +57,6 @@ The Helped/Indifferent/Hurt scale for the __supported_percentage__ still holds t
 This stat can help to see how well certain teams tend to play while under pressure.
 
 ## Data Sources
+- http://www.retrosheet.org/
 - http://www.ballparksofbaseball.com/capacity.htm
 - http://www.seanlahman.com/baseball-archive/statistics/
