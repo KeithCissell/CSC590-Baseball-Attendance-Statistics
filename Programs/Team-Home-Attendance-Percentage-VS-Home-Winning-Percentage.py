@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[1]:
+# In[27]:
 
 import csv
 import numpy
@@ -10,7 +10,7 @@ from scipy.stats.stats import pearsonr
 get_ipython().magic('matplotlib inline')
 
 
-# In[2]:
+# In[28]:
 
 # File names
 teams_file = "Data//Teams.csv"
@@ -21,7 +21,7 @@ startyr = 1970
 endyr = 2016
 
 
-# In[3]:
+# In[29]:
 
 # Indicies
 # game logs
@@ -35,7 +35,7 @@ team_namex, avg_attx = 40, 42
 park_namex, capx = 1, 5
 
 
-# In[4]:
+# In[30]:
 
 def readcsv(fname):
     f = open(fname, 'r')
@@ -45,13 +45,14 @@ def readcsv(fname):
     return lines
 
 
-# In[21]:
+# In[31]:
 
 class Team:
     def __init__(self, team_name, teamid):
         self.name = team_name
         self.teamid = teamid
         self.years = {}
+        self.correlation = 0
     def addGame(self, game, year, cap):
         if year not in self.years:
             self.years[year] = YearData(year, cap)
@@ -62,9 +63,17 @@ class Team:
             year.setAvgAtt()
             year.setAttPct()
             year.setWinPct()
+    def calcCorrelation(self):
+        attendancePct = []
+        winningPct = []
+        for y in self.years:
+            year = self.years[y]
+            attendancePct.append(year.att_pct)
+            winningPct.append(year.win_pct)
+        self.correlation = pearsonr(attendancePct, winningPct)
 
 
-# In[22]:
+# In[32]:
 
 class YearData:
     def __init__(self, year, cap):
@@ -102,18 +111,19 @@ class YearData:
         self.win_pct = wins / num_games
 
 
-# In[23]:
+# In[33]:
 
 def build_teamid_ref(lines):
     d = {}
-    for line in lines:
+    sortedLines = sorted(lines, key=lambda y: y[yrx], reverse=True)
+    for line in sortedLines:
         teamid = line[teamidx]
         if teamid not in d:
             d[teamid] = line[team_namex]
     return d
 
 
-# In[24]:
+# In[34]:
 
 def build_park_ref(lines):
     d = {}
@@ -125,7 +135,7 @@ def build_park_ref(lines):
     return d
 
 
-# In[25]:
+# In[35]:
 
 # builds a dictionary -> {teamid: Team, ...}
 def build_teams_dict():
@@ -156,11 +166,12 @@ def build_teams_dict():
     # set attendance and win percentages
     for team in teams:
         teams[team].setStats()
+        teams[team].calcCorrelation()
     
     return teams
 
 
-# In[37]:
+# In[36]:
 
 def attendancePct_vs_winningPct(team):
     attendancePct = []
@@ -179,7 +190,7 @@ def attendancePct_vs_winningPct(team):
     plot_data(attendancePct, winningPct, xlabel, ylabel, title)
 
 
-# In[41]:
+# In[37]:
 
 def plot_data(X, Y, xlabel, ylabel, title):
     fig = plt.figure()
@@ -193,14 +204,14 @@ def plot_data(X, Y, xlabel, ylabel, title):
     print(title, "Correlation:", round(corr[0] * 100, 2))
 
 
-# In[42]:
+# In[38]:
 
 teams = build_teams_dict()
 
 
-# In[45]:
+# In[40]:
 
-sortedTeams = sorted(teams.keys())
+sortedTeams = sorted(teams, key=lambda x: teams[x].correlation, reverse=True)
 for tid in sortedTeams:
     team = teams[tid]
     attendancePct_vs_winningPct(team)

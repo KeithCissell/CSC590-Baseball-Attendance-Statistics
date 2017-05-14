@@ -89,7 +89,8 @@ class Team:
 
 def build_teamid_ref(lines):
     d = {}
-    for line in lines:
+    sortedLines = sorted(lines, key=lambda y: y[yrx], reverse=True)
+    for line in sortedLines:
         teamid = line[teamidx]
         if teamid not in d:
             d[teamid] = line[team_namex]
@@ -180,15 +181,6 @@ def plot_data(X, Y, xlabel, ylabel):
     
     corr = pearsonr(X, Y)
     print("Correlation:", round(corr[0] * 100, 2))
-
-
-# In[11]:
-
-# team_lines = readcsv(teams_file)
-# park_lines = readcsv(ballparks_file)
-# team_ref = build_teamid_ref(team_lines[1:])
-# parks_ref = build_park_ref(park_lines[1:])
-# print(parks_ref)
 
 
 # In[12]:

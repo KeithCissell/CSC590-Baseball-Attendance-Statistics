@@ -81,7 +81,8 @@ class Team:
 
 def build_teamid_ref(lines):
     d = {}
-    for line in lines:
+    sortedLines = sorted(lines, key=lambda y: y[yrx], reverse=True)
+    for line in sortedLines:
         teamid = line[teamidx]
         if teamid not in d:
             d[teamid] = line[team_namex]
@@ -124,7 +125,7 @@ def build_years_dict():
     return years
 
 
-# In[8]:
+# In[17]:
 
 # Analyzes game data to see if high attendance number translate to higher team performance
 def supported_percentage(years):
@@ -145,15 +146,17 @@ def supported_percentage(years):
                     elif att_dev < 0 and not team.win(game):
                         supported += 1
     # return the percentage of games that supports: high attendance -> high team performance
-    return round((supported / games_analyzed) * 100, 2)
+    preNormalized = (supported / games_analyzed) * 100
+    pctSupported = (preNormalized - 50) * 2
+    return round(pctSupported, 2)
 
 
-# In[9]:
+# In[18]:
 
 years = build_years_dict()
 
 
-# In[10]:
+# In[19]:
 
 sp = supported_percentage(years)
 print("The relation of high/low attendance to win/loss of game is", sp, "% supported.")
